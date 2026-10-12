@@ -1,0 +1,21 @@
+# ============================================================================
+# LAN Secure Chat - Server Configuration Example
+# Copy to server.properties or configure via Environment Variables
+# ============================================================================
+
+# Network Listener Port (TCP)
+SERVER_PORT=8443
+
+# Transport Security (TLS)
+TLS_ENABLED=true
+KEYSTORE_PATH=certs/server-keystore.p12
+KEYSTORE_PASSWORD=changeit
+
+# Server PostgreSQL Database Connection (Temporary Delivery Queue)
+DB_URL=jdbc:postgresql://127.0.0.1:5432/lan_chat_server
+DB_USER=postgres
+DB_PASSWORD=postgres
+
+# Python PDS Service (Local loopback only)
+PDS_ENDPOINT=http://127.0.0.1:5005/predict
+PDS_TIMEOUT_MS=1500

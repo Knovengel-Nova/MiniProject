@@ -1,0 +1,16 @@
+# ============================================================================
+# LAN Secure Chat - Client Configuration Example
+# Copy to client.properties or configure in the Swing Login Dialog
+# ============================================================================
+
+# Server Connection
+SERVER_HOST=127.0.0.1
+SERVER_PORT=8443
+TLS_ENABLED=true
+TRUSTSTORE_PATH=certs/client-truststore.p12
+TRUSTSTORE_PASSWORD=changeit
+
+# Local PostgreSQL Database Store (Per-Client PC)
+CLIENT_DB_URL=jdbc:postgresql://127.0.0.1:5432/lan_chat_client
+CLIENT_DB_USER=postgres
+CLIENT_DB_PASSWORD=postgres

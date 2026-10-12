@@ -1,0 +1,29 @@
+FILE: Phase 2\LAN_Secure_Chat_UML_Report.pdf
+TOTAL PAGES: 5
+
+=== PAGE 1 ===
+LAN-Based Secure Chatting Application
+ Mini Project Report
+ Topic: UML Diagrams
+Prepared by
+Amogh Sirsikar
+ Aryan Patil
+Malhar Nimbalkar
+
+
+=== PAGE 2 ===
+Use Case Diagram
+
+
+=== PAGE 3 ===
+Sequence Diagram
+
+
+=== PAGE 4 ===
+Class Diagram
+
+
+=== PAGE 5 ===
+Activity Diagram
+
+

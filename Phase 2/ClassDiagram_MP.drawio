@@ -1,0 +1,213 @@
+<mxfile host="app.diagrams.net" agent="Claude">
+  <diagram name="Class Diagram - LAN Secure Chat" id="Class_Diagram_-_LAN_Secure_Chat">
+    <mxGraphModel dx="1952" dy="1202" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1400" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title" parent="1" style="text;html=1;fontSize=18;fontStyle=1;align=left;" value="LAN-Based Secure Chatting Application – Class Diagram" vertex="1">
+          <mxGeometry height="30" width="1000" x="40" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="Client" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#ffffff;strokeColor=#000000;fontSize=11;spacingLeft=6;spacingRight=6;" value="&lt;div style=&quot;text-align:center;&quot;&gt;&lt;b&gt;Client&lt;/b&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot; style=&quot;margin:2px 0;&quot;/&gt;&lt;div style=&quot;text-align:left;&quot;&gt;-networkModule: NetworkModule&lt;br&gt;-authModule: AuthModule&lt;br&gt;-chatModule: ChatModule&lt;br&gt;-ui: UI&lt;/div&gt;&lt;hr size=&quot;1&quot; style=&quot;margin:2px 0;&quot;/&gt;&lt;div style=&quot;text-align:left;&quot;&gt;+connect(): void&lt;br&gt;+sendMessage(text: String): void&lt;br&gt;+displayMessage(m: Message): void&lt;br&gt;+displayClassification(prob: double, label: String): void&lt;/div&gt;" vertex="1">
+          <mxGeometry height="200" width="240" x="40" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="NetworkModule" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#ffffff;strokeColor=#000000;fontSize=11;spacingLeft=6;spacingRight=6;" value="&lt;div style=&quot;text-align:center;&quot;&gt;&lt;b&gt;NetworkModule&lt;/b&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot; style=&quot;margin:2px 0;&quot;/&gt;&lt;div style=&quot;text-align:left;&quot;&gt;-socket: Socket&lt;br&gt;-serverAddress: String&lt;br&gt;-port: int&lt;/div&gt;&lt;hr size=&quot;1&quot; style=&quot;margin:2px 0;&quot;/&gt;&lt;div style=&quot;text-align:left;&quot;&gt;+openConnection(): void&lt;br&gt;+retryConnection(): void&lt;br&gt;+onDisconnect(): void&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="160" x="50" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="AuthModule" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#ffffff;strokeColor=#000000;fontSize=11;spacingLeft=6;spacingRight=6;" value="&lt;div style=&quot;text-align:center;&quot;&gt;&lt;b&gt;AuthModule&lt;/b&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot; style=&quot;margin:2px 0;&quot;/&gt;&lt;div style=&quot;text-align:left;&quot;&gt;-username: String&lt;br&gt;-sessionToken: String&lt;/div&gt;&lt;hr size=&quot;1&quot; style=&quot;margin:2px 0;&quot;/&gt;&lt;div style=&quot;text-align:left;&quot;&gt;+login(u: String, p: String): void&lt;br&gt;+logout(): void&lt;br&gt;+register(u: String, p: String): void&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="170" x="90" y="870" as="geometry" />
+        </mxCell>
+        <mxCell id="User" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#ffffff;strokeColor=#000000;fontSize=11;spacingLeft=6;spacingRight=6;" value="&lt;div style=&quot;text-align:center;&quot;&gt;&lt;b&gt;User&lt;/b&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot; style=&quot;margin:2px 0;&quot;/&gt;&lt;div style=&quot;text-align:left;&quot;&gt;-user_id: int&lt;br&gt;-username: String&lt;br&gt;-password_hash: String&lt;br&gt;-status: String&lt;br&gt;-created_at: Date&lt;/div&gt;&lt;hr size=&quot;1&quot; style=&quot;margin:2px 0;&quot;/&gt;&lt;div style=&quot;text-align:left;&quot;&gt;+register(): int&lt;br&gt;+login(): boolean&lt;br&gt;+logout(): void&lt;/div&gt;" vertex="1">
+          <mxGeometry height="170" width="130" x="410" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Session" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#ffffff;strokeColor=#000000;fontSize=11;spacingLeft=6;spacingRight=6;" value="&lt;div style=&quot;text-align:center;&quot;&gt;&lt;b&gt;Session&lt;/b&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot; style=&quot;margin:2px 0;&quot;/&gt;&lt;div style=&quot;text-align:left;&quot;&gt;-sessionId: String&lt;br&gt;-user: User&lt;br&gt;-createdAt: Date&lt;br&gt;-status: String&lt;/div&gt;&lt;hr size=&quot;1&quot; style=&quot;margin:2px 0;&quot;/&gt;&lt;div style=&quot;text-align:left;&quot;&gt;+invalidate(): void&lt;br&gt;+isValid(): boolean&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="110" x="700" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Conversation" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#ffffff;strokeColor=#000000;fontSize=11;spacingLeft=6;spacingRight=6;" value="&lt;div style=&quot;text-align:center;&quot;&gt;&lt;b&gt;Conversation&lt;/b&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot; style=&quot;margin:2px 0;&quot;/&gt;&lt;div style=&quot;text-align:left;&quot;&gt;-conversation_id: int&lt;br&gt;-created_at: Date&lt;/div&gt;&lt;hr size=&quot;1&quot; style=&quot;margin:2px 0;&quot;/&gt;&lt;div style=&quot;text-align:left;&quot;&gt;+addMessage(m: Message): void&lt;br&gt;+getMessages(): List&lt;Message&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="140" x="410" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="Message" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#ffffff;strokeColor=#000000;fontSize=11;spacingLeft=6;spacingRight=6;" value="&lt;div style=&quot;text-align:center;&quot;&gt;&lt;b&gt;Message&lt;/b&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot; style=&quot;margin:2px 0;&quot;/&gt;&lt;div style=&quot;text-align:left;&quot;&gt;-message_id: int&lt;br&gt;-conversation_id: int&lt;br&gt;-sender_id: int&lt;br&gt;-message_text: String&lt;br&gt;-timestamp: Date&lt;br&gt;-classificationLabel: String&lt;br&gt;-classificationProb: double&lt;/div&gt;&lt;hr size=&quot;1&quot; style=&quot;margin:2px 0;&quot;/&gt;&lt;div style=&quot;text-align:left;&quot;&gt;+persist(): void&lt;br&gt;+getSender(): User&lt;/div&gt;" vertex="1">
+          <mxGeometry height="190" width="140" x="410" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="Server" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#ffffff;strokeColor=#000000;fontSize=11;spacingLeft=6;spacingRight=6;" value="&lt;div style=&quot;text-align:center;&quot;&gt;&lt;b&gt;Server&lt;/b&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot; style=&quot;margin:2px 0;&quot;/&gt;&lt;div style=&quot;text-align:left;&quot;&gt;-connectionManager: ConnectionManager&lt;br&gt;-authManager: AuthenticationManager&lt;br&gt;-messageRouter: MessageRouter&lt;br&gt;-dbManager: DatabaseManager&lt;br&gt;-pdsService: PDSService&lt;/div&gt;&lt;hr size=&quot;1&quot; style=&quot;margin:2px 0;&quot;/&gt;&lt;div style=&quot;text-align:left;&quot;&gt;+start(): void&lt;br&gt;+stop(): void&lt;/div&gt;" vertex="1">
+          <mxGeometry height="180" width="220" x="1030" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ConnectionManager" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#ffffff;strokeColor=#000000;fontSize=11;spacingLeft=6;spacingRight=6;" value="&lt;div style=&quot;text-align:center;&quot;&gt;&lt;b&gt;ConnectionManager&lt;/b&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot; style=&quot;margin:2px 0;&quot;/&gt;&lt;div style=&quot;text-align:left;&quot;&gt;-clients: List&lt;ClientHandler&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot; style=&quot;margin:2px 0;&quot;/&gt;&lt;div style=&quot;text-align:left;&quot;&gt;+acceptConnection(): void&lt;br&gt;+removeConnection(ch: ClientHandler): void&lt;/div&gt;" vertex="1">
+          <mxGeometry height="130" width="220" x="1000" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="ClientHandler" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#ffffff;strokeColor=#000000;fontSize=11;spacingLeft=6;spacingRight=6;" value="&lt;div style=&quot;text-align:center;&quot;&gt;&lt;b&gt;ClientHandler&lt;/b&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot; style=&quot;margin:2px 0;&quot;/&gt;&lt;div style=&quot;text-align:left;&quot;&gt;-clientSocket: Socket&lt;br&gt;-session: Session&lt;/div&gt;&lt;hr size=&quot;1&quot; style=&quot;margin:2px 0;&quot;/&gt;&lt;div style=&quot;text-align:left;&quot;&gt;+handleConnection(): void&lt;br&gt;+receiveMessage(): Message&lt;br&gt;+sendMessage(m: Message): void&lt;/div&gt;" vertex="1">
+          <mxGeometry height="150" width="180" x="1375" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="AuthenticationManager" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#ffffff;strokeColor=#000000;fontSize=11;spacingLeft=6;spacingRight=6;" value="&lt;div style=&quot;text-align:center;&quot;&gt;&lt;b&gt;AuthenticationManager&lt;/b&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot; style=&quot;margin:2px 0;&quot;/&gt;&lt;div style=&quot;text-align:left;&quot;&gt;-passwordHasher: PasswordHasher&lt;/div&gt;&lt;hr size=&quot;1&quot; style=&quot;margin:2px 0;&quot;/&gt;&lt;div style=&quot;text-align:left;&quot;&gt;+verifyCredentials(u: String, p: String): boolean&lt;br&gt;+createSession(u: User): Session&lt;br&gt;+invalidateSession(s: Session): void&lt;/div&gt;" vertex="1">
+          <mxGeometry height="150" width="220" x="1020" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="MessageRouter" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#ffffff;strokeColor=#000000;fontSize=11;spacingLeft=6;spacingRight=6;" value="&lt;div style=&quot;text-align:center;&quot;&gt;&lt;b&gt;MessageRouter&lt;/b&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot; style=&quot;margin:2px 0;&quot;/&gt;&lt;div style=&quot;text-align:left;&quot;&gt;-onlineUsers: Map&lt;int, ClientHandler&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot; style=&quot;margin:2px 0;&quot;/&gt;&lt;div style=&quot;text-align:left;&quot;&gt;+routeMessage(m: Message): void&lt;br&gt;+getOnlineUsers(): List&lt;User&gt;&lt;br&gt;+deliveryStatus(m: Message): String&lt;/div&gt;" vertex="1">
+          <mxGeometry height="150" width="190" x="1370" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="DatabaseManager" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#ffffff;strokeColor=#000000;fontSize=11;spacingLeft=6;spacingRight=6;" value="&lt;div style=&quot;text-align:center;&quot;&gt;&lt;b&gt;DatabaseManager&lt;/b&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot; style=&quot;margin:2px 0;&quot;/&gt;&lt;div style=&quot;text-align:left;&quot;&gt;-connectionPool: ConnectionPool&lt;/div&gt;&lt;hr size=&quot;1&quot; style=&quot;margin:2px 0;&quot;/&gt;&lt;div style=&quot;text-align:left;&quot;&gt;+saveUser(u: User): void&lt;br&gt;+saveMessage(m: Message): void&lt;br&gt;+getHistory(c: Conversation): List&lt;Message&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="150" width="280" x="1000" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="PDSService" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#ffffff;strokeColor=#000000;fontSize=11;spacingLeft=6;spacingRight=6;" value="&lt;div style=&quot;text-align:center;&quot;&gt;&lt;b&gt;PDSService&lt;/b&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot; style=&quot;margin:2px 0;&quot;/&gt;&lt;div style=&quot;text-align:left;&quot;&gt;-endpoint: String&lt;br&gt;-threshold: double&lt;/div&gt;&lt;hr size=&quot;1&quot; style=&quot;margin:2px 0;&quot;/&gt;&lt;div style=&quot;text-align:left;&quot;&gt;+classifyMessage(text: String): ClassificationResult&lt;br&gt;+estimateMetric(data: List&lt;double&gt;): double&lt;/div&gt;" vertex="1">
+          <mxGeometry height="150" width="180" x="1375" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="ClassificationResult" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#ffffff;strokeColor=#000000;fontSize=11;spacingLeft=6;spacingRight=6;" value="&lt;div style=&quot;text-align:center;&quot;&gt;&lt;b&gt;ClassificationResult&lt;/b&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot; style=&quot;margin:2px 0;&quot;/&gt;&lt;div style=&quot;text-align:left;&quot;&gt;-probability: double&lt;br&gt;-label: String&lt;/div&gt;&lt;hr size=&quot;1&quot; style=&quot;margin:2px 0;&quot;/&gt;&lt;div style=&quot;text-align:left;&quot;&gt;+isSpam(): boolean&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="120" x="1400" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="e3" edge="1" parent="1" source="Client" style="endArrow=open;html=1;fontSize=10;edgeStyle=orthogonalEdgeStyle;" target="Server" value="connects (TCP)  1        1">
+          <mxGeometry relative="1" x="0.2679" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="890" y="510" />
+              <mxPoint x="890" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e4" edge="1" parent="1" style="endArrow=diamond;endFill=1;html=1;fontSize=10;startSize=14;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="NetworkModule">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="660" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="shql9kyXg-5tDacS9xeI-7" connectable="0" parent="e4" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="1 1" vertex="1">
+          <mxGeometry relative="1" x="-0.0324" y="-1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e5" edge="1" parent="1" style="endArrow=diamond;endFill=1;html=1;fontSize=10;startSize=14;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="660" as="sourcePoint" />
+            <mxPoint x="230" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="shql9kyXg-5tDacS9xeI-8" connectable="0" parent="e5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="1 1" vertex="1">
+          <mxGeometry relative="1" x="-0.5132" y="2" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e6" edge="1" parent="1" style="endArrow=open;dashed=1;html=1;fontSize=10;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="User" value="authenticates">
+          <mxGeometry relative="1" x="-0.1293" y="-5" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="260" y="940.0285714285715" as="sourcePoint" />
+            <mxPoint x="340" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e7" edge="1" parent="1" source="User" style="endArrow=open;html=1;fontSize=10;exitX=1.013;exitY=0.415;exitDx=0;exitDy=0;exitPerimeter=0;" target="Session" value="1          1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e8" edge="1" parent="1" source="User" style="endArrow=open;html=1;fontSize=10;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.981;entryY=0.31;entryDx=0;entryDy=0;entryPerimeter=0;" target="Message" value="sends   1          *">
+          <mxGeometry relative="1" x="-0.0953" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="540" y="230.03" />
+              <mxPoint x="600" y="230.03" />
+              <mxPoint x="600" y="580.03" />
+              <mxPoint x="553.49" y="580.03" />
+              <mxPoint x="553.49" y="578.89" />
+            </Array>
+            <mxPoint x="579.9967441860467" y="270.0000000000001" as="sourcePoint" />
+            <mxPoint x="585.88" y="580.0285714285715" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e9" edge="1" parent="1" source="Conversation" style="endArrow=diamond;endFill=1;html=1;fontSize=10;startSize=14;exitX=0.429;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.433;entryY=0.002;entryDx=0;entryDy=0;entryPerimeter=0;" target="Message" value="1          *">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="460" as="sourcePoint" />
+            <mxPoint x="472.6677777777778" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e11" edge="1" parent="1" source="Server" style="endArrow=diamond;endFill=1;html=1;fontSize=10;startSize=14;exitX=0.374;exitY=1.004;exitDx=0;exitDy=0;exitPerimeter=0;" target="ConnectionManager">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="shql9kyXg-5tDacS9xeI-11" connectable="0" parent="e11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="1 1" vertex="1">
+          <mxGeometry relative="1" x="-0.5085" y="4" as="geometry">
+            <mxPoint x="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e12" edge="1" parent="1" style="endArrow=diamond;endFill=1;html=1;fontSize=10;startSize=14;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="1240" y="280.0000000000001" as="sourcePoint" />
+            <mxPoint x="1240" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e14" edge="1" parent="1" source="Server" style="endArrow=diamond;endFill=1;html=1;fontSize=10;startSize=14;edgeStyle=orthogonalEdgeStyle;exitX=0.008;exitY=0.841;exitDx=0;exitDy=0;exitPerimeter=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1031.83" y="250" />
+              <mxPoint x="963.08" y="250" />
+              <mxPoint x="963.08" y="729.83" />
+            </Array>
+            <mxPoint x="1020.0000000000001" y="250.05000000000004" as="sourcePoint" />
+            <mxPoint x="1003.08" y="729.83" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="shql9kyXg-5tDacS9xeI-10" connectable="0" parent="e14" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="1 1" vertex="1">
+          <mxGeometry relative="1" x="-0.6283" y="-3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e16" edge="1" parent="1" source="ConnectionManager" style="endArrow=diamondThin;endFill=0;html=1;fontSize=10;startSize=14;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="1          1..*">
+          <mxGeometry relative="1" x="-0.7333" y="75" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="1370" y="405" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="shql9kyXg-5tDacS9xeI-12" connectable="0" parent="e16" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="1 0..*" vertex="1">
+          <mxGeometry relative="1" x="-0.0933" y="-1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e17" edge="1" parent="1" source="ClientHandler" style="endArrow=open;dashed=1;html=1;fontSize=10;" target="AuthenticationManager" value="uses">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e18" edge="1" parent="1" source="ClientHandler" style="endArrow=open;dashed=1;html=1;fontSize=10;" target="MessageRouter" value="uses">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e19" edge="1" parent="1" source="MessageRouter" style="endArrow=open;dashed=1;html=1;fontSize=10;" target="DatabaseManager" value="uses">
+          <mxGeometry relative="1" x="0.4575" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e20" edge="1" parent="1" source="MessageRouter" style="endArrow=open;dashed=1;html=1;fontSize=10;" value="uses">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1461.88" y="680" />
+            </Array>
+            <mxPoint x="1461.88" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e21" edge="1" parent="1" source="AuthenticationManager" style="endArrow=open;dashed=1;html=1;fontSize=10;" target="DatabaseManager" value="verifies via">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e22" edge="1" parent="1" style="endArrow=open;dashed=1;html=1;fontSize=10;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="Message" value="persists">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="999.9999999999998" y="812.5" as="sourcePoint" />
+            <mxPoint x="480.0344827586207" y="727.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e24" edge="1" parent="1" source="PDSService" style="endArrow=open;html=1;fontSize=10;" target="ClassificationResult" value="uses">
+          <mxGeometry relative="1" x="-0.3333" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e25" edge="1" parent="1" source="Message" style="endArrow=diamondThin;endFill=0;html=1;fontSize=10;startSize=14;edgeStyle=orthogonalEdgeStyle;" target="ClassificationResult" value="1          0..1">
+          <mxGeometry relative="1" x="-0.4876" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="1600.06" y="680.06" />
+              <mxPoint x="1600.06" y="955" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="shql9kyXg-5tDacS9xeI-5" edge="1" parent="1" style="endArrow=diamond;endFill=1;html=1;fontSize=10;startSize=14;entryX=0.433;entryY=0.002;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="461" y="270" as="sourcePoint" />
+            <mxPoint x="461" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="shql9kyXg-5tDacS9xeI-6" connectable="0" parent="shql9kyXg-5tDacS9xeI-5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="* *" vertex="1">
+          <mxGeometry relative="1" x="-0.0566" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

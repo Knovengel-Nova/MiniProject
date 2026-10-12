@@ -1,0 +1,1501 @@
+text,category,message_length,suspicious_term_count,suspicious_term_ratio,url_count,excessive_punctuation_count,uppercase_ratio,digit_ratio,risk_score
+Where did you save the UML diagrams? See you at 4 PM.,normal,53.0,0.0,0.0,0.0,1.0,0.1795,0.0189,0.0851
+Let's meet at 4 PM in the library to discuss the project.,normal,57.0,0.0,0.0,0.0,0.0,0.0698,0.0175,0.0987
+Review this document immediately if possible: https://docs.sharepoint.com/r/1284,moderate,80.0,1.0,0.0833,1.0,0.0,0.0161,0.05,0.3644
+The assignment submission deadline is tomorrow at 5 PM.,normal,55.0,0.0,0.0,0.0,0.0,0.0667,0.0182,0.0659
+I am working on the database module right now. See you at 1 PM.,normal,63.0,0.0,0.0,0.0,0.0,0.0851,0.0159,0.1058
+"Thanks for the update, that looks great!",normal,40.0,0.0,0.0,0.0,1.0,0.0312,0.0,0.06
+Found this useful reference for Linear Regression: https://scikit-learn.org,moderate,75.0,0.0,0.0,1.0,0.0,0.0484,0.0,0.1944
+Security Alert: Unauthorized login attempt detected! Confirm your credentials and SSN now: http://bank-security-verify.org,high_risk,122.0,6.0,0.3529,1.0,1.0,0.0693,0.0,0.7509
+Immediate action required! Your mailbox is full! Verify password at http://mail-upgrade-server.net to avoid deletion! Code: 62530! HURRY!,high_risk,137.0,3.0,0.1429,1.0,5.0,0.0865,0.0365,0.7117
+Review this document immediately if possible: https://docs.sharepoint.com/r/1284,moderate,80.0,1.0,0.0833,1.0,0.0,0.0161,0.05,0.351
+Bank Alert: Your wire transfer was put on hold. Verify bank credentials immediately at http://secure-bank-login.xyz Code: 34116! HURRY!,high_risk,135.0,8.0,0.3636,1.0,2.0,0.098,0.037,0.7697
+Let's meet at 4 PM in the library to discuss the project.,normal,57.0,0.0,0.0,0.0,0.0,0.0698,0.0175,0.0666
+I am working on the database module right now. See you at 11 PM.,normal,64.0,0.0,0.0,0.0,0.0,0.0851,0.0312,0.0908
+could someone review my pull request? see you at 11 pm.,normal,55.0,0.0,0.0,0.0,1.0,0.0,0.0364,0.0937
+Everything compiled cleanly on my machine. See you at 11 PM.,normal,60.0,0.0,0.0,0.0,0.0,0.087,0.0333,0.1015
+Could someone review my pull request? See you at 6 PM.,normal,54.0,0.0,0.0,0.0,1.0,0.0976,0.0185,0.1016
+Did you push your commits to the repository?,normal,44.0,0.0,0.0,0.0,1.0,0.0278,0.0,0.0892
+Are we meeting in room 302 or 304?,normal,34.0,0.0,0.0,0.0,1.0,0.05,0.1765,0.1107
+Is PostgreSQL running on your laptop?,normal,37.0,0.0,0.0,0.0,1.0,0.1613,0.0,0.0731
+let's verify the requirements traceability matrix.,normal,50.0,1.0,0.1429,0.0,0.0,0.0,0.0,0.2987
+Check out this interesting article at https://techblog.org/networking-guide,moderate,75.0,0.0,0.0,1.0,0.0,0.0159,0.0,0.1747
+Immediate action required! Your mailbox is full! Verify password at http://mail-upgrade-server.net to avoid deletion!,high_risk,117.0,3.0,0.1667,1.0,3.0,0.0316,0.0,0.6959
+Free bitcoin giveaway! Double your crypto in 24 hours! Login now: http://crypto-free-coins.cc/claim?id=99,high_risk,105.0,7.0,0.3684,1.0,3.0,0.0385,0.0381,0.7515
+i will be 10 minutes late to the group meeting. see you at 5 pm.,normal,64.0,0.0,0.0,0.0,0.0,0.0,0.0469,0.1042
+ACTION REQUIRED: Wire transfer $1000 to avoid account deactivation immediately! Click http://quick-wire-pay.net Code: 55134! HURRY!,high_risk,131.0,6.0,0.3158,1.0,4.0,0.2292,0.0687,0.8013
+let's test the socket connection over the lan switch.,normal,53.0,0.0,0.0,0.0,0.0,0.0,0.0,0.075
+You won a free iPhone 16! Winner #49281. Claim your reward immediately: http://gift-winner-free.net/redeem!!,high_risk,108.0,6.0,0.3333,1.0,3.0,0.0526,0.0648,0.7736
+have you had lunch yet? let's grab something from the canteen. see you at 2 pm.,normal,79.0,0.0,0.0,0.0,1.0,0.0,0.0127,0.0939
+"Thanks for the update, that looks great!",normal,40.0,0.0,0.0,0.0,1.0,0.0312,0.0,0.093
+ACTION REQUIRED: Wire transfer $1000 to avoid account deactivation immediately! Click http://quick-wire-pay.net Code: 37102! HURRY!,high_risk,131.0,6.0,0.3158,1.0,4.0,0.2292,0.0687,0.8038
+Review this document immediately if possible: https://docs.sharepoint.com/r/1284,moderate,80.0,1.0,0.0833,1.0,0.0,0.0161,0.05,0.3634
+The assignment submission deadline is tomorrow at 5 PM.,normal,55.0,0.0,0.0,0.0,0.0,0.0667,0.0182,0.1044
+Bank Alert: Your wire transfer was put on hold. Verify bank credentials immediately at http://secure-bank-login.xyz Code: 98011! HURRY!,high_risk,135.0,8.0,0.3636,1.0,2.0,0.098,0.037,0.7557
+Bank Alert: Your wire transfer was put on hold. Verify bank credentials immediately at http://secure-bank-login.xyz,high_risk,115.0,8.0,0.4211,1.0,0.0,0.043,0.0,0.6954
+Free bitcoin giveaway! Double your crypto in 24 hours! Login now: http://crypto-free-coins.cc/claim?id=99,high_risk,105.0,7.0,0.3684,1.0,3.0,0.0385,0.0381,0.756
+Please submit your project credentials form to the coordinator.,moderate,63.0,0.0,0.0,0.0,0.0,0.0185,0.0,0.0833
+ACTION REQUIRED: Wire transfer $1000 to avoid account deactivation immediately! Click http://quick-wire-pay.net,high_risk,111.0,6.0,0.375,1.0,2.0,0.1839,0.036,0.7363
+URGENT: Your account has been suspended! Verify your password immediately at http://login-secure-portal.com/auth,high_risk,112.0,7.0,0.4118,1.0,1.0,0.087,0.0,0.7495
+Is this link safe? https://dev-resources.net/download-pack,moderate,58.0,0.0,0.0,1.0,1.0,0.0217,0.0,0.1856
+where did you save the uml diagrams?,normal,36.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0605
+"Thanks for the update, that looks great! See you at 12 PM.",normal,58.0,0.0,0.0,0.0,1.0,0.0952,0.0345,0.1165
+Did you push your commits to the repository? See you at 12 PM.,normal,62.0,0.0,0.0,0.0,1.0,0.087,0.0323,0.0827
+Free bitcoin giveaway! Double your crypto in 24 hours! Login now: http://crypto-free-coins.cc/claim?id=99,high_risk,105.0,7.0,0.3684,1.0,3.0,0.0385,0.0381,0.797
+Let's meet at 4 PM in the library to discuss the project.,normal,57.0,0.0,0.0,0.0,0.0,0.0698,0.0175,0.0948
+URGENT: Your account has been suspended! Verify your password immediately at http://login-secure-portal.com/auth Code: 55351! HURRY!,high_risk,132.0,7.0,0.35,1.0,3.0,0.1386,0.0379,0.7818
+The mini project presentation is scheduled for next Monday.,normal,59.0,0.0,0.0,0.0,0.0,0.04,0.0,0.0544
+can you share the notes from the morning lecture?,normal,49.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0836
+Quick reminder: please verify your attendance record on the portal today. Ref #145.,moderate,83.0,1.0,0.0769,0.0,0.0,0.0312,0.0361,0.2613
+Where did you save the UML diagrams? See you at 10 PM.,normal,54.0,0.0,0.0,0.0,1.0,0.1795,0.037,0.099
+URGENT: Your account has been suspended! Verify your password immediately at http://login-secure-portal.com/auth,high_risk,112.0,7.0,0.4118,1.0,1.0,0.087,0.0,0.7225
+I am working on the database module right now.,normal,46.0,0.0,0.0,0.0,0.0,0.027,0.0,0.0756
+Have you had lunch yet? Let's grab something from the canteen.,normal,62.0,0.0,0.0,0.0,1.0,0.0408,0.0,0.0907
+We need to add unit tests before submitting.,normal,44.0,0.0,0.0,0.0,0.0,0.0278,0.0,0.0816
+is postgresql running on your laptop? see you at 2 pm.,normal,54.0,0.0,0.0,0.0,1.0,0.0,0.0185,0.083
+You won a free iPhone 16! Winner #49281. Claim your reward immediately: http://gift-winner-free.net/redeem!!,high_risk,108.0,6.0,0.3333,1.0,3.0,0.0526,0.0648,0.7767
+I am working on the database module right now. See you at 3 PM.,normal,63.0,0.0,0.0,0.0,0.0,0.0851,0.0159,0.1144
+Bank Alert: Your wire transfer was put on hold. Verify bank credentials immediately at http://secure-bank-login.xyz Code: 91048! HURRY!,high_risk,135.0,8.0,0.3636,1.0,2.0,0.098,0.037,0.7544
+the assignment submission deadline is tomorrow at 5 pm. see you at 11 pm.,normal,73.0,0.0,0.0,0.0,0.0,0.0,0.0411,0.0792
+We need to add unit tests before submitting.,normal,44.0,0.0,0.0,0.0,0.0,0.0278,0.0,0.0424
+i am working on the database module right now.,normal,46.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0603
+Bank Alert: Your wire transfer was put on hold. Verify bank credentials immediately at http://secure-bank-login.xyz Code: 81182! HURRY!,high_risk,135.0,8.0,0.3636,1.0,2.0,0.098,0.037,0.7904
+Let's verify the requirements traceability matrix. See you at 1 PM.,normal,67.0,1.0,0.0833,0.0,0.0,0.0755,0.0149,0.2539
+the mini project presentation is scheduled for next monday.,normal,59.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1068
+Bank Alert: Your wire transfer was put on hold. Verify bank credentials immediately at http://secure-bank-login.xyz,high_risk,115.0,8.0,0.4211,1.0,0.0,0.043,0.0,0.7198
+Please send the PDF version of the report.,normal,42.0,0.0,0.0,0.0,0.0,0.1176,0.0,0.0587
+Are we meeting in room 302 or 304? See you at 3 PM.,normal,51.0,0.0,0.0,0.0,1.0,0.1333,0.1373,0.089
+CONGRATULATIONS!! You have won the $5000 lottery prize!! Claim your gift card here: http://win-prize-now.biz/claim,high_risk,114.0,7.0,0.3684,1.0,5.0,0.2024,0.0351,0.8008
+Everything compiled cleanly on my machine.,normal,42.0,0.0,0.0,0.0,0.0,0.0278,0.0,0.0568
+URGENT: Your account has been suspended! Verify your password immediately at http://login-secure-portal.com/auth,high_risk,112.0,7.0,0.4118,1.0,1.0,0.087,0.0,0.7094
+I am working on the database module right now.,normal,46.0,0.0,0.0,0.0,0.0,0.027,0.0,0.0656
+Is this link safe? https://dev-resources.net/download-pack,moderate,58.0,0.0,0.0,1.0,1.0,0.0217,0.0,0.1703
+Quick reminder: please verify your attendance record on the portal today.,moderate,73.0,1.0,0.0909,0.0,0.0,0.0164,0.0,0.2501
+Found this useful reference for Linear Regression: https://scikit-learn.org,moderate,75.0,0.0,0.0,1.0,0.0,0.0484,0.0,0.1622
+Found this useful reference for Linear Regression: https://scikit-learn.org,moderate,75.0,0.0,0.0,1.0,0.0,0.0484,0.0,0.15
+Free bitcoin giveaway! Double your crypto in 24 hours! Login now: http://crypto-free-coins.cc/claim?id=99 Code: 91039! HURRY!,high_risk,125.0,7.0,0.3182,1.0,5.0,0.1034,0.072,0.7922
+Everything compiled cleanly on my machine.,normal,42.0,0.0,0.0,0.0,0.0,0.0278,0.0,0.0709
+Found this useful reference for Linear Regression: https://scikit-learn.org,moderate,75.0,0.0,0.0,1.0,0.0,0.0484,0.0,0.1788
+let's meet at 4 pm in the library to discuss the project.,normal,57.0,0.0,0.0,0.0,0.0,0.0,0.0175,0.0611
+Immediate action required! Your mailbox is full! Verify password at http://mail-upgrade-server.net to avoid deletion! Code: 94663! HURRY!,high_risk,137.0,3.0,0.1429,1.0,5.0,0.0865,0.0365,0.731
+Free bitcoin giveaway! Double your crypto in 24 hours! Login now: http://crypto-free-coins.cc/claim?id=99,high_risk,105.0,7.0,0.3684,1.0,3.0,0.0385,0.0381,0.7634
+Don't forget to update your profile info before 6 PM today. Ref #716.,moderate,69.0,0.0,0.0,0.0,0.0,0.0816,0.058,0.0977
+Is PostgreSQL running on your laptop?,normal,37.0,0.0,0.0,0.0,1.0,0.1613,0.0,0.1133
+Please send the PDF version of the report.,normal,42.0,0.0,0.0,0.0,0.0,0.1176,0.0,0.08
+Everything compiled cleanly on my machine.,normal,42.0,0.0,0.0,0.0,0.0,0.0278,0.0,0.0663
+Review this document immediately if possible: https://docs.sharepoint.com/r/1284,moderate,80.0,1.0,0.0833,1.0,0.0,0.0161,0.05,0.3502
+Good morning everyone! Please check the shared document.,normal,56.0,0.0,0.0,0.0,1.0,0.0426,0.0,0.1183
+Please send the PDF version of the report.,normal,42.0,0.0,0.0,0.0,0.0,0.1176,0.0,0.075
+Security Alert: Unauthorized login attempt detected! Confirm your credentials and SSN now: http://bank-security-verify.org,high_risk,122.0,6.0,0.3529,1.0,1.0,0.0693,0.0,0.7349
+did you push your commits to the repository?,normal,44.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0941
+Good morning everyone! Please check the shared document. See you at 2 PM.,normal,73.0,0.0,0.0,0.0,1.0,0.0877,0.0137,0.1099
+We need to add unit tests before submitting. See you at 6 PM.,normal,61.0,0.0,0.0,0.0,0.0,0.087,0.0164,0.0923
+Let's test the socket connection over the LAN switch.,normal,53.0,0.0,0.0,0.0,0.0,0.093,0.0,0.086
+good morning everyone! please check the shared document. see you at 11 pm.,normal,74.0,0.0,0.0,0.0,1.0,0.0,0.027,0.1059
+Bank Alert: Your wire transfer was put on hold. Verify bank credentials immediately at http://secure-bank-login.xyz,high_risk,115.0,8.0,0.4211,1.0,0.0,0.043,0.0,0.7109
+Hey! Look at this new library release: http://github.com/tools/release-v2,moderate,73.0,0.0,0.0,1.0,1.0,0.0357,0.0137,0.161
+Did you push your commits to the repository? See you at 4 PM.,normal,61.0,0.0,0.0,0.0,1.0,0.087,0.0164,0.0893
+"Hey, are you coming to the lab today?",normal,37.0,0.0,0.0,0.0,1.0,0.0357,0.0,0.0891
+The assignment submission deadline is tomorrow at 5 PM. See you at 5 PM.,normal,72.0,0.0,0.0,0.0,0.0,0.1091,0.0278,0.0871
+I will be 10 minutes late to the group meeting.,normal,47.0,0.0,0.0,0.0,0.0,0.0286,0.0426,0.0611
+Can you share the notes from the morning lecture? See you at 10 PM.,normal,67.0,0.0,0.0,0.0,1.0,0.08,0.0299,0.1015
+Free bitcoin giveaway! Double your crypto in 24 hours! Login now: http://crypto-free-coins.cc/claim?id=99,high_risk,105.0,7.0,0.3684,1.0,3.0,0.0385,0.0381,0.7627
+CONGRATULATIONS!! You have won the $5000 lottery prize!! Claim your gift card here: http://win-prize-now.biz/claim,high_risk,114.0,7.0,0.3684,1.0,5.0,0.2024,0.0351,0.8004
+are we meeting in room 302 or 304?,normal,34.0,0.0,0.0,0.0,1.0,0.0,0.1765,0.0885
+Bank Alert: Your wire transfer was put on hold. Verify bank credentials immediately at http://secure-bank-login.xyz Code: 98702! HURRY!,high_risk,135.0,8.0,0.3636,1.0,2.0,0.098,0.037,0.7484
+"hey, are you coming to the lab today?",normal,37.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0744
+we need to add unit tests before submitting.,normal,44.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0714
+The assignment submission deadline is tomorrow at 5 PM.,normal,55.0,0.0,0.0,0.0,0.0,0.0667,0.0182,0.0748
+Please submit your project credentials form to the coordinator. Ref #573.,moderate,73.0,0.0,0.0,0.0,0.0,0.0351,0.0411,0.0856
+Don't forget to update your profile info before 6 PM today. Ref #274.,moderate,69.0,0.0,0.0,0.0,0.0,0.0816,0.058,0.1094
+Can you share the notes from the morning lecture? See you at 5 PM.,normal,66.0,0.0,0.0,0.0,1.0,0.08,0.0152,0.1036
+You won a free iPhone 16! Winner #49281. Claim your reward immediately: http://gift-winner-free.net/redeem!!,high_risk,108.0,6.0,0.3333,1.0,3.0,0.0526,0.0648,0.7573
+Let's meet at 4 PM in the library to discuss the project.,normal,57.0,0.0,0.0,0.0,0.0,0.0698,0.0175,0.0813
+Where did you save the UML diagrams?,normal,36.0,0.0,0.0,0.0,1.0,0.1379,0.0,0.0823
+I will be 10 minutes late to the group meeting. See you at 4 PM.,normal,64.0,0.0,0.0,0.0,0.0,0.0889,0.0469,0.0934
+Is this link safe? https://dev-resources.net/download-pack,moderate,58.0,0.0,0.0,1.0,1.0,0.0217,0.0,0.1747
+The mini project presentation is scheduled for next Monday.,normal,59.0,0.0,0.0,0.0,0.0,0.04,0.0,0.1352
+I will be 10 minutes late to the group meeting. See you at 2 PM.,normal,64.0,0.0,0.0,0.0,0.0,0.0889,0.0469,0.0603
+URGENT NOTICE: IRS tax refund of $2450 pending. Click http://refund-irs-claim.gov.fake.org to claim before midnight!,high_risk,116.0,5.0,0.25,1.0,2.0,0.1839,0.0345,0.7577
+i am working on the database module right now. see you at 2 pm.,normal,63.0,0.0,0.0,0.0,0.0,0.0,0.0159,0.0712
+URGENT: Your account has been suspended! Verify your password immediately at http://login-secure-portal.com/auth Code: 17113! HURRY!,high_risk,132.0,7.0,0.35,1.0,3.0,0.1386,0.0379,0.7881
+ACTION REQUIRED: Wire transfer $1000 to avoid account deactivation immediately! Click http://quick-wire-pay.net,high_risk,111.0,6.0,0.375,1.0,2.0,0.1839,0.036,0.7374
+The mini project presentation is scheduled for next Monday.,normal,59.0,0.0,0.0,0.0,0.0,0.04,0.0,0.0804
+Found this useful reference for Linear Regression: https://scikit-learn.org,moderate,75.0,0.0,0.0,1.0,0.0,0.0484,0.0,0.1602
+Found this useful reference for Linear Regression: https://scikit-learn.org Ref #974.,moderate,85.0,0.0,0.0,1.0,0.0,0.0615,0.0353,0.1661
+Security Alert: Unauthorized login attempt detected! Confirm your credentials and SSN now: http://bank-security-verify.org,high_risk,122.0,6.0,0.3529,1.0,1.0,0.0693,0.0,0.7189
+Please submit your project credentials form to the coordinator.,moderate,63.0,0.0,0.0,0.0,0.0,0.0185,0.0,0.0939
+Could someone review my pull request? See you at 2 PM.,normal,54.0,0.0,0.0,0.0,1.0,0.0976,0.0185,0.1217
+Let's test the socket connection over the LAN switch.,normal,53.0,0.0,0.0,0.0,0.0,0.093,0.0,0.0471
+I will be 10 minutes late to the group meeting.,normal,47.0,0.0,0.0,0.0,0.0,0.0286,0.0426,0.0806
+Hey! Look at this new library release: http://github.com/tools/release-v2,moderate,73.0,0.0,0.0,1.0,1.0,0.0357,0.0137,0.2065
+Check out this interesting article at https://techblog.org/networking-guide,moderate,75.0,0.0,0.0,1.0,0.0,0.0159,0.0,0.1744
+Let's meet at 4 PM in the library to discuss the project.,normal,57.0,0.0,0.0,0.0,0.0,0.0698,0.0175,0.1015
+I will be 10 minutes late to the group meeting.,normal,47.0,0.0,0.0,0.0,0.0,0.0286,0.0426,0.0693
+Is PostgreSQL running on your laptop? See you at 3 PM.,normal,54.0,0.0,0.0,0.0,1.0,0.1951,0.0185,0.117
+Did you push your commits to the repository? See you at 6 PM.,normal,61.0,0.0,0.0,0.0,1.0,0.087,0.0164,0.1177
+"Hey, are you coming to the lab today? See you at 10 PM.",normal,55.0,0.0,0.0,0.0,1.0,0.1053,0.0364,0.0784
+Hey! Look at this new library release: http://github.com/tools/release-v2,moderate,73.0,0.0,0.0,1.0,1.0,0.0357,0.0137,0.1777
+"hey, are you coming to the lab today? see you at 2 pm.",normal,54.0,0.0,0.0,0.0,1.0,0.0,0.0185,0.0959
+Good morning everyone! Please check the shared document.,normal,56.0,0.0,0.0,0.0,1.0,0.0426,0.0,0.0988
+Did you push your commits to the repository? See you at 6 PM.,normal,61.0,0.0,0.0,0.0,1.0,0.087,0.0164,0.089
+ACTION REQUIRED: Wire transfer $1000 to avoid account deactivation immediately! Click http://quick-wire-pay.net Code: 92132! HURRY!,high_risk,131.0,6.0,0.3158,1.0,4.0,0.2292,0.0687,0.7942
+We need to add unit tests before submitting.,normal,44.0,0.0,0.0,0.0,0.0,0.0278,0.0,0.0631
+You won a free iPhone 16! Winner #49281. Claim your reward immediately: http://gift-winner-free.net/redeem!! Code: 98542! HURRY!,high_risk,128.0,6.0,0.2857,1.0,5.0,0.1176,0.0938,0.8082
+Quick reminder: please verify your attendance record on the portal today.,moderate,73.0,1.0,0.0909,0.0,0.0,0.0164,0.0,0.2777
+Please send the PDF version of the report.,normal,42.0,0.0,0.0,0.0,0.0,0.1176,0.0,0.0529
+URGENT NOTICE: IRS tax refund of $2450 pending. Click http://refund-irs-claim.gov.fake.org to claim before midnight! Code: 44634! HURRY!,high_risk,136.0,5.0,0.2174,1.0,4.0,0.2292,0.0662,0.7763
+Bank Alert: Your wire transfer was put on hold. Verify bank credentials immediately at http://secure-bank-login.xyz Code: 93105! HURRY!,high_risk,135.0,8.0,0.3636,1.0,2.0,0.098,0.037,0.7583
+Please send the PDF version of the report.,normal,42.0,0.0,0.0,0.0,0.0,0.1176,0.0,0.0655
+Can you share the notes from the morning lecture?,normal,49.0,0.0,0.0,0.0,1.0,0.025,0.0,0.1004
+Found this useful reference for Linear Regression: https://scikit-learn.org Ref #942.,moderate,85.0,0.0,0.0,1.0,0.0,0.0615,0.0353,0.1741
+Immediate action required! Your mailbox is full! Verify password at http://mail-upgrade-server.net to avoid deletion!,high_risk,117.0,3.0,0.1667,1.0,3.0,0.0316,0.0,0.7068
+Let's meet at 4 PM in the library to discuss the project. See you at 4 PM.,normal,74.0,0.0,0.0,0.0,0.0,0.1132,0.027,0.0961
+"Thanks for the update, that looks great! See you at 2 PM.",normal,57.0,0.0,0.0,0.0,1.0,0.0952,0.0175,0.1074
+Can you share the notes from the morning lecture?,normal,49.0,0.0,0.0,0.0,1.0,0.025,0.0,0.0681
+"Thanks for the update, that looks great!",normal,40.0,0.0,0.0,0.0,1.0,0.0312,0.0,0.0792
+Everything compiled cleanly on my machine. See you at 6 PM.,normal,59.0,0.0,0.0,0.0,0.0,0.087,0.0169,0.0905
+"Thanks for the update, that looks great! See you at 9 PM.",normal,57.0,0.0,0.0,0.0,1.0,0.0952,0.0175,0.1374
+Where did you save the UML diagrams?,normal,36.0,0.0,0.0,0.0,1.0,0.1379,0.0,0.0887
+Everything compiled cleanly on my machine.,normal,42.0,0.0,0.0,0.0,0.0,0.0278,0.0,0.0743
+Could someone review my pull request?,normal,37.0,0.0,0.0,0.0,1.0,0.0323,0.0,0.0652
+"Thanks for the update, that looks great!",normal,40.0,0.0,0.0,0.0,1.0,0.0312,0.0,0.0764
+Can you share the notes from the morning lecture? See you at 11 PM.,normal,67.0,0.0,0.0,0.0,1.0,0.08,0.0299,0.119
+I am working on the database module right now. See you at 1 PM.,normal,63.0,0.0,0.0,0.0,0.0,0.0851,0.0159,0.0859
+could someone review my pull request?,normal,37.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0732
+The assignment submission deadline is tomorrow at 5 PM.,normal,55.0,0.0,0.0,0.0,0.0,0.0667,0.0182,0.0772
+Everything compiled cleanly on my machine.,normal,42.0,0.0,0.0,0.0,0.0,0.0278,0.0,0.0452
+Check out this interesting article at https://techblog.org/networking-guide,moderate,75.0,0.0,0.0,1.0,0.0,0.0159,0.0,0.1486
+Is this link safe? https://dev-resources.net/download-pack,moderate,58.0,0.0,0.0,1.0,1.0,0.0217,0.0,0.1822
+the mini project presentation is scheduled for next monday. see you at 11 pm.,normal,77.0,0.0,0.0,0.0,0.0,0.0,0.026,0.0764
+URGENT: Your account has been suspended! Verify your password immediately at http://login-secure-portal.com/auth,high_risk,112.0,7.0,0.4118,1.0,1.0,0.087,0.0,0.7547
+Hey! Look at this new library release: http://github.com/tools/release-v2,moderate,73.0,0.0,0.0,1.0,1.0,0.0357,0.0137,0.1957
+Bank Alert: Your wire transfer was put on hold. Verify bank credentials immediately at http://secure-bank-login.xyz Code: 30869! HURRY!,high_risk,135.0,8.0,0.3636,1.0,2.0,0.098,0.037,0.761
+Good morning everyone! Please check the shared document. See you at 12 PM.,normal,74.0,0.0,0.0,0.0,1.0,0.0877,0.027,0.1173
+Immediate action required! Your mailbox is full! Verify password at http://mail-upgrade-server.net to avoid deletion!,high_risk,117.0,3.0,0.1667,1.0,3.0,0.0316,0.0,0.6801
+Let's verify the requirements traceability matrix.,normal,50.0,1.0,0.1429,0.0,0.0,0.0233,0.0,0.2932
+Found this useful reference for Linear Regression: https://scikit-learn.org,moderate,75.0,0.0,0.0,1.0,0.0,0.0484,0.0,0.146
+ACTION REQUIRED: Wire transfer $1000 to avoid account deactivation immediately! Click http://quick-wire-pay.net Code: 91201! HURRY!,high_risk,131.0,6.0,0.3158,1.0,4.0,0.2292,0.0687,0.8377
+Could someone review my pull request? See you at 5 PM.,normal,54.0,0.0,0.0,0.0,1.0,0.0976,0.0185,0.1195
+Immediate action required! Your mailbox is full! Verify password at http://mail-upgrade-server.net to avoid deletion!,high_risk,117.0,3.0,0.1667,1.0,3.0,0.0316,0.0,0.7163
+Hey! Look at this new library release: http://github.com/tools/release-v2 Ref #514.,moderate,83.0,0.0,0.0,1.0,1.0,0.0508,0.0482,0.175
+We need to add unit tests before submitting. See you at 1 PM.,normal,61.0,0.0,0.0,0.0,0.0,0.087,0.0164,0.075
+The assignment submission deadline is tomorrow at 5 PM.,normal,55.0,0.0,0.0,0.0,0.0,0.0667,0.0182,0.084
+I am working on the database module right now.,normal,46.0,0.0,0.0,0.0,0.0,0.027,0.0,0.0741
+Quick reminder: please verify your attendance record on the portal today.,moderate,73.0,1.0,0.0909,0.0,0.0,0.0164,0.0,0.2882
+could someone review my pull request?,normal,37.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0714
+"Thanks for the update, that looks great!",normal,40.0,0.0,0.0,0.0,1.0,0.0312,0.0,0.0786
+Don't forget to update your profile info before 6 PM today.,moderate,59.0,0.0,0.0,0.0,0.0,0.0652,0.0169,0.0959
+Did you push your commits to the repository?,normal,44.0,0.0,0.0,0.0,1.0,0.0278,0.0,0.0637
+Where did you save the UML diagrams?,normal,36.0,0.0,0.0,0.0,1.0,0.1379,0.0,0.1106
+CONGRATULATIONS!! You have won the $5000 lottery prize!! Claim your gift card here: http://win-prize-now.biz/claim,high_risk,114.0,7.0,0.3684,1.0,5.0,0.2024,0.0351,0.8247
+Quick reminder: please verify your attendance record on the portal today.,moderate,73.0,1.0,0.0909,0.0,0.0,0.0164,0.0,0.2676
+Where did you save the UML diagrams?,normal,36.0,0.0,0.0,0.0,1.0,0.1379,0.0,0.1157
+Good morning everyone! Please check the shared document.,normal,56.0,0.0,0.0,0.0,1.0,0.0426,0.0,0.0811
+Free bitcoin giveaway! Double your crypto in 24 hours! Login now: http://crypto-free-coins.cc/claim?id=99,high_risk,105.0,7.0,0.3684,1.0,3.0,0.0385,0.0381,0.7869
+Quick reminder: please verify your attendance record on the portal today.,moderate,73.0,1.0,0.0909,0.0,0.0,0.0164,0.0,0.2676
+Please fill out this survey form for our seminar: https://forms.college.edu/survey,moderate,82.0,0.0,0.0,1.0,0.0,0.0152,0.0,0.1936
+"Thanks for the update, that looks great!",normal,40.0,0.0,0.0,0.0,1.0,0.0312,0.0,0.1051
+The mini project presentation is scheduled for next Monday.,normal,59.0,0.0,0.0,0.0,0.0,0.04,0.0,0.0777
+Have you had lunch yet? Let's grab something from the canteen.,normal,62.0,0.0,0.0,0.0,1.0,0.0408,0.0,0.1063
+can you share the notes from the morning lecture? see you at 6 pm.,normal,66.0,0.0,0.0,0.0,1.0,0.0,0.0152,0.0744
+The assignment submission deadline is tomorrow at 5 PM.,normal,55.0,0.0,0.0,0.0,0.0,0.0667,0.0182,0.0888
+Is this link safe? https://dev-resources.net/download-pack Ref #375.,moderate,68.0,0.0,0.0,1.0,1.0,0.0408,0.0441,0.1991
+Check out this interesting article at https://techblog.org/networking-guide,moderate,75.0,0.0,0.0,1.0,0.0,0.0159,0.0,0.1819
+have you had lunch yet? let's grab something from the canteen.,normal,62.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0918
+the assignment submission deadline is tomorrow at 5 pm.,normal,55.0,0.0,0.0,0.0,0.0,0.0,0.0182,0.0633
+Found this useful reference for Linear Regression: https://scikit-learn.org,moderate,75.0,0.0,0.0,1.0,0.0,0.0484,0.0,0.1836
+CONGRATULATIONS!! You have won the $5000 lottery prize!! Claim your gift card here: http://win-prize-now.biz/claim,high_risk,114.0,7.0,0.3684,1.0,5.0,0.2024,0.0351,0.8095
+Don't forget to update your profile info before 6 PM today. Ref #316.,moderate,69.0,0.0,0.0,0.0,0.0,0.0816,0.058,0.1038
+"Thanks for the update, that looks great!",normal,40.0,0.0,0.0,0.0,1.0,0.0312,0.0,0.0803
+Did you push your commits to the repository?,normal,44.0,0.0,0.0,0.0,1.0,0.0278,0.0,0.0585
+CONGRATULATIONS!! You have won the $5000 lottery prize!! Claim your gift card here: http://win-prize-now.biz/claim,high_risk,114.0,7.0,0.3684,1.0,5.0,0.2024,0.0351,0.8002
+have you had lunch yet? let's grab something from the canteen. see you at 7 pm.,normal,79.0,0.0,0.0,0.0,1.0,0.0,0.0127,0.0768
+Please fill out this survey form for our seminar: https://forms.college.edu/survey,moderate,82.0,0.0,0.0,1.0,0.0,0.0152,0.0,0.1718
+Please send the PDF version of the report.,normal,42.0,0.0,0.0,0.0,0.0,0.1176,0.0,0.0584
+the assignment submission deadline is tomorrow at 5 pm.,normal,55.0,0.0,0.0,0.0,0.0,0.0,0.0182,0.0737
+Don't forget to update your profile info before 6 PM today.,moderate,59.0,0.0,0.0,0.0,0.0,0.0652,0.0169,0.0782
+Where did you save the UML diagrams?,normal,36.0,0.0,0.0,0.0,1.0,0.1379,0.0,0.0874
+Bank Alert: Your wire transfer was put on hold. Verify bank credentials immediately at http://secure-bank-login.xyz Code: 15326! HURRY!,high_risk,135.0,8.0,0.3636,1.0,2.0,0.098,0.037,0.7639
+The assignment submission deadline is tomorrow at 5 PM.,normal,55.0,0.0,0.0,0.0,0.0,0.0667,0.0182,0.1046
+The assignment submission deadline is tomorrow at 5 PM.,normal,55.0,0.0,0.0,0.0,0.0,0.0667,0.0182,0.0589
+You won a free iPhone 16! Winner #49281. Claim your reward immediately: http://gift-winner-free.net/redeem!! Code: 59774! HURRY!,high_risk,128.0,6.0,0.2857,1.0,5.0,0.1176,0.0938,0.8007
+Check out this interesting article at https://techblog.org/networking-guide Ref #687.,moderate,85.0,0.0,0.0,1.0,0.0,0.0303,0.0353,0.1634
+Let's meet at 4 PM in the library to discuss the project. See you at 10 PM.,normal,75.0,0.0,0.0,0.0,0.0,0.1132,0.04,0.0841
+could someone review my pull request? see you at 12 pm.,normal,55.0,0.0,0.0,0.0,1.0,0.0,0.0364,0.1112
+Immediate action required! Your mailbox is full! Verify password at http://mail-upgrade-server.net to avoid deletion!,high_risk,117.0,3.0,0.1667,1.0,3.0,0.0316,0.0,0.6879
+Found this useful reference for Linear Regression: https://scikit-learn.org,moderate,75.0,0.0,0.0,1.0,0.0,0.0484,0.0,0.1852
+Where did you save the UML diagrams? See you at 2 PM.,normal,53.0,0.0,0.0,0.0,1.0,0.1795,0.0189,0.0778
+Are we meeting in room 302 or 304? See you at 2 PM.,normal,51.0,0.0,0.0,0.0,1.0,0.1333,0.1373,0.1023
+URGENT: Your account has been suspended! Verify your password immediately at http://login-secure-portal.com/auth,high_risk,112.0,7.0,0.4118,1.0,1.0,0.087,0.0,0.7438
+Good morning everyone! Please check the shared document. See you at 2 PM.,normal,73.0,0.0,0.0,0.0,1.0,0.0877,0.0137,0.0774
+Everything compiled cleanly on my machine.,normal,42.0,0.0,0.0,0.0,0.0,0.0278,0.0,0.0564
+Found this useful reference for Linear Regression: https://scikit-learn.org,moderate,75.0,0.0,0.0,1.0,0.0,0.0484,0.0,0.1615
+Did you push your commits to the repository? See you at 2 PM.,normal,61.0,0.0,0.0,0.0,1.0,0.087,0.0164,0.0957
+PASSWORD EXPIRED!! Click http://sysadmin-reset-now.top to update your network password now or lose access!!,high_risk,107.0,2.0,0.1176,1.0,4.0,0.1882,0.0,0.5638
+PASSWORD EXPIRED!! Click http://sysadmin-reset-now.top to update your network password now or lose access!! Code: 69048! HURRY!,high_risk,127.0,2.0,0.1,1.0,6.0,0.234,0.0394,0.576
+Let's verify the requirements traceability matrix. See you at 12 PM.,normal,68.0,1.0,0.0833,0.0,0.0,0.0755,0.0294,0.2763
+The mini project presentation is scheduled for next Monday.,normal,59.0,0.0,0.0,0.0,0.0,0.04,0.0,0.067
+You won a free iPhone 16! Winner #49281. Claim your reward immediately: http://gift-winner-free.net/redeem!!,high_risk,108.0,6.0,0.3333,1.0,3.0,0.0526,0.0648,0.743
+Are we meeting in room 302 or 304? See you at 11 PM.,normal,52.0,0.0,0.0,0.0,1.0,0.1333,0.1538,0.1067
+Let's meet at 4 PM in the library to discuss the project. See you at 9 PM.,normal,74.0,0.0,0.0,0.0,0.0,0.1132,0.027,0.1137
+I am working on the database module right now. See you at 9 PM.,normal,63.0,0.0,0.0,0.0,0.0,0.0851,0.0159,0.0907
+i will be 10 minutes late to the group meeting. see you at 12 pm.,normal,65.0,0.0,0.0,0.0,0.0,0.0,0.0615,0.0738
+Please send the PDF version of the report.,normal,42.0,0.0,0.0,0.0,0.0,0.1176,0.0,0.0858
+Is this link safe? https://dev-resources.net/download-pack Ref #629.,moderate,68.0,0.0,0.0,1.0,1.0,0.0408,0.0441,0.1995
+I am working on the database module right now.,normal,46.0,0.0,0.0,0.0,0.0,0.027,0.0,0.0425
+CONGRATULATIONS!! You have won the $5000 lottery prize!! Claim your gift card here: http://win-prize-now.biz/claim Code: 89511! HURRY!,high_risk,134.0,7.0,0.3182,1.0,7.0,0.2473,0.0672,0.8236
+You won a free iPhone 16! Winner #49281. Claim your reward immediately: http://gift-winner-free.net/redeem!! Code: 21807! HURRY!,high_risk,128.0,6.0,0.2857,1.0,5.0,0.1176,0.0938,0.818
+i am working on the database module right now.,normal,46.0,0.0,0.0,0.0,0.0,0.0,0.0,0.054
+URGENT NOTICE: IRS tax refund of $2450 pending. Click http://refund-irs-claim.gov.fake.org to claim before midnight!,high_risk,116.0,5.0,0.25,1.0,2.0,0.1839,0.0345,0.7682
+Can you check if this API endpoint works? http://192.168.1.15:8080/status,moderate,73.0,0.0,0.0,1.0,1.0,0.093,0.1781,0.1886
+Check out this interesting article at https://techblog.org/networking-guide,moderate,75.0,0.0,0.0,1.0,0.0,0.0159,0.0,0.1788
+Check out this interesting article at https://techblog.org/networking-guide,moderate,75.0,0.0,0.0,1.0,0.0,0.0159,0.0,0.1723
+Is this link safe? https://dev-resources.net/download-pack,moderate,58.0,0.0,0.0,1.0,1.0,0.0217,0.0,0.1812
+Let's test the socket connection over the LAN switch.,normal,53.0,0.0,0.0,0.0,0.0,0.093,0.0,0.0888
+Could someone review my pull request?,normal,37.0,0.0,0.0,0.0,1.0,0.0323,0.0,0.0912
+Immediate action required! Your mailbox is full! Verify password at http://mail-upgrade-server.net to avoid deletion!,high_risk,117.0,3.0,0.1667,1.0,3.0,0.0316,0.0,0.703
+"Hey, are you coming to the lab today?",normal,37.0,0.0,0.0,0.0,1.0,0.0357,0.0,0.1
+Could someone review my pull request? See you at 6 PM.,normal,54.0,0.0,0.0,0.0,1.0,0.0976,0.0185,0.0862
+Please fill out this survey form for our seminar: https://forms.college.edu/survey,moderate,82.0,0.0,0.0,1.0,0.0,0.0152,0.0,0.1663
+could someone review my pull request?,normal,37.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0893
+The mini project presentation is scheduled for next Monday.,normal,59.0,0.0,0.0,0.0,0.0,0.04,0.0,0.0587
+where did you save the uml diagrams?,normal,36.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0941
+Let's meet at 4 PM in the library to discuss the project. See you at 7 PM.,normal,74.0,0.0,0.0,0.0,0.0,0.1132,0.027,0.0755
+Hey! Look at this new library release: http://github.com/tools/release-v2,moderate,73.0,0.0,0.0,1.0,1.0,0.0357,0.0137,0.2069
+Please fill out this survey form for our seminar: https://forms.college.edu/survey,moderate,82.0,0.0,0.0,1.0,0.0,0.0152,0.0,0.1729
+Is this link safe? https://dev-resources.net/download-pack,moderate,58.0,0.0,0.0,1.0,1.0,0.0217,0.0,0.1565
+could someone review my pull request?,normal,37.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0595
+Review this document immediately if possible: https://docs.sharepoint.com/r/1284,moderate,80.0,1.0,0.0833,1.0,0.0,0.0161,0.05,0.341
+Let's meet at 4 PM in the library to discuss the project.,normal,57.0,0.0,0.0,0.0,0.0,0.0698,0.0175,0.0937
+Where did you save the UML diagrams? See you at 3 PM.,normal,53.0,0.0,0.0,0.0,1.0,0.1795,0.0189,0.1026
+Could someone review my pull request?,normal,37.0,0.0,0.0,0.0,1.0,0.0323,0.0,0.096
+Immediate action required! Your mailbox is full! Verify password at http://mail-upgrade-server.net to avoid deletion!,high_risk,117.0,3.0,0.1667,1.0,3.0,0.0316,0.0,0.7293
+Have you had lunch yet? Let's grab something from the canteen.,normal,62.0,0.0,0.0,0.0,1.0,0.0408,0.0,0.0729
+could someone review my pull request?,normal,37.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0729
+The mini project presentation is scheduled for next Monday. See you at 3 PM.,normal,76.0,0.0,0.0,0.0,0.0,0.0833,0.0132,0.0987
+Please send the PDF version of the report.,normal,42.0,0.0,0.0,0.0,0.0,0.1176,0.0,0.0766
+Immediate action required! Your mailbox is full! Verify password at http://mail-upgrade-server.net to avoid deletion!,high_risk,117.0,3.0,0.1667,1.0,3.0,0.0316,0.0,0.7091
+ACTION REQUIRED: Wire transfer $1000 to avoid account deactivation immediately! Click http://quick-wire-pay.net,high_risk,111.0,6.0,0.375,1.0,2.0,0.1839,0.036,0.7546
+I am working on the database module right now. See you at 9 PM.,normal,63.0,0.0,0.0,0.0,0.0,0.0851,0.0159,0.0679
+everything compiled cleanly on my machine.,normal,42.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0656
+can you share the notes from the morning lecture?,normal,49.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0707
+Where did you save the UML diagrams?,normal,36.0,0.0,0.0,0.0,1.0,0.1379,0.0,0.0813
+Could someone review my pull request? See you at 5 PM.,normal,54.0,0.0,0.0,0.0,1.0,0.0976,0.0185,0.085
+Let's test the socket connection over the LAN switch. See you at 3 PM.,normal,70.0,0.0,0.0,0.0,0.0,0.1321,0.0143,0.1013
+The mini project presentation is scheduled for next Monday.,normal,59.0,0.0,0.0,0.0,0.0,0.04,0.0,0.0574
+Everything compiled cleanly on my machine.,normal,42.0,0.0,0.0,0.0,0.0,0.0278,0.0,0.0584
+Let's meet at 4 PM in the library to discuss the project.,normal,57.0,0.0,0.0,0.0,0.0,0.0698,0.0175,0.0885
+PASSWORD EXPIRED!! Click http://sysadmin-reset-now.top to update your network password now or lose access!!,high_risk,107.0,2.0,0.1176,1.0,4.0,0.1882,0.0,0.5673
+let's test the socket connection over the lan switch.,normal,53.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0774
+I will be 10 minutes late to the group meeting. See you at 2 PM.,normal,64.0,0.0,0.0,0.0,0.0,0.0889,0.0469,0.0663
+Could someone review my pull request?,normal,37.0,0.0,0.0,0.0,1.0,0.0323,0.0,0.0787
+The mini project presentation is scheduled for next Monday.,normal,59.0,0.0,0.0,0.0,0.0,0.04,0.0,0.0765
+PASSWORD EXPIRED!! Click http://sysadmin-reset-now.top to update your network password now or lose access!!,high_risk,107.0,2.0,0.1176,1.0,4.0,0.1882,0.0,0.5646
+URGENT: Your account has been suspended! Verify your password immediately at http://login-secure-portal.com/auth,high_risk,112.0,7.0,0.4118,1.0,1.0,0.087,0.0,0.7689
+CONGRATULATIONS!! You have won the $5000 lottery prize!! Claim your gift card here: http://win-prize-now.biz/claim Code: 66847! HURRY!,high_risk,134.0,7.0,0.3182,1.0,7.0,0.2473,0.0672,0.8155
+Security Alert: Unauthorized login attempt detected! Confirm your credentials and SSN now: http://bank-security-verify.org Code: 87430! HURRY!,high_risk,142.0,6.0,0.3,1.0,3.0,0.1182,0.0352,0.8013
+Free bitcoin giveaway! Double your crypto in 24 hours! Login now: http://crypto-free-coins.cc/claim?id=99 Code: 16564! HURRY!,high_risk,125.0,7.0,0.3182,1.0,5.0,0.1034,0.072,0.7842
+The assignment submission deadline is tomorrow at 5 PM.,normal,55.0,0.0,0.0,0.0,0.0,0.0667,0.0182,0.0679
+Everything compiled cleanly on my machine.,normal,42.0,0.0,0.0,0.0,0.0,0.0278,0.0,0.0768
+Let's test the socket connection over the LAN switch.,normal,53.0,0.0,0.0,0.0,0.0,0.093,0.0,0.0728
+I will be 10 minutes late to the group meeting.,normal,47.0,0.0,0.0,0.0,0.0,0.0286,0.0426,0.0582
+Is this link safe? https://dev-resources.net/download-pack,moderate,58.0,0.0,0.0,1.0,1.0,0.0217,0.0,0.1384
+Everything compiled cleanly on my machine. See you at 6 PM.,normal,59.0,0.0,0.0,0.0,0.0,0.087,0.0169,0.0673
+Immediate action required! Your mailbox is full! Verify password at http://mail-upgrade-server.net to avoid deletion!,high_risk,117.0,3.0,0.1667,1.0,3.0,0.0316,0.0,0.7125
+Is this link safe? https://dev-resources.net/download-pack,moderate,58.0,0.0,0.0,1.0,1.0,0.0217,0.0,0.1566
+PASSWORD EXPIRED!! Click http://sysadmin-reset-now.top to update your network password now or lose access!!,high_risk,107.0,2.0,0.1176,1.0,4.0,0.1882,0.0,0.5569
+Have you had lunch yet? Let's grab something from the canteen.,normal,62.0,0.0,0.0,0.0,1.0,0.0408,0.0,0.0987
+Check out this interesting article at https://techblog.org/networking-guide,moderate,75.0,0.0,0.0,1.0,0.0,0.0159,0.0,0.1441
+I am working on the database module right now.,normal,46.0,0.0,0.0,0.0,0.0,0.027,0.0,0.0747
+Review this document immediately if possible: https://docs.sharepoint.com/r/1284 Ref #955.,moderate,90.0,1.0,0.0714,1.0,0.0,0.0308,0.0778,0.3303
+URGENT: Your account has been suspended! Verify your password immediately at http://login-secure-portal.com/auth,high_risk,112.0,7.0,0.4118,1.0,1.0,0.087,0.0,0.7364
+Have you had lunch yet? Let's grab something from the canteen.,normal,62.0,0.0,0.0,0.0,1.0,0.0408,0.0,0.0771
+Hey! Look at this new library release: http://github.com/tools/release-v2,moderate,73.0,0.0,0.0,1.0,1.0,0.0357,0.0137,0.1622
+PASSWORD EXPIRED!! Click http://sysadmin-reset-now.top to update your network password now or lose access!!,high_risk,107.0,2.0,0.1176,1.0,4.0,0.1882,0.0,0.5791
+where did you save the uml diagrams?,normal,36.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0988
+Let's verify the requirements traceability matrix.,normal,50.0,1.0,0.1429,0.0,0.0,0.0233,0.0,0.2997
+Security Alert: Unauthorized login attempt detected! Confirm your credentials and SSN now: http://bank-security-verify.org,high_risk,122.0,6.0,0.3529,1.0,1.0,0.0693,0.0,0.74
+PASSWORD EXPIRED!! Click http://sysadmin-reset-now.top to update your network password now or lose access!! Code: 96732! HURRY!,high_risk,127.0,2.0,0.1,1.0,6.0,0.234,0.0394,0.5914
+Bank Alert: Your wire transfer was put on hold. Verify bank credentials immediately at http://secure-bank-login.xyz,high_risk,115.0,8.0,0.4211,1.0,0.0,0.043,0.0,0.7414
+PASSWORD EXPIRED!! Click http://sysadmin-reset-now.top to update your network password now or lose access!! Code: 94331! HURRY!,high_risk,127.0,2.0,0.1,1.0,6.0,0.234,0.0394,0.5495
+PASSWORD EXPIRED!! Click http://sysadmin-reset-now.top to update your network password now or lose access!! Code: 44471! HURRY!,high_risk,127.0,2.0,0.1,1.0,6.0,0.234,0.0394,0.5619
+Are we meeting in room 302 or 304?,normal,34.0,0.0,0.0,0.0,1.0,0.05,0.1765,0.0762
+The assignment submission deadline is tomorrow at 5 PM.,normal,55.0,0.0,0.0,0.0,0.0,0.0667,0.0182,0.0805
+Is PostgreSQL running on your laptop?,normal,37.0,0.0,0.0,0.0,1.0,0.1613,0.0,0.1021
+Let's meet at 4 PM in the library to discuss the project.,normal,57.0,0.0,0.0,0.0,0.0,0.0698,0.0175,0.0817
+Have you had lunch yet? Let's grab something from the canteen. See you at 2 PM.,normal,79.0,0.0,0.0,0.0,1.0,0.0847,0.0127,0.1135
+Found this useful reference for Linear Regression: https://scikit-learn.org,moderate,75.0,0.0,0.0,1.0,0.0,0.0484,0.0,0.176
+Security Alert: Unauthorized login attempt detected! Confirm your credentials and SSN now: http://bank-security-verify.org,high_risk,122.0,6.0,0.3529,1.0,1.0,0.0693,0.0,0.7443
+Is this link safe? https://dev-resources.net/download-pack,moderate,58.0,0.0,0.0,1.0,1.0,0.0217,0.0,0.1689
+We need to add unit tests before submitting. See you at 2 PM.,normal,61.0,0.0,0.0,0.0,0.0,0.087,0.0164,0.0889
+Please send the PDF version of the report.,normal,42.0,0.0,0.0,0.0,0.0,0.1176,0.0,0.0467
+"thanks for the update, that looks great!",normal,40.0,0.0,0.0,0.0,1.0,0.0,0.0,0.1062
+Where did you save the UML diagrams? See you at 9 PM.,normal,53.0,0.0,0.0,0.0,1.0,0.1795,0.0189,0.0824
+I will be 10 minutes late to the group meeting.,normal,47.0,0.0,0.0,0.0,0.0,0.0286,0.0426,0.0865
+did you push your commits to the repository? see you at 9 pm.,normal,61.0,0.0,0.0,0.0,1.0,0.0,0.0164,0.0993
+Found this useful reference for Linear Regression: https://scikit-learn.org Ref #576.,moderate,85.0,0.0,0.0,1.0,0.0,0.0615,0.0353,0.1863
+Let's verify the requirements traceability matrix. See you at 10 PM.,normal,68.0,1.0,0.0833,0.0,0.0,0.0755,0.0294,0.2307
+Is PostgreSQL running on your laptop? See you at 6 PM.,normal,54.0,0.0,0.0,0.0,1.0,0.1951,0.0185,0.1247
+Bank Alert: Your wire transfer was put on hold. Verify bank credentials immediately at http://secure-bank-login.xyz Code: 75382! HURRY!,high_risk,135.0,8.0,0.3636,1.0,2.0,0.098,0.037,0.768
+The mini project presentation is scheduled for next Monday.,normal,59.0,0.0,0.0,0.0,0.0,0.04,0.0,0.0669
+ACTION REQUIRED: Wire transfer $1000 to avoid account deactivation immediately! Click http://quick-wire-pay.net,high_risk,111.0,6.0,0.375,1.0,2.0,0.1839,0.036,0.7541
+Let's test the socket connection over the LAN switch.,normal,53.0,0.0,0.0,0.0,0.0,0.093,0.0,0.0811
+Hey! Look at this new library release: http://github.com/tools/release-v2,moderate,73.0,0.0,0.0,1.0,1.0,0.0357,0.0137,0.1912
+Can you share the notes from the morning lecture? See you at 3 PM.,normal,66.0,0.0,0.0,0.0,1.0,0.08,0.0152,0.0821
+Bank Alert: Your wire transfer was put on hold. Verify bank credentials immediately at http://secure-bank-login.xyz,high_risk,115.0,8.0,0.4211,1.0,0.0,0.043,0.0,0.7014
+Let's test the socket connection over the LAN switch.,normal,53.0,0.0,0.0,0.0,0.0,0.093,0.0,0.1047
+Immediate action required! Your mailbox is full! Verify password at http://mail-upgrade-server.net to avoid deletion! Code: 78337! HURRY!,high_risk,137.0,3.0,0.1429,1.0,5.0,0.0865,0.0365,0.7435
+Please send the PDF version of the report.,normal,42.0,0.0,0.0,0.0,0.0,0.1176,0.0,0.0869
+Review this document immediately if possible: https://docs.sharepoint.com/r/1284,moderate,80.0,1.0,0.0833,1.0,0.0,0.0161,0.05,0.3289
+Can you check if this API endpoint works? http://192.168.1.15:8080/status,moderate,73.0,0.0,0.0,1.0,1.0,0.093,0.1781,0.1931
+URGENT NOTICE: IRS tax refund of $2450 pending. Click http://refund-irs-claim.gov.fake.org to claim before midnight!,high_risk,116.0,5.0,0.25,1.0,2.0,0.1839,0.0345,0.792
+"thanks for the update, that looks great!",normal,40.0,0.0,0.0,0.0,1.0,0.0,0.0,0.1064
+Did you push your commits to the repository?,normal,44.0,0.0,0.0,0.0,1.0,0.0278,0.0,0.1049
+good morning everyone! please check the shared document.,normal,56.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0669
+You won a free iPhone 16! Winner #49281. Claim your reward immediately: http://gift-winner-free.net/redeem!!,high_risk,108.0,6.0,0.3333,1.0,3.0,0.0526,0.0648,0.7556
+Is this link safe? https://dev-resources.net/download-pack,moderate,58.0,0.0,0.0,1.0,1.0,0.0217,0.0,0.2083
+Quick reminder: please verify your attendance record on the portal today.,moderate,73.0,1.0,0.0909,0.0,0.0,0.0164,0.0,0.265
+Have you had lunch yet? Let's grab something from the canteen.,normal,62.0,0.0,0.0,0.0,1.0,0.0408,0.0,0.1049
+"Thanks for the update, that looks great!",normal,40.0,0.0,0.0,0.0,1.0,0.0312,0.0,0.0906
+I am working on the database module right now. See you at 9 PM.,normal,63.0,0.0,0.0,0.0,0.0,0.0851,0.0159,0.0777
+"Thanks for the update, that looks great! See you at 12 PM.",normal,58.0,0.0,0.0,0.0,1.0,0.0952,0.0345,0.0885
+Found this useful reference for Linear Regression: https://scikit-learn.org Ref #203.,moderate,85.0,0.0,0.0,1.0,0.0,0.0615,0.0353,0.1651
+Security Alert: Unauthorized login attempt detected! Confirm your credentials and SSN now: http://bank-security-verify.org Code: 52287! HURRY!,high_risk,142.0,6.0,0.3,1.0,3.0,0.1182,0.0352,0.8196
+I am working on the database module right now. See you at 12 PM.,normal,64.0,0.0,0.0,0.0,0.0,0.0851,0.0312,0.0845
+Did you push your commits to the repository? See you at 8 PM.,normal,61.0,0.0,0.0,0.0,1.0,0.087,0.0164,0.1172
+Is PostgreSQL running on your laptop? See you at 11 PM.,normal,55.0,0.0,0.0,0.0,1.0,0.1951,0.0364,0.1003
+i am working on the database module right now. see you at 3 pm.,normal,63.0,0.0,0.0,0.0,0.0,0.0,0.0159,0.0527
+Could someone review my pull request? See you at 7 PM.,normal,54.0,0.0,0.0,0.0,1.0,0.0976,0.0185,0.1049
+Free bitcoin giveaway! Double your crypto in 24 hours! Login now: http://crypto-free-coins.cc/claim?id=99,high_risk,105.0,7.0,0.3684,1.0,3.0,0.0385,0.0381,0.755
+Don't forget to update your profile info before 6 PM today.,moderate,59.0,0.0,0.0,0.0,0.0,0.0652,0.0169,0.0983
+Please submit your project credentials form to the coordinator.,moderate,63.0,0.0,0.0,0.0,0.0,0.0185,0.0,0.0791
+Hey! Look at this new library release: http://github.com/tools/release-v2,moderate,73.0,0.0,0.0,1.0,1.0,0.0357,0.0137,0.1668
+Check out this interesting article at https://techblog.org/networking-guide,moderate,75.0,0.0,0.0,1.0,0.0,0.0159,0.0,0.1815
+Let's verify the requirements traceability matrix.,normal,50.0,1.0,0.1429,0.0,0.0,0.0233,0.0,0.3086
+The assignment submission deadline is tomorrow at 5 PM.,normal,55.0,0.0,0.0,0.0,0.0,0.0667,0.0182,0.0679
+Is PostgreSQL running on your laptop?,normal,37.0,0.0,0.0,0.0,1.0,0.1613,0.0,0.0952
+Please send the PDF version of the report.,normal,42.0,0.0,0.0,0.0,0.0,0.1176,0.0,0.0478
+Could someone review my pull request? See you at 7 PM.,normal,54.0,0.0,0.0,0.0,1.0,0.0976,0.0185,0.084
+We need to add unit tests before submitting.,normal,44.0,0.0,0.0,0.0,0.0,0.0278,0.0,0.0785
+PASSWORD EXPIRED!! Click http://sysadmin-reset-now.top to update your network password now or lose access!!,high_risk,107.0,2.0,0.1176,1.0,4.0,0.1882,0.0,0.603
+Is this link safe? https://dev-resources.net/download-pack,moderate,58.0,0.0,0.0,1.0,1.0,0.0217,0.0,0.1868
+"Hey, are you coming to the lab today?",normal,37.0,0.0,0.0,0.0,1.0,0.0357,0.0,0.1018
+"Hey, are you coming to the lab today?",normal,37.0,0.0,0.0,0.0,1.0,0.0357,0.0,0.0881
+Let's verify the requirements traceability matrix.,normal,50.0,1.0,0.1429,0.0,0.0,0.0233,0.0,0.2855
+Hey! Look at this new library release: http://github.com/tools/release-v2,moderate,73.0,0.0,0.0,1.0,1.0,0.0357,0.0137,0.1897
+URGENT NOTICE: IRS tax refund of $2450 pending. Click http://refund-irs-claim.gov.fake.org to claim before midnight!,high_risk,116.0,5.0,0.25,1.0,2.0,0.1839,0.0345,0.7575
+where did you save the uml diagrams?,normal,36.0,0.0,0.0,0.0,1.0,0.0,0.0,0.085
+Everything compiled cleanly on my machine. See you at 7 PM.,normal,59.0,0.0,0.0,0.0,0.0,0.087,0.0169,0.0946
+I will be 10 minutes late to the group meeting. See you at 4 PM.,normal,64.0,0.0,0.0,0.0,0.0,0.0889,0.0469,0.0891
+Is PostgreSQL running on your laptop? See you at 2 PM.,normal,54.0,0.0,0.0,0.0,1.0,0.1951,0.0185,0.0929
+Check out this interesting article at https://techblog.org/networking-guide,moderate,75.0,0.0,0.0,1.0,0.0,0.0159,0.0,0.167
+Is this link safe? https://dev-resources.net/download-pack,moderate,58.0,0.0,0.0,1.0,1.0,0.0217,0.0,0.153
+Free bitcoin giveaway! Double your crypto in 24 hours! Login now: http://crypto-free-coins.cc/claim?id=99,high_risk,105.0,7.0,0.3684,1.0,3.0,0.0385,0.0381,0.7746
+We need to add unit tests before submitting.,normal,44.0,0.0,0.0,0.0,0.0,0.0278,0.0,0.0463
+"Thanks for the update, that looks great!",normal,40.0,0.0,0.0,0.0,1.0,0.0312,0.0,0.0798
+"Hey, are you coming to the lab today?",normal,37.0,0.0,0.0,0.0,1.0,0.0357,0.0,0.0914
+Can you share the notes from the morning lecture?,normal,49.0,0.0,0.0,0.0,1.0,0.025,0.0,0.102
+Hey! Look at this new library release: http://github.com/tools/release-v2 Ref #103.,moderate,83.0,0.0,0.0,1.0,1.0,0.0508,0.0482,0.211
+CONGRATULATIONS!! You have won the $5000 lottery prize!! Claim your gift card here: http://win-prize-now.biz/claim,high_risk,114.0,7.0,0.3684,1.0,5.0,0.2024,0.0351,0.7897
+Are we meeting in room 302 or 304?,normal,34.0,0.0,0.0,0.0,1.0,0.05,0.1765,0.0908
+Let's test the socket connection over the LAN switch.,normal,53.0,0.0,0.0,0.0,0.0,0.093,0.0,0.0651
+Please fill out this survey form for our seminar: https://forms.college.edu/survey,moderate,82.0,0.0,0.0,1.0,0.0,0.0152,0.0,0.1663
+Let's meet at 4 PM in the library to discuss the project.,normal,57.0,0.0,0.0,0.0,0.0,0.0698,0.0175,0.0768
+Where did you save the UML diagrams? See you at 4 PM.,normal,53.0,0.0,0.0,0.0,1.0,0.1795,0.0189,0.0904
+Let's verify the requirements traceability matrix. See you at 11 PM.,normal,68.0,1.0,0.0833,0.0,0.0,0.0755,0.0294,0.2599
+Security Alert: Unauthorized login attempt detected! Confirm your credentials and SSN now: http://bank-security-verify.org,high_risk,122.0,6.0,0.3529,1.0,1.0,0.0693,0.0,0.7385
+Let's test the socket connection over the LAN switch.,normal,53.0,0.0,0.0,0.0,0.0,0.093,0.0,0.0811
+Free bitcoin giveaway! Double your crypto in 24 hours! Login now: http://crypto-free-coins.cc/claim?id=99,high_risk,105.0,7.0,0.3684,1.0,3.0,0.0385,0.0381,0.7619
+Don't forget to update your profile info before 6 PM today.,moderate,59.0,0.0,0.0,0.0,0.0,0.0652,0.0169,0.082
+We need to add unit tests before submitting.,normal,44.0,0.0,0.0,0.0,0.0,0.0278,0.0,0.048
+"Thanks for the update, that looks great!",normal,40.0,0.0,0.0,0.0,1.0,0.0312,0.0,0.0854
+Can you check if this API endpoint works? http://192.168.1.15:8080/status,moderate,73.0,0.0,0.0,1.0,1.0,0.093,0.1781,0.2215
+Could someone review my pull request?,normal,37.0,0.0,0.0,0.0,1.0,0.0323,0.0,0.0683
+Where did you save the UML diagrams?,normal,36.0,0.0,0.0,0.0,1.0,0.1379,0.0,0.0941
+Good morning everyone! Please check the shared document.,normal,56.0,0.0,0.0,0.0,1.0,0.0426,0.0,0.1286
+Could someone review my pull request? See you at 9 PM.,normal,54.0,0.0,0.0,0.0,1.0,0.0976,0.0185,0.1233
+Have you had lunch yet? Let's grab something from the canteen.,normal,62.0,0.0,0.0,0.0,1.0,0.0408,0.0,0.1157
+Please fill out this survey form for our seminar: https://forms.college.edu/survey,moderate,82.0,0.0,0.0,1.0,0.0,0.0152,0.0,0.1696
+"Hey, are you coming to the lab today? See you at 6 PM.",normal,54.0,0.0,0.0,0.0,1.0,0.1053,0.0185,0.1149
+Did you push your commits to the repository? See you at 11 PM.,normal,62.0,0.0,0.0,0.0,1.0,0.087,0.0323,0.1022
+Did you push your commits to the repository? See you at 5 PM.,normal,61.0,0.0,0.0,0.0,1.0,0.087,0.0164,0.1264
+Can you check if this API endpoint works? http://192.168.1.15:8080/status Ref #983.,moderate,83.0,0.0,0.0,1.0,1.0,0.1087,0.1928,0.2007
+Could someone review my pull request?,normal,37.0,0.0,0.0,0.0,1.0,0.0323,0.0,0.0787
+let's test the socket connection over the lan switch. see you at 7 pm.,normal,70.0,0.0,0.0,0.0,0.0,0.0,0.0143,0.0937
+Can you share the notes from the morning lecture?,normal,49.0,0.0,0.0,0.0,1.0,0.025,0.0,0.1083
+We need to add unit tests before submitting.,normal,44.0,0.0,0.0,0.0,0.0,0.0278,0.0,0.0622
+good morning everyone! please check the shared document. see you at 12 pm.,normal,74.0,0.0,0.0,0.0,1.0,0.0,0.027,0.1141
+Everything compiled cleanly on my machine.,normal,42.0,0.0,0.0,0.0,0.0,0.0278,0.0,0.0273
+Quick reminder: please verify your attendance record on the portal today.,moderate,73.0,1.0,0.0909,0.0,0.0,0.0164,0.0,0.2856
+Are we meeting in room 302 or 304?,normal,34.0,0.0,0.0,0.0,1.0,0.05,0.1765,0.1005
+We need to add unit tests before submitting.,normal,44.0,0.0,0.0,0.0,0.0,0.0278,0.0,0.0606
+Bank Alert: Your wire transfer was put on hold. Verify bank credentials immediately at http://secure-bank-login.xyz,high_risk,115.0,8.0,0.4211,1.0,0.0,0.043,0.0,0.7112
+are we meeting in room 302 or 304?,normal,34.0,0.0,0.0,0.0,1.0,0.0,0.1765,0.0862
+Everything compiled cleanly on my machine.,normal,42.0,0.0,0.0,0.0,0.0,0.0278,0.0,0.1074
+Please fill out this survey form for our seminar: https://forms.college.edu/survey,moderate,82.0,0.0,0.0,1.0,0.0,0.0152,0.0,0.1549
+everything compiled cleanly on my machine.,normal,42.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0932
+"Thanks for the update, that looks great! See you at 5 PM.",normal,57.0,0.0,0.0,0.0,1.0,0.0952,0.0175,0.1023
+Good morning everyone! Please check the shared document.,normal,56.0,0.0,0.0,0.0,1.0,0.0426,0.0,0.0911
+have you had lunch yet? let's grab something from the canteen.,normal,62.0,0.0,0.0,0.0,1.0,0.0,0.0,0.095
+Did you push your commits to the repository?,normal,44.0,0.0,0.0,0.0,1.0,0.0278,0.0,0.0897
+I will be 10 minutes late to the group meeting. See you at 10 PM.,normal,65.0,0.0,0.0,0.0,0.0,0.0889,0.0615,0.0855
+Is PostgreSQL running on your laptop?,normal,37.0,0.0,0.0,0.0,1.0,0.1613,0.0,0.0992
+Hey! Look at this new library release: http://github.com/tools/release-v2,moderate,73.0,0.0,0.0,1.0,1.0,0.0357,0.0137,0.1631
+The mini project presentation is scheduled for next Monday. See you at 1 PM.,normal,76.0,0.0,0.0,0.0,0.0,0.0833,0.0132,0.0862
+Did you push your commits to the repository?,normal,44.0,0.0,0.0,0.0,1.0,0.0278,0.0,0.0867
+let's meet at 4 pm in the library to discuss the project.,normal,57.0,0.0,0.0,0.0,0.0,0.0,0.0175,0.0631
+Is PostgreSQL running on your laptop? See you at 1 PM.,normal,54.0,0.0,0.0,0.0,1.0,0.1951,0.0185,0.1197
+Check out this interesting article at https://techblog.org/networking-guide,moderate,75.0,0.0,0.0,1.0,0.0,0.0159,0.0,0.1494
+Everything compiled cleanly on my machine. See you at 6 PM.,normal,59.0,0.0,0.0,0.0,0.0,0.087,0.0169,0.0532
+Immediate action required! Your mailbox is full! Verify password at http://mail-upgrade-server.net to avoid deletion!,high_risk,117.0,3.0,0.1667,1.0,3.0,0.0316,0.0,0.707
+URGENT: Your account has been suspended! Verify your password immediately at http://login-secure-portal.com/auth,high_risk,112.0,7.0,0.4118,1.0,1.0,0.087,0.0,0.7216
+Immediate action required! Your mailbox is full! Verify password at http://mail-upgrade-server.net to avoid deletion!,high_risk,117.0,3.0,0.1667,1.0,3.0,0.0316,0.0,0.69
+where did you save the uml diagrams? see you at 8 pm.,normal,53.0,0.0,0.0,0.0,1.0,0.0,0.0189,0.0986
+Could someone review my pull request?,normal,37.0,0.0,0.0,0.0,1.0,0.0323,0.0,0.1185
+Please submit your project credentials form to the coordinator.,moderate,63.0,0.0,0.0,0.0,0.0,0.0185,0.0,0.0693
+We need to add unit tests before submitting.,normal,44.0,0.0,0.0,0.0,0.0,0.0278,0.0,0.056
+The mini project presentation is scheduled for next Monday.,normal,59.0,0.0,0.0,0.0,0.0,0.04,0.0,0.0805
+could someone review my pull request?,normal,37.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0795
+"Thanks for the update, that looks great!",normal,40.0,0.0,0.0,0.0,1.0,0.0312,0.0,0.0707
+ACTION REQUIRED: Wire transfer $1000 to avoid account deactivation immediately! Click http://quick-wire-pay.net Code: 58422! HURRY!,high_risk,131.0,6.0,0.3158,1.0,4.0,0.2292,0.0687,0.8311
+Review this document immediately if possible: https://docs.sharepoint.com/r/1284,moderate,80.0,1.0,0.0833,1.0,0.0,0.0161,0.05,0.3442
+Found this useful reference for Linear Regression: https://scikit-learn.org,moderate,75.0,0.0,0.0,1.0,0.0,0.0484,0.0,0.1599
+I will be 10 minutes late to the group meeting.,normal,47.0,0.0,0.0,0.0,0.0,0.0286,0.0426,0.0797
+Can you share the notes from the morning lecture?,normal,49.0,0.0,0.0,0.0,1.0,0.025,0.0,0.0694
+Please fill out this survey form for our seminar: https://forms.college.edu/survey Ref #861.,moderate,92.0,0.0,0.0,1.0,0.0,0.029,0.0326,0.2137
+Hey! Look at this new library release: http://github.com/tools/release-v2,moderate,73.0,0.0,0.0,1.0,1.0,0.0357,0.0137,0.1758
+Please submit your project credentials form to the coordinator.,moderate,63.0,0.0,0.0,0.0,0.0,0.0185,0.0,0.0723
+"Hey, are you coming to the lab today?",normal,37.0,0.0,0.0,0.0,1.0,0.0357,0.0,0.0901
+Where did you save the UML diagrams?,normal,36.0,0.0,0.0,0.0,1.0,0.1379,0.0,0.0877
+"Hey, are you coming to the lab today? See you at 1 PM.",normal,54.0,0.0,0.0,0.0,1.0,0.1053,0.0185,0.0959
+Found this useful reference for Linear Regression: https://scikit-learn.org,moderate,75.0,0.0,0.0,1.0,0.0,0.0484,0.0,0.1638
+"Hey, are you coming to the lab today?",normal,37.0,0.0,0.0,0.0,1.0,0.0357,0.0,0.0743
+Don't forget to update your profile info before 6 PM today. Ref #274.,moderate,69.0,0.0,0.0,0.0,0.0,0.0816,0.058,0.0704
+You won a free iPhone 16! Winner #49281. Claim your reward immediately: http://gift-winner-free.net/redeem!! Code: 63636! HURRY!,high_risk,128.0,6.0,0.2857,1.0,5.0,0.1176,0.0938,0.7858
+We need to add unit tests before submitting. See you at 6 PM.,normal,61.0,0.0,0.0,0.0,0.0,0.087,0.0164,0.0417
+Good morning everyone! Please check the shared document.,normal,56.0,0.0,0.0,0.0,1.0,0.0426,0.0,0.0646
+"Thanks for the update, that looks great!",normal,40.0,0.0,0.0,0.0,1.0,0.0312,0.0,0.1019
+URGENT: Your account has been suspended! Verify your password immediately at http://login-secure-portal.com/auth,high_risk,112.0,7.0,0.4118,1.0,1.0,0.087,0.0,0.7567
+Everything compiled cleanly on my machine.,normal,42.0,0.0,0.0,0.0,0.0,0.0278,0.0,0.1011
+"Hey, are you coming to the lab today?",normal,37.0,0.0,0.0,0.0,1.0,0.0357,0.0,0.0637
+URGENT NOTICE: IRS tax refund of $2450 pending. Click http://refund-irs-claim.gov.fake.org to claim before midnight! Code: 57118! HURRY!,high_risk,136.0,5.0,0.2174,1.0,4.0,0.2292,0.0662,0.7843
+Found this useful reference for Linear Regression: https://scikit-learn.org Ref #253.,moderate,85.0,0.0,0.0,1.0,0.0,0.0615,0.0353,0.1889
+Is PostgreSQL running on your laptop?,normal,37.0,0.0,0.0,0.0,1.0,0.1613,0.0,0.092
+I will be 10 minutes late to the group meeting.,normal,47.0,0.0,0.0,0.0,0.0,0.0286,0.0426,0.062
+where did you save the uml diagrams?,normal,36.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0726
+Free bitcoin giveaway! Double your crypto in 24 hours! Login now: http://crypto-free-coins.cc/claim?id=99,high_risk,105.0,7.0,0.3684,1.0,3.0,0.0385,0.0381,0.7737
+Immediate action required! Your mailbox is full! Verify password at http://mail-upgrade-server.net to avoid deletion!,high_risk,117.0,3.0,0.1667,1.0,3.0,0.0316,0.0,0.6983
+Let's meet at 4 PM in the library to discuss the project.,normal,57.0,0.0,0.0,0.0,0.0,0.0698,0.0175,0.0696
+"hey, are you coming to the lab today?",normal,37.0,0.0,0.0,0.0,1.0,0.0,0.0,0.081
+Could someone review my pull request? See you at 8 PM.,normal,54.0,0.0,0.0,0.0,1.0,0.0976,0.0185,0.1129
+let's verify the requirements traceability matrix. see you at 9 pm.,normal,67.0,1.0,0.0833,0.0,0.0,0.0,0.0149,0.2663
+I am working on the database module right now.,normal,46.0,0.0,0.0,0.0,0.0,0.027,0.0,0.0919
+The mini project presentation is scheduled for next Monday.,normal,59.0,0.0,0.0,0.0,0.0,0.04,0.0,0.0775
+Bank Alert: Your wire transfer was put on hold. Verify bank credentials immediately at http://secure-bank-login.xyz,high_risk,115.0,8.0,0.4211,1.0,0.0,0.043,0.0,0.7063
+let's test the socket connection over the lan switch.,normal,53.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0734
+Don't forget to update your profile info before 6 PM today.,moderate,59.0,0.0,0.0,0.0,0.0,0.0652,0.0169,0.0758
+we need to add unit tests before submitting.,normal,44.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0595
+The assignment submission deadline is tomorrow at 5 PM.,normal,55.0,0.0,0.0,0.0,0.0,0.0667,0.0182,0.0835
+Good morning everyone! Please check the shared document. See you at 6 PM.,normal,73.0,0.0,0.0,0.0,1.0,0.0877,0.0137,0.114
+The assignment submission deadline is tomorrow at 5 PM.,normal,55.0,0.0,0.0,0.0,0.0,0.0667,0.0182,0.0766
+Let's meet at 4 PM in the library to discuss the project. See you at 11 PM.,normal,75.0,0.0,0.0,0.0,0.0,0.1132,0.04,0.0941
+Please send the PDF version of the report. See you at 4 PM.,normal,59.0,0.0,0.0,0.0,0.0,0.1591,0.0169,0.0731
+"Thanks for the update, that looks great! See you at 11 PM.",normal,58.0,0.0,0.0,0.0,1.0,0.0952,0.0345,0.111
+The mini project presentation is scheduled for next Monday. See you at 12 PM.,normal,77.0,0.0,0.0,0.0,0.0,0.0833,0.026,0.0996
+Quick reminder: please verify your attendance record on the portal today.,moderate,73.0,1.0,0.0909,0.0,0.0,0.0164,0.0,0.2712
+everything compiled cleanly on my machine.,normal,42.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0581
+Please send the PDF version of the report. See you at 3 PM.,normal,59.0,0.0,0.0,0.0,0.0,0.1591,0.0169,0.0855
+everything compiled cleanly on my machine. see you at 10 pm.,normal,60.0,0.0,0.0,0.0,0.0,0.0,0.0333,0.0784
+Can you share the notes from the morning lecture?,normal,49.0,0.0,0.0,0.0,1.0,0.025,0.0,0.0885
+Check out this interesting article at https://techblog.org/networking-guide,moderate,75.0,0.0,0.0,1.0,0.0,0.0159,0.0,0.1715
+Please fill out this survey form for our seminar: https://forms.college.edu/survey Ref #586.,moderate,92.0,0.0,0.0,1.0,0.0,0.029,0.0326,0.1748
+Found this useful reference for Linear Regression: https://scikit-learn.org Ref #974.,moderate,85.0,0.0,0.0,1.0,0.0,0.0615,0.0353,0.1707
+Where did you save the UML diagrams?,normal,36.0,0.0,0.0,0.0,1.0,0.1379,0.0,0.092
+Is PostgreSQL running on your laptop?,normal,37.0,0.0,0.0,0.0,1.0,0.1613,0.0,0.1076
+We need to add unit tests before submitting. See you at 6 PM.,normal,61.0,0.0,0.0,0.0,0.0,0.087,0.0164,0.0797
+did you push your commits to the repository?,normal,44.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0988
+Review this document immediately if possible: https://docs.sharepoint.com/r/1284,moderate,80.0,1.0,0.0833,1.0,0.0,0.0161,0.05,0.3675
+The assignment submission deadline is tomorrow at 5 PM.,normal,55.0,0.0,0.0,0.0,0.0,0.0667,0.0182,0.0843
+Immediate action required! Your mailbox is full! Verify password at http://mail-upgrade-server.net to avoid deletion!,high_risk,117.0,3.0,0.1667,1.0,3.0,0.0316,0.0,0.6953
+URGENT NOTICE: IRS tax refund of $2450 pending. Click http://refund-irs-claim.gov.fake.org to claim before midnight!,high_risk,116.0,5.0,0.25,1.0,2.0,0.1839,0.0345,0.7604
+Did you push your commits to the repository?,normal,44.0,0.0,0.0,0.0,1.0,0.0278,0.0,0.0668
+Can you share the notes from the morning lecture?,normal,49.0,0.0,0.0,0.0,1.0,0.025,0.0,0.0762
+Hey! Look at this new library release: http://github.com/tools/release-v2,moderate,73.0,0.0,0.0,1.0,1.0,0.0357,0.0137,0.1924
+ACTION REQUIRED: Wire transfer $1000 to avoid account deactivation immediately! Click http://quick-wire-pay.net Code: 56548! HURRY!,high_risk,131.0,6.0,0.3158,1.0,4.0,0.2292,0.0687,0.8244
+PASSWORD EXPIRED!! Click http://sysadmin-reset-now.top to update your network password now or lose access!!,high_risk,107.0,2.0,0.1176,1.0,4.0,0.1882,0.0,0.5911
+I will be 10 minutes late to the group meeting.,normal,47.0,0.0,0.0,0.0,0.0,0.0286,0.0426,0.0749
+Free bitcoin giveaway! Double your crypto in 24 hours! Login now: http://crypto-free-coins.cc/claim?id=99 Code: 33770! HURRY!,high_risk,125.0,7.0,0.3182,1.0,5.0,0.1034,0.072,0.8083
+Don't forget to update your profile info before 6 PM today.,moderate,59.0,0.0,0.0,0.0,0.0,0.0652,0.0169,0.086
+Can you share the notes from the morning lecture? See you at 4 PM.,normal,66.0,0.0,0.0,0.0,1.0,0.08,0.0152,0.096
+Security Alert: Unauthorized login attempt detected! Confirm your credentials and SSN now: http://bank-security-verify.org,high_risk,122.0,6.0,0.3529,1.0,1.0,0.0693,0.0,0.7183
+Hey! Look at this new library release: http://github.com/tools/release-v2,moderate,73.0,0.0,0.0,1.0,1.0,0.0357,0.0137,0.189
+Is PostgreSQL running on your laptop?,normal,37.0,0.0,0.0,0.0,1.0,0.1613,0.0,0.0875
+Bank Alert: Your wire transfer was put on hold. Verify bank credentials immediately at http://secure-bank-login.xyz Code: 23276! HURRY!,high_risk,135.0,8.0,0.3636,1.0,2.0,0.098,0.037,0.7371
+Let's meet at 4 PM in the library to discuss the project.,normal,57.0,0.0,0.0,0.0,0.0,0.0698,0.0175,0.1011
+Found this useful reference for Linear Regression: https://scikit-learn.org,moderate,75.0,0.0,0.0,1.0,0.0,0.0484,0.0,0.1474
+Are we meeting in room 302 or 304?,normal,34.0,0.0,0.0,0.0,1.0,0.05,0.1765,0.0991
+Could someone review my pull request?,normal,37.0,0.0,0.0,0.0,1.0,0.0323,0.0,0.0688
+Everything compiled cleanly on my machine.,normal,42.0,0.0,0.0,0.0,0.0,0.0278,0.0,0.0743
+Can you share the notes from the morning lecture? See you at 7 PM.,normal,66.0,0.0,0.0,0.0,1.0,0.08,0.0152,0.0982
+ACTION REQUIRED: Wire transfer $1000 to avoid account deactivation immediately! Click http://quick-wire-pay.net,high_risk,111.0,6.0,0.375,1.0,2.0,0.1839,0.036,0.7632
+The assignment submission deadline is tomorrow at 5 PM.,normal,55.0,0.0,0.0,0.0,0.0,0.0667,0.0182,0.0575
+PASSWORD EXPIRED!! Click http://sysadmin-reset-now.top to update your network password now or lose access!!,high_risk,107.0,2.0,0.1176,1.0,4.0,0.1882,0.0,0.5774
+I will be 10 minutes late to the group meeting. See you at 2 PM.,normal,64.0,0.0,0.0,0.0,0.0,0.0889,0.0469,0.0817
+Could someone review my pull request?,normal,37.0,0.0,0.0,0.0,1.0,0.0323,0.0,0.0753
+We need to add unit tests before submitting.,normal,44.0,0.0,0.0,0.0,0.0,0.0278,0.0,0.0463
+Let's verify the requirements traceability matrix.,normal,50.0,1.0,0.1429,0.0,0.0,0.0233,0.0,0.3165
+URGENT: Your account has been suspended! Verify your password immediately at http://login-secure-portal.com/auth Code: 25176! HURRY!,high_risk,132.0,7.0,0.35,1.0,3.0,0.1386,0.0379,0.7667
+URGENT NOTICE: IRS tax refund of $2450 pending. Click http://refund-irs-claim.gov.fake.org to claim before midnight!,high_risk,116.0,5.0,0.25,1.0,2.0,0.1839,0.0345,0.7759
+Let's meet at 4 PM in the library to discuss the project.,normal,57.0,0.0,0.0,0.0,0.0,0.0698,0.0175,0.0591
+Bank Alert: Your wire transfer was put on hold. Verify bank credentials immediately at http://secure-bank-login.xyz Code: 61248! HURRY!,high_risk,135.0,8.0,0.3636,1.0,2.0,0.098,0.037,0.7799
+Where did you save the UML diagrams?,normal,36.0,0.0,0.0,0.0,1.0,0.1379,0.0,0.0949
+"Hey, are you coming to the lab today? See you at 10 PM.",normal,55.0,0.0,0.0,0.0,1.0,0.1053,0.0364,0.1167
+"Thanks for the update, that looks great!",normal,40.0,0.0,0.0,0.0,1.0,0.0312,0.0,0.0941
+We need to add unit tests before submitting.,normal,44.0,0.0,0.0,0.0,0.0,0.0278,0.0,0.0706
+Quick reminder: please verify your attendance record on the portal today.,moderate,73.0,1.0,0.0909,0.0,0.0,0.0164,0.0,0.2738
+Is this link safe? https://dev-resources.net/download-pack,moderate,58.0,0.0,0.0,1.0,1.0,0.0217,0.0,0.1436
+Is this link safe? https://dev-resources.net/download-pack,moderate,58.0,0.0,0.0,1.0,1.0,0.0217,0.0,0.161
+The mini project presentation is scheduled for next Monday. See you at 5 PM.,normal,76.0,0.0,0.0,0.0,0.0,0.0833,0.0132,0.074
+You won a free iPhone 16! Winner #49281. Claim your reward immediately: http://gift-winner-free.net/redeem!!,high_risk,108.0,6.0,0.3333,1.0,3.0,0.0526,0.0648,0.7791
+"hey, are you coming to the lab today?",normal,37.0,0.0,0.0,0.0,1.0,0.0,0.0,0.1059
+I will be 10 minutes late to the group meeting.,normal,47.0,0.0,0.0,0.0,0.0,0.0286,0.0426,0.0679
+Don't forget to update your profile info before 6 PM today. Ref #166.,moderate,69.0,0.0,0.0,0.0,0.0,0.0816,0.058,0.1072
+The mini project presentation is scheduled for next Monday. See you at 6 PM.,normal,76.0,0.0,0.0,0.0,0.0,0.0833,0.0132,0.0997
+Please send the PDF version of the report.,normal,42.0,0.0,0.0,0.0,0.0,0.1176,0.0,0.0559
+Where did you save the UML diagrams?,normal,36.0,0.0,0.0,0.0,1.0,0.1379,0.0,0.088
+Please submit your project credentials form to the coordinator.,moderate,63.0,0.0,0.0,0.0,0.0,0.0185,0.0,0.0719
+"Thanks for the update, that looks great!",normal,40.0,0.0,0.0,0.0,1.0,0.0312,0.0,0.0672
+Can you check if this API endpoint works? http://192.168.1.15:8080/status,moderate,73.0,0.0,0.0,1.0,1.0,0.093,0.1781,0.1947
+"Hey, are you coming to the lab today?",normal,37.0,0.0,0.0,0.0,1.0,0.0357,0.0,0.0757
+Is this link safe? https://dev-resources.net/download-pack,moderate,58.0,0.0,0.0,1.0,1.0,0.0217,0.0,0.1848
+Bank Alert: Your wire transfer was put on hold. Verify bank credentials immediately at http://secure-bank-login.xyz,high_risk,115.0,8.0,0.4211,1.0,0.0,0.043,0.0,0.7067
+We need to add unit tests before submitting.,normal,44.0,0.0,0.0,0.0,0.0,0.0278,0.0,0.0539
+Can you check if this API endpoint works? http://192.168.1.15:8080/status,moderate,73.0,0.0,0.0,1.0,1.0,0.093,0.1781,0.196
+the assignment submission deadline is tomorrow at 5 pm. see you at 10 pm.,normal,73.0,0.0,0.0,0.0,0.0,0.0,0.0411,0.0736
+Where did you save the UML diagrams?,normal,36.0,0.0,0.0,0.0,1.0,0.1379,0.0,0.0897
+Where did you save the UML diagrams? See you at 5 PM.,normal,53.0,0.0,0.0,0.0,1.0,0.1795,0.0189,0.1073
+Everything compiled cleanly on my machine.,normal,42.0,0.0,0.0,0.0,0.0,0.0278,0.0,0.0701
+URGENT: Your account has been suspended! Verify your password immediately at http://login-secure-portal.com/auth,high_risk,112.0,7.0,0.4118,1.0,1.0,0.087,0.0,0.7395
+Can you share the notes from the morning lecture?,normal,49.0,0.0,0.0,0.0,1.0,0.025,0.0,0.0879
+Please submit your project credentials form to the coordinator.,moderate,63.0,0.0,0.0,0.0,0.0,0.0185,0.0,0.0741
+Check out this interesting article at https://techblog.org/networking-guide,moderate,75.0,0.0,0.0,1.0,0.0,0.0159,0.0,0.1837
+Let's meet at 4 PM in the library to discuss the project.,normal,57.0,0.0,0.0,0.0,0.0,0.0698,0.0175,0.075
+PASSWORD EXPIRED!! Click http://sysadmin-reset-now.top to update your network password now or lose access!!,high_risk,107.0,2.0,0.1176,1.0,4.0,0.1882,0.0,0.572
+Let's test the socket connection over the LAN switch. See you at 10 PM.,normal,71.0,0.0,0.0,0.0,0.0,0.1321,0.0282,0.0972
+URGENT: Your account has been suspended! Verify your password immediately at http://login-secure-portal.com/auth,high_risk,112.0,7.0,0.4118,1.0,1.0,0.087,0.0,0.7175
+Please send the PDF version of the report.,normal,42.0,0.0,0.0,0.0,0.0,0.1176,0.0,0.0789
+Have you had lunch yet? Let's grab something from the canteen. See you at 11 PM.,normal,80.0,0.0,0.0,0.0,1.0,0.0847,0.025,0.1134
+Don't forget to update your profile info before 6 PM today. Ref #926.,moderate,69.0,0.0,0.0,0.0,0.0,0.0816,0.058,0.0712
+URGENT NOTICE: IRS tax refund of $2450 pending. Click http://refund-irs-claim.gov.fake.org to claim before midnight!,high_risk,116.0,5.0,0.25,1.0,2.0,0.1839,0.0345,0.7687
+Can you share the notes from the morning lecture? See you at 7 PM.,normal,66.0,0.0,0.0,0.0,1.0,0.08,0.0152,0.1075
+Is PostgreSQL running on your laptop?,normal,37.0,0.0,0.0,0.0,1.0,0.1613,0.0,0.0978
+The assignment submission deadline is tomorrow at 5 PM.,normal,55.0,0.0,0.0,0.0,0.0,0.0667,0.0182,0.06
+Did you push your commits to the repository? See you at 2 PM.,normal,61.0,0.0,0.0,0.0,1.0,0.087,0.0164,0.0966
+PASSWORD EXPIRED!! Click http://sysadmin-reset-now.top to update your network password now or lose access!! Code: 24943! HURRY!,high_risk,127.0,2.0,0.1,1.0,6.0,0.234,0.0394,0.574
+Found this useful reference for Linear Regression: https://scikit-learn.org,moderate,75.0,0.0,0.0,1.0,0.0,0.0484,0.0,0.1935
+Free bitcoin giveaway! Double your crypto in 24 hours! Login now: http://crypto-free-coins.cc/claim?id=99 Code: 75683! HURRY!,high_risk,125.0,7.0,0.3182,1.0,5.0,0.1034,0.072,0.7958
+I am working on the database module right now.,normal,46.0,0.0,0.0,0.0,0.0,0.027,0.0,0.0482
+Please fill out this survey form for our seminar: https://forms.college.edu/survey,moderate,82.0,0.0,0.0,1.0,0.0,0.0152,0.0,0.2066
+Is this link safe? https://dev-resources.net/download-pack,moderate,58.0,0.0,0.0,1.0,1.0,0.0217,0.0,0.1855
+The mini project presentation is scheduled for next Monday.,normal,59.0,0.0,0.0,0.0,0.0,0.04,0.0,0.0785
+could someone review my pull request? see you at 12 pm.,normal,55.0,0.0,0.0,0.0,1.0,0.0,0.0364,0.098
+Good morning everyone! Please check the shared document.,normal,56.0,0.0,0.0,0.0,1.0,0.0426,0.0,0.0881
+is postgresql running on your laptop?,normal,37.0,0.0,0.0,0.0,1.0,0.0,0.0,0.1025
+The mini project presentation is scheduled for next Monday.,normal,59.0,0.0,0.0,0.0,0.0,0.04,0.0,0.0626
+Have you had lunch yet? Let's grab something from the canteen.,normal,62.0,0.0,0.0,0.0,1.0,0.0408,0.0,0.1065
+Can you share the notes from the morning lecture?,normal,49.0,0.0,0.0,0.0,1.0,0.025,0.0,0.1247
+Have you had lunch yet? Let's grab something from the canteen.,normal,62.0,0.0,0.0,0.0,1.0,0.0408,0.0,0.0899
+Don't forget to update your profile info before 6 PM today.,moderate,59.0,0.0,0.0,0.0,0.0,0.0652,0.0169,0.0572
+Quick reminder: please verify your attendance record on the portal today.,moderate,73.0,1.0,0.0909,0.0,0.0,0.0164,0.0,0.2438
+Check out this interesting article at https://techblog.org/networking-guide,moderate,75.0,0.0,0.0,1.0,0.0,0.0159,0.0,0.1556
+The assignment submission deadline is tomorrow at 5 PM.,normal,55.0,0.0,0.0,0.0,0.0,0.0667,0.0182,0.091
+Bank Alert: Your wire transfer was put on hold. Verify bank credentials immediately at http://secure-bank-login.xyz,high_risk,115.0,8.0,0.4211,1.0,0.0,0.043,0.0,0.7129
+Hey! Look at this new library release: http://github.com/tools/release-v2 Ref #772.,moderate,83.0,0.0,0.0,1.0,1.0,0.0508,0.0482,0.1632
+Is PostgreSQL running on your laptop?,normal,37.0,0.0,0.0,0.0,1.0,0.1613,0.0,0.0782
+Everything compiled cleanly on my machine.,normal,42.0,0.0,0.0,0.0,0.0,0.0278,0.0,0.0631
+Found this useful reference for Linear Regression: https://scikit-learn.org,moderate,75.0,0.0,0.0,1.0,0.0,0.0484,0.0,0.1832
+Please send the PDF version of the report. See you at 10 PM.,normal,60.0,0.0,0.0,0.0,0.0,0.1591,0.0333,0.0569
+Bank Alert: Your wire transfer was put on hold. Verify bank credentials immediately at http://secure-bank-login.xyz,high_risk,115.0,8.0,0.4211,1.0,0.0,0.043,0.0,0.7116
+The mini project presentation is scheduled for next Monday.,normal,59.0,0.0,0.0,0.0,0.0,0.04,0.0,0.0939
+have you had lunch yet? let's grab something from the canteen. see you at 2 pm.,normal,79.0,0.0,0.0,0.0,1.0,0.0,0.0127,0.1218
+Let's verify the requirements traceability matrix.,normal,50.0,1.0,0.1429,0.0,0.0,0.0233,0.0,0.2995
+URGENT NOTICE: IRS tax refund of $2450 pending. Click http://refund-irs-claim.gov.fake.org to claim before midnight!,high_risk,116.0,5.0,0.25,1.0,2.0,0.1839,0.0345,0.7923
+Check out this interesting article at https://techblog.org/networking-guide Ref #923.,moderate,85.0,0.0,0.0,1.0,0.0,0.0303,0.0353,0.1743
+Did you push your commits to the repository?,normal,44.0,0.0,0.0,0.0,1.0,0.0278,0.0,0.1024
+The mini project presentation is scheduled for next Monday.,normal,59.0,0.0,0.0,0.0,0.0,0.04,0.0,0.0802
+Where did you save the UML diagrams?,normal,36.0,0.0,0.0,0.0,1.0,0.1379,0.0,0.109
+Bank Alert: Your wire transfer was put on hold. Verify bank credentials immediately at http://secure-bank-login.xyz,high_risk,115.0,8.0,0.4211,1.0,0.0,0.043,0.0,0.7495
+You won a free iPhone 16! Winner #49281. Claim your reward immediately: http://gift-winner-free.net/redeem!!,high_risk,108.0,6.0,0.3333,1.0,3.0,0.0526,0.0648,0.7774
+Did you push your commits to the repository? See you at 4 PM.,normal,61.0,0.0,0.0,0.0,1.0,0.087,0.0164,0.0848
+Good morning everyone! Please check the shared document.,normal,56.0,0.0,0.0,0.0,1.0,0.0426,0.0,0.1096
+Did you push your commits to the repository?,normal,44.0,0.0,0.0,0.0,1.0,0.0278,0.0,0.0965
+Where did you save the UML diagrams?,normal,36.0,0.0,0.0,0.0,1.0,0.1379,0.0,0.1098
+Bank Alert: Your wire transfer was put on hold. Verify bank credentials immediately at http://secure-bank-login.xyz,high_risk,115.0,8.0,0.4211,1.0,0.0,0.043,0.0,0.7065
+You won a free iPhone 16! Winner #49281. Claim your reward immediately: http://gift-winner-free.net/redeem!!,high_risk,108.0,6.0,0.3333,1.0,3.0,0.0526,0.0648,0.7512
+I am working on the database module right now. See you at 1 PM.,normal,63.0,0.0,0.0,0.0,0.0,0.0851,0.0159,0.082
+Did you push your commits to the repository? See you at 3 PM.,normal,61.0,0.0,0.0,0.0,1.0,0.087,0.0164,0.0896
+Where did you save the UML diagrams?,normal,36.0,0.0,0.0,0.0,1.0,0.1379,0.0,0.0895
+I will be 10 minutes late to the group meeting.,normal,47.0,0.0,0.0,0.0,0.0,0.0286,0.0426,0.0673
+CONGRATULATIONS!! You have won the $5000 lottery prize!! Claim your gift card here: http://win-prize-now.biz/claim,high_risk,114.0,7.0,0.3684,1.0,5.0,0.2024,0.0351,0.8246
+Please fill out this survey form for our seminar: https://forms.college.edu/survey,moderate,82.0,0.0,0.0,1.0,0.0,0.0152,0.0,0.1677
+we need to add unit tests before submitting.,normal,44.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0726
+let's verify the requirements traceability matrix.,normal,50.0,1.0,0.1429,0.0,0.0,0.0,0.0,0.2764
+Can you check if this API endpoint works? http://192.168.1.15:8080/status,moderate,73.0,0.0,0.0,1.0,1.0,0.093,0.1781,0.1929
+Are we meeting in room 302 or 304?,normal,34.0,0.0,0.0,0.0,1.0,0.05,0.1765,0.0899
+Are we meeting in room 302 or 304?,normal,34.0,0.0,0.0,0.0,1.0,0.05,0.1765,0.1085
+Is PostgreSQL running on your laptop?,normal,37.0,0.0,0.0,0.0,1.0,0.1613,0.0,0.093
+CONGRATULATIONS!! You have won the $5000 lottery prize!! Claim your gift card here: http://win-prize-now.biz/claim Code: 32779! HURRY!,high_risk,134.0,7.0,0.3182,1.0,7.0,0.2473,0.0672,0.8368
+Can you share the notes from the morning lecture?,normal,49.0,0.0,0.0,0.0,1.0,0.025,0.0,0.0843
+I am working on the database module right now.,normal,46.0,0.0,0.0,0.0,0.0,0.027,0.0,0.0878
+Please send the PDF version of the report.,normal,42.0,0.0,0.0,0.0,0.0,0.1176,0.0,0.0682
+URGENT: Your account has been suspended! Verify your password immediately at http://login-secure-portal.com/auth,high_risk,112.0,7.0,0.4118,1.0,1.0,0.087,0.0,0.7327
+Please submit your project credentials form to the coordinator.,moderate,63.0,0.0,0.0,0.0,0.0,0.0185,0.0,0.0883
+Did you push your commits to the repository?,normal,44.0,0.0,0.0,0.0,1.0,0.0278,0.0,0.1089
+Did you push your commits to the repository?,normal,44.0,0.0,0.0,0.0,1.0,0.0278,0.0,0.0717
+Good morning everyone! Please check the shared document.,normal,56.0,0.0,0.0,0.0,1.0,0.0426,0.0,0.0798
+Let's meet at 4 PM in the library to discuss the project. See you at 8 PM.,normal,74.0,0.0,0.0,0.0,0.0,0.1132,0.027,0.0687
+Free bitcoin giveaway! Double your crypto in 24 hours! Login now: http://crypto-free-coins.cc/claim?id=99,high_risk,105.0,7.0,0.3684,1.0,3.0,0.0385,0.0381,0.7686
+Please submit your project credentials form to the coordinator.,moderate,63.0,0.0,0.0,0.0,0.0,0.0185,0.0,0.0844
+The assignment submission deadline is tomorrow at 5 PM.,normal,55.0,0.0,0.0,0.0,0.0,0.0667,0.0182,0.077
+please send the pdf version of the report.,normal,42.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0884
+PASSWORD EXPIRED!! Click http://sysadmin-reset-now.top to update your network password now or lose access!!,high_risk,107.0,2.0,0.1176,1.0,4.0,0.1882,0.0,0.5756
+Please send the PDF version of the report.,normal,42.0,0.0,0.0,0.0,0.0,0.1176,0.0,0.0713
+I am working on the database module right now.,normal,46.0,0.0,0.0,0.0,0.0,0.027,0.0,0.07
+Check out this interesting article at https://techblog.org/networking-guide,moderate,75.0,0.0,0.0,1.0,0.0,0.0159,0.0,0.156
+Good morning everyone! Please check the shared document. See you at 10 PM.,normal,74.0,0.0,0.0,0.0,1.0,0.0877,0.027,0.1003
+Let's verify the requirements traceability matrix.,normal,50.0,1.0,0.1429,0.0,0.0,0.0233,0.0,0.3147
+Have you had lunch yet? Let's grab something from the canteen.,normal,62.0,0.0,0.0,0.0,1.0,0.0408,0.0,0.1022
+Security Alert: Unauthorized login attempt detected! Confirm your credentials and SSN now: http://bank-security-verify.org,high_risk,122.0,6.0,0.3529,1.0,1.0,0.0693,0.0,0.748
+Good morning everyone! Please check the shared document.,normal,56.0,0.0,0.0,0.0,1.0,0.0426,0.0,0.0833
+Quick reminder: please verify your attendance record on the portal today. Ref #828.,moderate,83.0,1.0,0.0769,0.0,0.0,0.0312,0.0361,0.2594
+Is this link safe? https://dev-resources.net/download-pack,moderate,58.0,0.0,0.0,1.0,1.0,0.0217,0.0,0.1603
+"hey, are you coming to the lab today?",normal,37.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0565
+Don't forget to update your profile info before 6 PM today.,moderate,59.0,0.0,0.0,0.0,0.0,0.0652,0.0169,0.0846
+could someone review my pull request?,normal,37.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0944
+Everything compiled cleanly on my machine. See you at 11 PM.,normal,60.0,0.0,0.0,0.0,0.0,0.087,0.0333,0.0718
+Where did you save the UML diagrams?,normal,36.0,0.0,0.0,0.0,1.0,0.1379,0.0,0.0705
+i am working on the database module right now.,normal,46.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0428
+Security Alert: Unauthorized login attempt detected! Confirm your credentials and SSN now: http://bank-security-verify.org,high_risk,122.0,6.0,0.3529,1.0,1.0,0.0693,0.0,0.7407
+Everything compiled cleanly on my machine. See you at 9 PM.,normal,59.0,0.0,0.0,0.0,0.0,0.087,0.0169,0.0651
+did you push your commits to the repository? see you at 8 pm.,normal,61.0,0.0,0.0,0.0,1.0,0.0,0.0164,0.0888
+Let's verify the requirements traceability matrix.,normal,50.0,1.0,0.1429,0.0,0.0,0.0233,0.0,0.2742
+Everything compiled cleanly on my machine.,normal,42.0,0.0,0.0,0.0,0.0,0.0278,0.0,0.0808
+Good morning everyone! Please check the shared document.,normal,56.0,0.0,0.0,0.0,1.0,0.0426,0.0,0.0972
+have you had lunch yet? let's grab something from the canteen.,normal,62.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0888
+CONGRATULATIONS!! You have won the $5000 lottery prize!! Claim your gift card here: http://win-prize-now.biz/claim Code: 92511! HURRY!,high_risk,134.0,7.0,0.3182,1.0,7.0,0.2473,0.0672,0.811
+have you had lunch yet? let's grab something from the canteen. see you at 2 pm.,normal,79.0,0.0,0.0,0.0,1.0,0.0,0.0127,0.1061
+"Hey, are you coming to the lab today?",normal,37.0,0.0,0.0,0.0,1.0,0.0357,0.0,0.0725
+Let's meet at 4 PM in the library to discuss the project.,normal,57.0,0.0,0.0,0.0,0.0,0.0698,0.0175,0.0833
+The mini project presentation is scheduled for next Monday.,normal,59.0,0.0,0.0,0.0,0.0,0.04,0.0,0.072
+The mini project presentation is scheduled for next Monday.,normal,59.0,0.0,0.0,0.0,0.0,0.04,0.0,0.0886
+"hey, are you coming to the lab today?",normal,37.0,0.0,0.0,0.0,1.0,0.0,0.0,0.1117
+"Hey, are you coming to the lab today?",normal,37.0,0.0,0.0,0.0,1.0,0.0357,0.0,0.0933
+Quick reminder: please verify your attendance record on the portal today.,moderate,73.0,1.0,0.0909,0.0,0.0,0.0164,0.0,0.2731
+Don't forget to update your profile info before 6 PM today.,moderate,59.0,0.0,0.0,0.0,0.0,0.0652,0.0169,0.0897
+everything compiled cleanly on my machine.,normal,42.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0797
+we need to add unit tests before submitting.,normal,44.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0513
+we need to add unit tests before submitting.,normal,44.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0495
+we need to add unit tests before submitting.,normal,44.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0763
+Did you push your commits to the repository?,normal,44.0,0.0,0.0,0.0,1.0,0.0278,0.0,0.1046
+Found this useful reference for Linear Regression: https://scikit-learn.org,moderate,75.0,0.0,0.0,1.0,0.0,0.0484,0.0,0.1927
+Have you had lunch yet? Let's grab something from the canteen.,normal,62.0,0.0,0.0,0.0,1.0,0.0408,0.0,0.099
+we need to add unit tests before submitting. see you at 10 pm.,normal,62.0,0.0,0.0,0.0,0.0,0.0,0.0323,0.0716
+Everything compiled cleanly on my machine. See you at 4 PM.,normal,59.0,0.0,0.0,0.0,0.0,0.087,0.0169,0.0931
+Security Alert: Unauthorized login attempt detected! Confirm your credentials and SSN now: http://bank-security-verify.org,high_risk,122.0,6.0,0.3529,1.0,1.0,0.0693,0.0,0.7285
+are we meeting in room 302 or 304? see you at 6 pm.,normal,51.0,0.0,0.0,0.0,1.0,0.0,0.1373,0.0973
+Let's verify the requirements traceability matrix.,normal,50.0,1.0,0.1429,0.0,0.0,0.0233,0.0,0.3256
+ACTION REQUIRED: Wire transfer $1000 to avoid account deactivation immediately! Click http://quick-wire-pay.net,high_risk,111.0,6.0,0.375,1.0,2.0,0.1839,0.036,0.7423
+Can you share the notes from the morning lecture?,normal,49.0,0.0,0.0,0.0,1.0,0.025,0.0,0.0822
+Is this link safe? https://dev-resources.net/download-pack,moderate,58.0,0.0,0.0,1.0,1.0,0.0217,0.0,0.1738
+Where did you save the UML diagrams?,normal,36.0,0.0,0.0,0.0,1.0,0.1379,0.0,0.0878
+Let's meet at 4 PM in the library to discuss the project.,normal,57.0,0.0,0.0,0.0,0.0,0.0698,0.0175,0.0627
+Found this useful reference for Linear Regression: https://scikit-learn.org Ref #943.,moderate,85.0,0.0,0.0,1.0,0.0,0.0615,0.0353,0.149
+I will be 10 minutes late to the group meeting.,normal,47.0,0.0,0.0,0.0,0.0,0.0286,0.0426,0.0637
+Please send the PDF version of the report.,normal,42.0,0.0,0.0,0.0,0.0,0.1176,0.0,0.0662
+ACTION REQUIRED: Wire transfer $1000 to avoid account deactivation immediately! Click http://quick-wire-pay.net,high_risk,111.0,6.0,0.375,1.0,2.0,0.1839,0.036,0.7477
+Have you had lunch yet? Let's grab something from the canteen.,normal,62.0,0.0,0.0,0.0,1.0,0.0408,0.0,0.1044
+CONGRATULATIONS!! You have won the $5000 lottery prize!! Claim your gift card here: http://win-prize-now.biz/claim Code: 96364! HURRY!,high_risk,134.0,7.0,0.3182,1.0,7.0,0.2473,0.0672,0.8144
+You won a free iPhone 16! Winner #49281. Claim your reward immediately: http://gift-winner-free.net/redeem!!,high_risk,108.0,6.0,0.3333,1.0,3.0,0.0526,0.0648,0.7879
+Found this useful reference for Linear Regression: https://scikit-learn.org Ref #490.,moderate,85.0,0.0,0.0,1.0,0.0,0.0615,0.0353,0.1823
+URGENT NOTICE: IRS tax refund of $2450 pending. Click http://refund-irs-claim.gov.fake.org to claim before midnight!,high_risk,116.0,5.0,0.25,1.0,2.0,0.1839,0.0345,0.7544
+Please fill out this survey form for our seminar: https://forms.college.edu/survey,moderate,82.0,0.0,0.0,1.0,0.0,0.0152,0.0,0.169
+"thanks for the update, that looks great!",normal,40.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0854
+Let's verify the requirements traceability matrix.,normal,50.0,1.0,0.1429,0.0,0.0,0.0233,0.0,0.3221
+could someone review my pull request?,normal,37.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0671
+Bank Alert: Your wire transfer was put on hold. Verify bank credentials immediately at http://secure-bank-login.xyz Code: 81802! HURRY!,high_risk,135.0,8.0,0.3636,1.0,2.0,0.098,0.037,0.7696
+Immediate action required! Your mailbox is full! Verify password at http://mail-upgrade-server.net to avoid deletion!,high_risk,117.0,3.0,0.1667,1.0,3.0,0.0316,0.0,0.7375
+Everything compiled cleanly on my machine. See you at 8 PM.,normal,59.0,0.0,0.0,0.0,0.0,0.087,0.0169,0.0634
+Can you share the notes from the morning lecture?,normal,49.0,0.0,0.0,0.0,1.0,0.025,0.0,0.0895
+Can you share the notes from the morning lecture? See you at 7 PM.,normal,66.0,0.0,0.0,0.0,1.0,0.08,0.0152,0.095
+Could someone review my pull request? See you at 12 PM.,normal,55.0,0.0,0.0,0.0,1.0,0.0976,0.0364,0.0935
+Bank Alert: Your wire transfer was put on hold. Verify bank credentials immediately at http://secure-bank-login.xyz Code: 57692! HURRY!,high_risk,135.0,8.0,0.3636,1.0,2.0,0.098,0.037,0.7778
+Can you share the notes from the morning lecture? See you at 1 PM.,normal,66.0,0.0,0.0,0.0,1.0,0.08,0.0152,0.0955
+Did you push your commits to the repository?,normal,44.0,0.0,0.0,0.0,1.0,0.0278,0.0,0.0981
+"Thanks for the update, that looks great! See you at 10 PM.",normal,58.0,0.0,0.0,0.0,1.0,0.0952,0.0345,0.116
+Did you push your commits to the repository? See you at 12 PM.,normal,62.0,0.0,0.0,0.0,1.0,0.087,0.0323,0.0997
+Hey! Look at this new library release: http://github.com/tools/release-v2,moderate,73.0,0.0,0.0,1.0,1.0,0.0357,0.0137,0.1879
+Let's meet at 4 PM in the library to discuss the project.,normal,57.0,0.0,0.0,0.0,0.0,0.0698,0.0175,0.0565
+Please send the PDF version of the report.,normal,42.0,0.0,0.0,0.0,0.0,0.1176,0.0,0.0647
+ACTION REQUIRED: Wire transfer $1000 to avoid account deactivation immediately! Click http://quick-wire-pay.net Code: 31094! HURRY!,high_risk,131.0,6.0,0.3158,1.0,4.0,0.2292,0.0687,0.8035
+Let's verify the requirements traceability matrix.,normal,50.0,1.0,0.1429,0.0,0.0,0.0233,0.0,0.292
+Is this link safe? https://dev-resources.net/download-pack,moderate,58.0,0.0,0.0,1.0,1.0,0.0217,0.0,0.1512
+Are we meeting in room 302 or 304?,normal,34.0,0.0,0.0,0.0,1.0,0.05,0.1765,0.1
+did you push your commits to the repository? see you at 12 pm.,normal,62.0,0.0,0.0,0.0,1.0,0.0,0.0323,0.0904
+Can you check if this API endpoint works? http://192.168.1.15:8080/status,moderate,73.0,0.0,0.0,1.0,1.0,0.093,0.1781,0.2064
+Can you share the notes from the morning lecture?,normal,49.0,0.0,0.0,0.0,1.0,0.025,0.0,0.1125
+Where did you save the UML diagrams?,normal,36.0,0.0,0.0,0.0,1.0,0.1379,0.0,0.0706
+the mini project presentation is scheduled for next monday.,normal,59.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0852
+Please fill out this survey form for our seminar: https://forms.college.edu/survey Ref #519.,moderate,92.0,0.0,0.0,1.0,0.0,0.029,0.0326,0.1804
+"Thanks for the update, that looks great!",normal,40.0,0.0,0.0,0.0,1.0,0.0312,0.0,0.0759
+The mini project presentation is scheduled for next Monday. See you at 12 PM.,normal,77.0,0.0,0.0,0.0,0.0,0.0833,0.026,0.1175
+the mini project presentation is scheduled for next monday. see you at 12 pm.,normal,77.0,0.0,0.0,0.0,0.0,0.0,0.026,0.0793
+everything compiled cleanly on my machine.,normal,42.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0641
+Is this link safe? https://dev-resources.net/download-pack,moderate,58.0,0.0,0.0,1.0,1.0,0.0217,0.0,0.1796
+Please fill out this survey form for our seminar: https://forms.college.edu/survey Ref #151.,moderate,92.0,0.0,0.0,1.0,0.0,0.029,0.0326,0.1826
+The assignment submission deadline is tomorrow at 5 PM. See you at 3 PM.,normal,72.0,0.0,0.0,0.0,0.0,0.1091,0.0278,0.0988
+Review this document immediately if possible: https://docs.sharepoint.com/r/1284 Ref #870.,moderate,90.0,1.0,0.0714,1.0,0.0,0.0308,0.0778,0.3333
+is postgresql running on your laptop?,normal,37.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0755
+PASSWORD EXPIRED!! Click http://sysadmin-reset-now.top to update your network password now or lose access!!,high_risk,107.0,2.0,0.1176,1.0,4.0,0.1882,0.0,0.5934
+Free bitcoin giveaway! Double your crypto in 24 hours! Login now: http://crypto-free-coins.cc/claim?id=99 Code: 80932! HURRY!,high_risk,125.0,7.0,0.3182,1.0,5.0,0.1034,0.072,0.8082
+Don't forget to update your profile info before 6 PM today. Ref #337.,moderate,69.0,0.0,0.0,0.0,0.0,0.0816,0.058,0.0788
+i will be 10 minutes late to the group meeting. see you at 5 pm.,normal,64.0,0.0,0.0,0.0,0.0,0.0,0.0469,0.0809
+good morning everyone! please check the shared document.,normal,56.0,0.0,0.0,0.0,1.0,0.0,0.0,0.074
+ACTION REQUIRED: Wire transfer $1000 to avoid account deactivation immediately! Click http://quick-wire-pay.net,high_risk,111.0,6.0,0.375,1.0,2.0,0.1839,0.036,0.7541
+Immediate action required! Your mailbox is full! Verify password at http://mail-upgrade-server.net to avoid deletion!,high_risk,117.0,3.0,0.1667,1.0,3.0,0.0316,0.0,0.6602
+let's test the socket connection over the lan switch. see you at 5 pm.,normal,70.0,0.0,0.0,0.0,0.0,0.0,0.0143,0.087
+Did you push your commits to the repository?,normal,44.0,0.0,0.0,0.0,1.0,0.0278,0.0,0.0636
+Did you push your commits to the repository?,normal,44.0,0.0,0.0,0.0,1.0,0.0278,0.0,0.0799
+"hey, are you coming to the lab today? see you at 11 pm.",normal,55.0,0.0,0.0,0.0,1.0,0.0,0.0364,0.1033
+The mini project presentation is scheduled for next Monday.,normal,59.0,0.0,0.0,0.0,0.0,0.04,0.0,0.0658
+ACTION REQUIRED: Wire transfer $1000 to avoid account deactivation immediately! Click http://quick-wire-pay.net Code: 62873! HURRY!,high_risk,131.0,6.0,0.3158,1.0,4.0,0.2292,0.0687,0.8216
+Can you share the notes from the morning lecture?,normal,49.0,0.0,0.0,0.0,1.0,0.025,0.0,0.0924
+"Hey, are you coming to the lab today?",normal,37.0,0.0,0.0,0.0,1.0,0.0357,0.0,0.0674
+We need to add unit tests before submitting.,normal,44.0,0.0,0.0,0.0,0.0,0.0278,0.0,0.069
+Let's verify the requirements traceability matrix.,normal,50.0,1.0,0.1429,0.0,0.0,0.0233,0.0,0.3085
+the mini project presentation is scheduled for next monday.,normal,59.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1083
+I am working on the database module right now.,normal,46.0,0.0,0.0,0.0,0.0,0.027,0.0,0.0721
+Please fill out this survey form for our seminar: https://forms.college.edu/survey,moderate,82.0,0.0,0.0,1.0,0.0,0.0152,0.0,0.1573
+Can you check if this API endpoint works? http://192.168.1.15:8080/status,moderate,73.0,0.0,0.0,1.0,1.0,0.093,0.1781,0.203
+The mini project presentation is scheduled for next Monday. See you at 4 PM.,normal,76.0,0.0,0.0,0.0,0.0,0.0833,0.0132,0.0856
+could someone review my pull request?,normal,37.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0713
+Is PostgreSQL running on your laptop?,normal,37.0,0.0,0.0,0.0,1.0,0.1613,0.0,0.0866
+PASSWORD EXPIRED!! Click http://sysadmin-reset-now.top to update your network password now or lose access!!,high_risk,107.0,2.0,0.1176,1.0,4.0,0.1882,0.0,0.592
+Immediate action required! Your mailbox is full! Verify password at http://mail-upgrade-server.net to avoid deletion!,high_risk,117.0,3.0,0.1667,1.0,3.0,0.0316,0.0,0.7042
+Did you push your commits to the repository? See you at 7 PM.,normal,61.0,0.0,0.0,0.0,1.0,0.087,0.0164,0.0972
+I will be 10 minutes late to the group meeting. See you at 12 PM.,normal,65.0,0.0,0.0,0.0,0.0,0.0889,0.0615,0.0665
+URGENT: Your account has been suspended! Verify your password immediately at http://login-secure-portal.com/auth,high_risk,112.0,7.0,0.4118,1.0,1.0,0.087,0.0,0.7224
+Review this document immediately if possible: https://docs.sharepoint.com/r/1284 Ref #233.,moderate,90.0,1.0,0.0714,1.0,0.0,0.0308,0.0778,0.3502
+We need to add unit tests before submitting. See you at 1 PM.,normal,61.0,0.0,0.0,0.0,0.0,0.087,0.0164,0.0912
+"Hey, are you coming to the lab today? See you at 4 PM.",normal,54.0,0.0,0.0,0.0,1.0,0.1053,0.0185,0.0813
+Is PostgreSQL running on your laptop? See you at 11 PM.,normal,55.0,0.0,0.0,0.0,1.0,0.1951,0.0364,0.0857
+Let's test the socket connection over the LAN switch. See you at 8 PM.,normal,70.0,0.0,0.0,0.0,0.0,0.1321,0.0143,0.0935
+The mini project presentation is scheduled for next Monday.,normal,59.0,0.0,0.0,0.0,0.0,0.04,0.0,0.0778
+Have you had lunch yet? Let's grab something from the canteen.,normal,62.0,0.0,0.0,0.0,1.0,0.0408,0.0,0.0846
+Security Alert: Unauthorized login attempt detected! Confirm your credentials and SSN now: http://bank-security-verify.org,high_risk,122.0,6.0,0.3529,1.0,1.0,0.0693,0.0,0.7426
+I will be 10 minutes late to the group meeting.,normal,47.0,0.0,0.0,0.0,0.0,0.0286,0.0426,0.0867
+Did you push your commits to the repository?,normal,44.0,0.0,0.0,0.0,1.0,0.0278,0.0,0.1001
+CONGRATULATIONS!! You have won the $5000 lottery prize!! Claim your gift card here: http://win-prize-now.biz/claim,high_risk,114.0,7.0,0.3684,1.0,5.0,0.2024,0.0351,0.7839
+Security Alert: Unauthorized login attempt detected! Confirm your credentials and SSN now: http://bank-security-verify.org,high_risk,122.0,6.0,0.3529,1.0,1.0,0.0693,0.0,0.7592
+Review this document immediately if possible: https://docs.sharepoint.com/r/1284,moderate,80.0,1.0,0.0833,1.0,0.0,0.0161,0.05,0.3436
+Hey! Look at this new library release: http://github.com/tools/release-v2,moderate,73.0,0.0,0.0,1.0,1.0,0.0357,0.0137,0.1763
+Let's verify the requirements traceability matrix.,normal,50.0,1.0,0.1429,0.0,0.0,0.0233,0.0,0.3146
+"Hey, are you coming to the lab today?",normal,37.0,0.0,0.0,0.0,1.0,0.0357,0.0,0.0612
+"Hey, are you coming to the lab today?",normal,37.0,0.0,0.0,0.0,1.0,0.0357,0.0,0.0693
+Good morning everyone! Please check the shared document.,normal,56.0,0.0,0.0,0.0,1.0,0.0426,0.0,0.1082
+The mini project presentation is scheduled for next Monday.,normal,59.0,0.0,0.0,0.0,0.0,0.04,0.0,0.0862
+Have you had lunch yet? Let's grab something from the canteen.,normal,62.0,0.0,0.0,0.0,1.0,0.0408,0.0,0.1029
+I am working on the database module right now.,normal,46.0,0.0,0.0,0.0,0.0,0.027,0.0,0.0555
+Is this link safe? https://dev-resources.net/download-pack Ref #846.,moderate,68.0,0.0,0.0,1.0,1.0,0.0408,0.0441,0.2101
+Let's test the socket connection over the LAN switch.,normal,53.0,0.0,0.0,0.0,0.0,0.093,0.0,0.0632
+where did you save the uml diagrams?,normal,36.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0923
+Good morning everyone! Please check the shared document.,normal,56.0,0.0,0.0,0.0,1.0,0.0426,0.0,0.0814
+The mini project presentation is scheduled for next Monday.,normal,59.0,0.0,0.0,0.0,0.0,0.04,0.0,0.0701
+You won a free iPhone 16! Winner #49281. Claim your reward immediately: http://gift-winner-free.net/redeem!! Code: 44290! HURRY!,high_risk,128.0,6.0,0.2857,1.0,5.0,0.1176,0.0938,0.8114
+Don't forget to update your profile info before 6 PM today. Ref #669.,moderate,69.0,0.0,0.0,0.0,0.0,0.0816,0.058,0.088
+is postgresql running on your laptop? see you at 6 pm.,normal,54.0,0.0,0.0,0.0,1.0,0.0,0.0185,0.0767
+"Thanks for the update, that looks great!",normal,40.0,0.0,0.0,0.0,1.0,0.0312,0.0,0.103
+Everything compiled cleanly on my machine.,normal,42.0,0.0,0.0,0.0,0.0,0.0278,0.0,0.062
+Could someone review my pull request? See you at 2 PM.,normal,54.0,0.0,0.0,0.0,1.0,0.0976,0.0185,0.1023
+Immediate action required! Your mailbox is full! Verify password at http://mail-upgrade-server.net to avoid deletion!,high_risk,117.0,3.0,0.1667,1.0,3.0,0.0316,0.0,0.7163
+The mini project presentation is scheduled for next Monday.,normal,59.0,0.0,0.0,0.0,0.0,0.04,0.0,0.0996
+I am working on the database module right now.,normal,46.0,0.0,0.0,0.0,0.0,0.027,0.0,0.0751
+Have you had lunch yet? Let's grab something from the canteen.,normal,62.0,0.0,0.0,0.0,1.0,0.0408,0.0,0.099
+We need to add unit tests before submitting.,normal,44.0,0.0,0.0,0.0,0.0,0.0278,0.0,0.065
+Can you share the notes from the morning lecture? See you at 7 PM.,normal,66.0,0.0,0.0,0.0,1.0,0.08,0.0152,0.11
+CONGRATULATIONS!! You have won the $5000 lottery prize!! Claim your gift card here: http://win-prize-now.biz/claim Code: 16014! HURRY!,high_risk,134.0,7.0,0.3182,1.0,7.0,0.2473,0.0672,0.8232
+"Hey, are you coming to the lab today? See you at 9 PM.",normal,54.0,0.0,0.0,0.0,1.0,0.1053,0.0185,0.0856
+Is PostgreSQL running on your laptop? See you at 5 PM.,normal,54.0,0.0,0.0,0.0,1.0,0.1951,0.0185,0.1068
+CONGRATULATIONS!! You have won the $5000 lottery prize!! Claim your gift card here: http://win-prize-now.biz/claim,high_risk,114.0,7.0,0.3684,1.0,5.0,0.2024,0.0351,0.8045
+Is PostgreSQL running on your laptop?,normal,37.0,0.0,0.0,0.0,1.0,0.1613,0.0,0.0837
+Can you check if this API endpoint works? http://192.168.1.15:8080/status Ref #383.,moderate,83.0,0.0,0.0,1.0,1.0,0.1087,0.1928,0.2354
+Everything compiled cleanly on my machine.,normal,42.0,0.0,0.0,0.0,0.0,0.0278,0.0,0.0488
+"Hey, are you coming to the lab today? See you at 8 PM.",normal,54.0,0.0,0.0,0.0,1.0,0.1053,0.0185,0.1029
+URGENT: Your account has been suspended! Verify your password immediately at http://login-secure-portal.com/auth,high_risk,112.0,7.0,0.4118,1.0,1.0,0.087,0.0,0.7396
+Can you share the notes from the morning lecture?,normal,49.0,0.0,0.0,0.0,1.0,0.025,0.0,0.0833
+Could someone review my pull request?,normal,37.0,0.0,0.0,0.0,1.0,0.0323,0.0,0.0754
+Can you share the notes from the morning lecture? See you at 7 PM.,normal,66.0,0.0,0.0,0.0,1.0,0.08,0.0152,0.1085
+Are we meeting in room 302 or 304? See you at 11 PM.,normal,52.0,0.0,0.0,0.0,1.0,0.1333,0.1538,0.0919
+Free bitcoin giveaway! Double your crypto in 24 hours! Login now: http://crypto-free-coins.cc/claim?id=99 Code: 81845! HURRY!,high_risk,125.0,7.0,0.3182,1.0,5.0,0.1034,0.072,0.8028
+Check out this interesting article at https://techblog.org/networking-guide Ref #454.,moderate,85.0,0.0,0.0,1.0,0.0,0.0303,0.0353,0.1669
+Let's meet at 4 PM in the library to discuss the project.,normal,57.0,0.0,0.0,0.0,0.0,0.0698,0.0175,0.086
+we need to add unit tests before submitting.,normal,44.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0587
+Let's meet at 4 PM in the library to discuss the project.,normal,57.0,0.0,0.0,0.0,0.0,0.0698,0.0175,0.0989
+"Hey, are you coming to the lab today?",normal,37.0,0.0,0.0,0.0,1.0,0.0357,0.0,0.0855
+"Thanks for the update, that looks great! See you at 1 PM.",normal,57.0,0.0,0.0,0.0,1.0,0.0952,0.0175,0.1296
+Where did you save the UML diagrams?,normal,36.0,0.0,0.0,0.0,1.0,0.1379,0.0,0.0927
+Have you had lunch yet? Let's grab something from the canteen.,normal,62.0,0.0,0.0,0.0,1.0,0.0408,0.0,0.0968
+Quick reminder: please verify your attendance record on the portal today.,moderate,73.0,1.0,0.0909,0.0,0.0,0.0164,0.0,0.2787
+"Thanks for the update, that looks great! See you at 4 PM.",normal,57.0,0.0,0.0,0.0,1.0,0.0952,0.0175,0.1005
+CONGRATULATIONS!! You have won the $5000 lottery prize!! Claim your gift card here: http://win-prize-now.biz/claim Code: 99899! HURRY!,high_risk,134.0,7.0,0.3182,1.0,7.0,0.2473,0.0672,0.7982
+I will be 10 minutes late to the group meeting.,normal,47.0,0.0,0.0,0.0,0.0,0.0286,0.0426,0.0758
+Quick reminder: please verify your attendance record on the portal today.,moderate,73.0,1.0,0.0909,0.0,0.0,0.0164,0.0,0.2784
+Hey! Look at this new library release: http://github.com/tools/release-v2 Ref #180.,moderate,83.0,0.0,0.0,1.0,1.0,0.0508,0.0482,0.1908
+We need to add unit tests before submitting.,normal,44.0,0.0,0.0,0.0,0.0,0.0278,0.0,0.0772
+Security Alert: Unauthorized login attempt detected! Confirm your credentials and SSN now: http://bank-security-verify.org Code: 43425! HURRY!,high_risk,142.0,6.0,0.3,1.0,3.0,0.1182,0.0352,0.8078
+Please submit your project credentials form to the coordinator.,moderate,63.0,0.0,0.0,0.0,0.0,0.0185,0.0,0.0878
+I am working on the database module right now.,normal,46.0,0.0,0.0,0.0,0.0,0.027,0.0,0.07
+Can you check if this API endpoint works? http://192.168.1.15:8080/status,moderate,73.0,0.0,0.0,1.0,1.0,0.093,0.1781,0.189
+We need to add unit tests before submitting.,normal,44.0,0.0,0.0,0.0,0.0,0.0278,0.0,0.0947
+CONGRATULATIONS!! You have won the $5000 lottery prize!! Claim your gift card here: http://win-prize-now.biz/claim,high_risk,114.0,7.0,0.3684,1.0,5.0,0.2024,0.0351,0.8383
+Please fill out this survey form for our seminar: https://forms.college.edu/survey,moderate,82.0,0.0,0.0,1.0,0.0,0.0152,0.0,0.1651
+have you had lunch yet? let's grab something from the canteen.,normal,62.0,0.0,0.0,0.0,1.0,0.0,0.0,0.1064
+The assignment submission deadline is tomorrow at 5 PM.,normal,55.0,0.0,0.0,0.0,0.0,0.0667,0.0182,0.0728
+Let's test the socket connection over the LAN switch.,normal,53.0,0.0,0.0,0.0,0.0,0.093,0.0,0.1134
+Quick reminder: please verify your attendance record on the portal today.,moderate,73.0,1.0,0.0909,0.0,0.0,0.0164,0.0,0.241
+Review this document immediately if possible: https://docs.sharepoint.com/r/1284,moderate,80.0,1.0,0.0833,1.0,0.0,0.0161,0.05,0.3749
+Bank Alert: Your wire transfer was put on hold. Verify bank credentials immediately at http://secure-bank-login.xyz,high_risk,115.0,8.0,0.4211,1.0,0.0,0.043,0.0,0.7111
+Please send the PDF version of the report. See you at 12 PM.,normal,60.0,0.0,0.0,0.0,0.0,0.1591,0.0333,0.0904
+Let's meet at 4 PM in the library to discuss the project. See you at 8 PM.,normal,74.0,0.0,0.0,0.0,0.0,0.1132,0.027,0.0941
+Hey! Look at this new library release: http://github.com/tools/release-v2 Ref #367.,moderate,83.0,0.0,0.0,1.0,1.0,0.0508,0.0482,0.1608
+Bank Alert: Your wire transfer was put on hold. Verify bank credentials immediately at http://secure-bank-login.xyz,high_risk,115.0,8.0,0.4211,1.0,0.0,0.043,0.0,0.7368
+Found this useful reference for Linear Regression: https://scikit-learn.org Ref #590.,moderate,85.0,0.0,0.0,1.0,0.0,0.0615,0.0353,0.1746
+i am working on the database module right now.,normal,46.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0305
+Found this useful reference for Linear Regression: https://scikit-learn.org,moderate,75.0,0.0,0.0,1.0,0.0,0.0484,0.0,0.1578
+Are we meeting in room 302 or 304? See you at 3 PM.,normal,51.0,0.0,0.0,0.0,1.0,0.1333,0.1373,0.0907
+Everything compiled cleanly on my machine. See you at 8 PM.,normal,59.0,0.0,0.0,0.0,0.0,0.087,0.0169,0.0729
+Don't forget to update your profile info before 6 PM today.,moderate,59.0,0.0,0.0,0.0,0.0,0.0652,0.0169,0.0778
+ACTION REQUIRED: Wire transfer $1000 to avoid account deactivation immediately! Click http://quick-wire-pay.net,high_risk,111.0,6.0,0.375,1.0,2.0,0.1839,0.036,0.7768
+i will be 10 minutes late to the group meeting. see you at 7 pm.,normal,64.0,0.0,0.0,0.0,0.0,0.0,0.0469,0.083
+Have you had lunch yet? Let's grab something from the canteen.,normal,62.0,0.0,0.0,0.0,1.0,0.0408,0.0,0.1229
+The mini project presentation is scheduled for next Monday.,normal,59.0,0.0,0.0,0.0,0.0,0.04,0.0,0.0755
+Could someone review my pull request? See you at 1 PM.,normal,54.0,0.0,0.0,0.0,1.0,0.0976,0.0185,0.1138
+Let's verify the requirements traceability matrix.,normal,50.0,1.0,0.1429,0.0,0.0,0.0233,0.0,0.3026
+Can you share the notes from the morning lecture?,normal,49.0,0.0,0.0,0.0,1.0,0.025,0.0,0.0771
+Review this document immediately if possible: https://docs.sharepoint.com/r/1284,moderate,80.0,1.0,0.0833,1.0,0.0,0.0161,0.05,0.3387
+Can you share the notes from the morning lecture?,normal,49.0,0.0,0.0,0.0,1.0,0.025,0.0,0.0856
+"Thanks for the update, that looks great! See you at 12 PM.",normal,58.0,0.0,0.0,0.0,1.0,0.0952,0.0345,0.0966
+Hey! Look at this new library release: http://github.com/tools/release-v2,moderate,73.0,0.0,0.0,1.0,1.0,0.0357,0.0137,0.1762
+I am working on the database module right now.,normal,46.0,0.0,0.0,0.0,0.0,0.027,0.0,0.0709
+good morning everyone! please check the shared document.,normal,56.0,0.0,0.0,0.0,1.0,0.0,0.0,0.1099
+URGENT: Your account has been suspended! Verify your password immediately at http://login-secure-portal.com/auth,high_risk,112.0,7.0,0.4118,1.0,1.0,0.087,0.0,0.7045
+I will be 10 minutes late to the group meeting.,normal,47.0,0.0,0.0,0.0,0.0,0.0286,0.0426,0.0613
+Immediate action required! Your mailbox is full! Verify password at http://mail-upgrade-server.net to avoid deletion!,high_risk,117.0,3.0,0.1667,1.0,3.0,0.0316,0.0,0.6774
+Could someone review my pull request?,normal,37.0,0.0,0.0,0.0,1.0,0.0323,0.0,0.0756
+Have you had lunch yet? Let's grab something from the canteen. See you at 6 PM.,normal,79.0,0.0,0.0,0.0,1.0,0.0847,0.0127,0.0978
+Please send the PDF version of the report.,normal,42.0,0.0,0.0,0.0,0.0,0.1176,0.0,0.0772
+Are we meeting in room 302 or 304?,normal,34.0,0.0,0.0,0.0,1.0,0.05,0.1765,0.1166
+Could someone review my pull request?,normal,37.0,0.0,0.0,0.0,1.0,0.0323,0.0,0.0766
+Let's verify the requirements traceability matrix. See you at 6 PM.,normal,67.0,1.0,0.0833,0.0,0.0,0.0755,0.0149,0.251
+Quick reminder: please verify your attendance record on the portal today.,moderate,73.0,1.0,0.0909,0.0,0.0,0.0164,0.0,0.2392
+Everything compiled cleanly on my machine.,normal,42.0,0.0,0.0,0.0,0.0,0.0278,0.0,0.079
+are we meeting in room 302 or 304?,normal,34.0,0.0,0.0,0.0,1.0,0.0,0.1765,0.112
+Please send the PDF version of the report.,normal,42.0,0.0,0.0,0.0,0.0,0.1176,0.0,0.0524
+Bank Alert: Your wire transfer was put on hold. Verify bank credentials immediately at http://secure-bank-login.xyz Code: 80736! HURRY!,high_risk,135.0,8.0,0.3636,1.0,2.0,0.098,0.037,0.7552
+Please submit your project credentials form to the coordinator.,moderate,63.0,0.0,0.0,0.0,0.0,0.0185,0.0,0.0866
+where did you save the uml diagrams?,normal,36.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0931
+Review this document immediately if possible: https://docs.sharepoint.com/r/1284 Ref #162.,moderate,90.0,1.0,0.0714,1.0,0.0,0.0308,0.0778,0.3632
+Let's meet at 4 PM in the library to discuss the project.,normal,57.0,0.0,0.0,0.0,0.0,0.0698,0.0175,0.0478
+Hey! Look at this new library release: http://github.com/tools/release-v2 Ref #163.,moderate,83.0,0.0,0.0,1.0,1.0,0.0508,0.0482,0.1989
+The mini project presentation is scheduled for next Monday. See you at 11 PM.,normal,77.0,0.0,0.0,0.0,0.0,0.0833,0.026,0.1006
+Is this link safe? https://dev-resources.net/download-pack,moderate,58.0,0.0,0.0,1.0,1.0,0.0217,0.0,0.161
+Is PostgreSQL running on your laptop?,normal,37.0,0.0,0.0,0.0,1.0,0.1613,0.0,0.096
+Let's meet at 4 PM in the library to discuss the project.,normal,57.0,0.0,0.0,0.0,0.0,0.0698,0.0175,0.0866
+Immediate action required! Your mailbox is full! Verify password at http://mail-upgrade-server.net to avoid deletion! Code: 37964! HURRY!,high_risk,137.0,3.0,0.1429,1.0,5.0,0.0865,0.0365,0.7021
+Hey! Look at this new library release: http://github.com/tools/release-v2,moderate,73.0,0.0,0.0,1.0,1.0,0.0357,0.0137,0.1854
+i will be 10 minutes late to the group meeting.,normal,47.0,0.0,0.0,0.0,0.0,0.0,0.0426,0.0948
+Have you had lunch yet? Let's grab something from the canteen. See you at 11 PM.,normal,80.0,0.0,0.0,0.0,1.0,0.0847,0.025,0.1276
+Please send the PDF version of the report. See you at 2 PM.,normal,59.0,0.0,0.0,0.0,0.0,0.1591,0.0169,0.0923
+Security Alert: Unauthorized login attempt detected! Confirm your credentials and SSN now: http://bank-security-verify.org,high_risk,122.0,6.0,0.3529,1.0,1.0,0.0693,0.0,0.7144
+are we meeting in room 302 or 304? see you at 7 pm.,normal,51.0,0.0,0.0,0.0,1.0,0.0,0.1373,0.0877
+Don't forget to update your profile info before 6 PM today.,moderate,59.0,0.0,0.0,0.0,0.0,0.0652,0.0169,0.0719
+Review this document immediately if possible: https://docs.sharepoint.com/r/1284 Ref #875.,moderate,90.0,1.0,0.0714,1.0,0.0,0.0308,0.0778,0.3562
+Please send the PDF version of the report.,normal,42.0,0.0,0.0,0.0,0.0,0.1176,0.0,0.0838
+Please send the PDF version of the report. See you at 2 PM.,normal,59.0,0.0,0.0,0.0,0.0,0.1591,0.0169,0.0967
+"Thanks for the update, that looks great! See you at 11 PM.",normal,58.0,0.0,0.0,0.0,1.0,0.0952,0.0345,0.0821
+Found this useful reference for Linear Regression: https://scikit-learn.org Ref #439.,moderate,85.0,0.0,0.0,1.0,0.0,0.0615,0.0353,0.2038
+Let's verify the requirements traceability matrix.,normal,50.0,1.0,0.1429,0.0,0.0,0.0233,0.0,0.286
+where did you save the uml diagrams?,normal,36.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0811
+Security Alert: Unauthorized login attempt detected! Confirm your credentials and SSN now: http://bank-security-verify.org Code: 96182! HURRY!,high_risk,142.0,6.0,0.3,1.0,3.0,0.1182,0.0352,0.8104
+You won a free iPhone 16! Winner #49281. Claim your reward immediately: http://gift-winner-free.net/redeem!!,high_risk,108.0,6.0,0.3333,1.0,3.0,0.0526,0.0648,0.7878
+URGENT NOTICE: IRS tax refund of $2450 pending. Click http://refund-irs-claim.gov.fake.org to claim before midnight!,high_risk,116.0,5.0,0.25,1.0,2.0,0.1839,0.0345,0.7724
+Good morning everyone! Please check the shared document. See you at 8 PM.,normal,73.0,0.0,0.0,0.0,1.0,0.0877,0.0137,0.1053
+Found this useful reference for Linear Regression: https://scikit-learn.org,moderate,75.0,0.0,0.0,1.0,0.0,0.0484,0.0,0.1632
+PASSWORD EXPIRED!! Click http://sysadmin-reset-now.top to update your network password now or lose access!!,high_risk,107.0,2.0,0.1176,1.0,4.0,0.1882,0.0,0.5698
+Good morning everyone! Please check the shared document. See you at 12 PM.,normal,74.0,0.0,0.0,0.0,1.0,0.0877,0.027,0.1059
+Hey! Look at this new library release: http://github.com/tools/release-v2,moderate,73.0,0.0,0.0,1.0,1.0,0.0357,0.0137,0.1644
+i will be 10 minutes late to the group meeting. see you at 7 pm.,normal,64.0,0.0,0.0,0.0,0.0,0.0,0.0469,0.0801
+have you had lunch yet? let's grab something from the canteen. see you at 5 pm.,normal,79.0,0.0,0.0,0.0,1.0,0.0,0.0127,0.093
+The assignment submission deadline is tomorrow at 5 PM. See you at 10 PM.,normal,73.0,0.0,0.0,0.0,0.0,0.1091,0.0411,0.105
+The assignment submission deadline is tomorrow at 5 PM.,normal,55.0,0.0,0.0,0.0,0.0,0.0667,0.0182,0.0702
+Free bitcoin giveaway! Double your crypto in 24 hours! Login now: http://crypto-free-coins.cc/claim?id=99,high_risk,105.0,7.0,0.3684,1.0,3.0,0.0385,0.0381,0.7574
+Quick reminder: please verify your attendance record on the portal today. Ref #251.,moderate,83.0,1.0,0.0769,0.0,0.0,0.0312,0.0361,0.2521
+Let's test the socket connection over the LAN switch.,normal,53.0,0.0,0.0,0.0,0.0,0.093,0.0,0.0635
+Have you had lunch yet? Let's grab something from the canteen.,normal,62.0,0.0,0.0,0.0,1.0,0.0408,0.0,0.0842
+Please submit your project credentials form to the coordinator. Ref #939.,moderate,73.0,0.0,0.0,0.0,0.0,0.0351,0.0411,0.0785
+Let's test the socket connection over the LAN switch.,normal,53.0,0.0,0.0,0.0,0.0,0.093,0.0,0.0718
+"Thanks for the update, that looks great! See you at 6 PM.",normal,57.0,0.0,0.0,0.0,1.0,0.0952,0.0175,0.1081
+Please send the PDF version of the report.,normal,42.0,0.0,0.0,0.0,0.0,0.1176,0.0,0.1097
+Is PostgreSQL running on your laptop?,normal,37.0,0.0,0.0,0.0,1.0,0.1613,0.0,0.0912
+Review this document immediately if possible: https://docs.sharepoint.com/r/1284 Ref #292.,moderate,90.0,1.0,0.0714,1.0,0.0,0.0308,0.0778,0.3546
+I will be 10 minutes late to the group meeting.,normal,47.0,0.0,0.0,0.0,0.0,0.0286,0.0426,0.081
+Everything compiled cleanly on my machine.,normal,42.0,0.0,0.0,0.0,0.0,0.0278,0.0,0.0782
+"Hey, are you coming to the lab today? See you at 8 PM.",normal,54.0,0.0,0.0,0.0,1.0,0.1053,0.0185,0.1163
+Good morning everyone! Please check the shared document.,normal,56.0,0.0,0.0,0.0,1.0,0.0426,0.0,0.1126
+where did you save the uml diagrams?,normal,36.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0811
+Don't forget to update your profile info before 6 PM today.,moderate,59.0,0.0,0.0,0.0,0.0,0.0652,0.0169,0.1103
+Don't forget to update your profile info before 6 PM today.,moderate,59.0,0.0,0.0,0.0,0.0,0.0652,0.0169,0.0825
+Everything compiled cleanly on my machine.,normal,42.0,0.0,0.0,0.0,0.0,0.0278,0.0,0.0658
+The mini project presentation is scheduled for next Monday.,normal,59.0,0.0,0.0,0.0,0.0,0.04,0.0,0.1056
+Everything compiled cleanly on my machine.,normal,42.0,0.0,0.0,0.0,0.0,0.0278,0.0,0.0537
+Please submit your project credentials form to the coordinator. Ref #797.,moderate,73.0,0.0,0.0,0.0,0.0,0.0351,0.0411,0.0884
+We need to add unit tests before submitting. See you at 1 PM.,normal,61.0,0.0,0.0,0.0,0.0,0.087,0.0164,0.0809
+Immediate action required! Your mailbox is full! Verify password at http://mail-upgrade-server.net to avoid deletion!,high_risk,117.0,3.0,0.1667,1.0,3.0,0.0316,0.0,0.7208
+Did you push your commits to the repository? See you at 3 PM.,normal,61.0,0.0,0.0,0.0,1.0,0.087,0.0164,0.0895
+Check out this interesting article at https://techblog.org/networking-guide,moderate,75.0,0.0,0.0,1.0,0.0,0.0159,0.0,0.1792
+The assignment submission deadline is tomorrow at 5 PM. See you at 5 PM.,normal,72.0,0.0,0.0,0.0,0.0,0.1091,0.0278,0.0905
+Please fill out this survey form for our seminar: https://forms.college.edu/survey Ref #943.,moderate,92.0,0.0,0.0,1.0,0.0,0.029,0.0326,0.1845
+We need to add unit tests before submitting.,normal,44.0,0.0,0.0,0.0,0.0,0.0278,0.0,0.0716
+You won a free iPhone 16! Winner #49281. Claim your reward immediately: http://gift-winner-free.net/redeem!!,high_risk,108.0,6.0,0.3333,1.0,3.0,0.0526,0.0648,0.7528
+Let's meet at 4 PM in the library to discuss the project.,normal,57.0,0.0,0.0,0.0,0.0,0.0698,0.0175,0.1244
+let's test the socket connection over the lan switch. see you at 11 pm.,normal,71.0,0.0,0.0,0.0,0.0,0.0,0.0282,0.0672
+Let's meet at 4 PM in the library to discuss the project.,normal,57.0,0.0,0.0,0.0,0.0,0.0698,0.0175,0.0884
+Did you push your commits to the repository?,normal,44.0,0.0,0.0,0.0,1.0,0.0278,0.0,0.0776
+Is this link safe? https://dev-resources.net/download-pack Ref #307.,moderate,68.0,0.0,0.0,1.0,1.0,0.0408,0.0441,0.1948
+the assignment submission deadline is tomorrow at 5 pm. see you at 5 pm.,normal,72.0,0.0,0.0,0.0,0.0,0.0,0.0278,0.0761
+Please submit your project credentials form to the coordinator.,moderate,63.0,0.0,0.0,0.0,0.0,0.0185,0.0,0.0814
+Everything compiled cleanly on my machine.,normal,42.0,0.0,0.0,0.0,0.0,0.0278,0.0,0.0857
+Let's test the socket connection over the LAN switch.,normal,53.0,0.0,0.0,0.0,0.0,0.093,0.0,0.0581
+We need to add unit tests before submitting. See you at 1 PM.,normal,61.0,0.0,0.0,0.0,0.0,0.087,0.0164,0.0771
+We need to add unit tests before submitting.,normal,44.0,0.0,0.0,0.0,0.0,0.0278,0.0,0.0719
+Quick reminder: please verify your attendance record on the portal today.,moderate,73.0,1.0,0.0909,0.0,0.0,0.0164,0.0,0.2462
+Review this document immediately if possible: https://docs.sharepoint.com/r/1284,moderate,80.0,1.0,0.0833,1.0,0.0,0.0161,0.05,0.3519
+Could someone review my pull request?,normal,37.0,0.0,0.0,0.0,1.0,0.0323,0.0,0.07
+Everything compiled cleanly on my machine.,normal,42.0,0.0,0.0,0.0,0.0,0.0278,0.0,0.059
+The mini project presentation is scheduled for next Monday.,normal,59.0,0.0,0.0,0.0,0.0,0.04,0.0,0.1024
+We need to add unit tests before submitting.,normal,44.0,0.0,0.0,0.0,0.0,0.0278,0.0,0.0754
+Have you had lunch yet? Let's grab something from the canteen.,normal,62.0,0.0,0.0,0.0,1.0,0.0408,0.0,0.0961
+i am working on the database module right now.,normal,46.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1071
+Please send the PDF version of the report.,normal,42.0,0.0,0.0,0.0,0.0,0.1176,0.0,0.0866
+Please send the PDF version of the report.,normal,42.0,0.0,0.0,0.0,0.0,0.1176,0.0,0.1032
+ACTION REQUIRED: Wire transfer $1000 to avoid account deactivation immediately! Click http://quick-wire-pay.net Code: 54939! HURRY!,high_risk,131.0,6.0,0.3158,1.0,4.0,0.2292,0.0687,0.8029
+Are we meeting in room 302 or 304? See you at 10 PM.,normal,52.0,0.0,0.0,0.0,1.0,0.1333,0.1538,0.121
+URGENT: Your account has been suspended! Verify your password immediately at http://login-secure-portal.com/auth,high_risk,112.0,7.0,0.4118,1.0,1.0,0.087,0.0,0.7212
+Can you check if this API endpoint works? http://192.168.1.15:8080/status,moderate,73.0,0.0,0.0,1.0,1.0,0.093,0.1781,0.2154
+Where did you save the UML diagrams?,normal,36.0,0.0,0.0,0.0,1.0,0.1379,0.0,0.1072
+Security Alert: Unauthorized login attempt detected! Confirm your credentials and SSN now: http://bank-security-verify.org Code: 94926! HURRY!,high_risk,142.0,6.0,0.3,1.0,3.0,0.1182,0.0352,0.7897
+PASSWORD EXPIRED!! Click http://sysadmin-reset-now.top to update your network password now or lose access!! Code: 95678! HURRY!,high_risk,127.0,2.0,0.1,1.0,6.0,0.234,0.0394,0.5924
+have you had lunch yet? let's grab something from the canteen.,normal,62.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0948
+Review this document immediately if possible: https://docs.sharepoint.com/r/1284,moderate,80.0,1.0,0.0833,1.0,0.0,0.0161,0.05,0.3586
+You won a free iPhone 16! Winner #49281. Claim your reward immediately: http://gift-winner-free.net/redeem!!,high_risk,108.0,6.0,0.3333,1.0,3.0,0.0526,0.0648,0.7832
+The assignment submission deadline is tomorrow at 5 PM.,normal,55.0,0.0,0.0,0.0,0.0,0.0667,0.0182,0.0694
+Hey! Look at this new library release: http://github.com/tools/release-v2,moderate,73.0,0.0,0.0,1.0,1.0,0.0357,0.0137,0.1943
+Have you had lunch yet? Let's grab something from the canteen.,normal,62.0,0.0,0.0,0.0,1.0,0.0408,0.0,0.0863
+Don't forget to update your profile info before 6 PM today.,moderate,59.0,0.0,0.0,0.0,0.0,0.0652,0.0169,0.0688
+Bank Alert: Your wire transfer was put on hold. Verify bank credentials immediately at http://secure-bank-login.xyz,high_risk,115.0,8.0,0.4211,1.0,0.0,0.043,0.0,0.7219
+Is PostgreSQL running on your laptop?,normal,37.0,0.0,0.0,0.0,1.0,0.1613,0.0,0.073
+Let's meet at 4 PM in the library to discuss the project.,normal,57.0,0.0,0.0,0.0,0.0,0.0698,0.0175,0.0922
+The mini project presentation is scheduled for next Monday. See you at 9 PM.,normal,76.0,0.0,0.0,0.0,0.0,0.0833,0.0132,0.1213
+Can you share the notes from the morning lecture? See you at 1 PM.,normal,66.0,0.0,0.0,0.0,1.0,0.08,0.0152,0.0927
+Security Alert: Unauthorized login attempt detected! Confirm your credentials and SSN now: http://bank-security-verify.org Code: 17686! HURRY!,high_risk,142.0,6.0,0.3,1.0,3.0,0.1182,0.0352,0.8085
+Don't forget to update your profile info before 6 PM today.,moderate,59.0,0.0,0.0,0.0,0.0,0.0652,0.0169,0.0859
+Is PostgreSQL running on your laptop? See you at 11 PM.,normal,55.0,0.0,0.0,0.0,1.0,0.1951,0.0364,0.1242
+Found this useful reference for Linear Regression: https://scikit-learn.org,moderate,75.0,0.0,0.0,1.0,0.0,0.0484,0.0,0.1802
+Could someone review my pull request?,normal,37.0,0.0,0.0,0.0,1.0,0.0323,0.0,0.0899
+Good morning everyone! Please check the shared document.,normal,56.0,0.0,0.0,0.0,1.0,0.0426,0.0,0.0797
+Is PostgreSQL running on your laptop? See you at 6 PM.,normal,54.0,0.0,0.0,0.0,1.0,0.1951,0.0185,0.0894
+can you share the notes from the morning lecture? see you at 8 pm.,normal,66.0,0.0,0.0,0.0,1.0,0.0,0.0152,0.1114
+are we meeting in room 302 or 304? see you at 7 pm.,normal,51.0,0.0,0.0,0.0,1.0,0.0,0.1373,0.1001
+Have you had lunch yet? Let's grab something from the canteen.,normal,62.0,0.0,0.0,0.0,1.0,0.0408,0.0,0.1258
+Immediate action required! Your mailbox is full! Verify password at http://mail-upgrade-server.net to avoid deletion!,high_risk,117.0,3.0,0.1667,1.0,3.0,0.0316,0.0,0.6981
+Is PostgreSQL running on your laptop? See you at 12 PM.,normal,55.0,0.0,0.0,0.0,1.0,0.1951,0.0364,0.1057
+Can you check if this API endpoint works? http://192.168.1.15:8080/status,moderate,73.0,0.0,0.0,1.0,1.0,0.093,0.1781,0.2044
+did you push your commits to the repository?,normal,44.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0758
+I am working on the database module right now. See you at 7 PM.,normal,63.0,0.0,0.0,0.0,0.0,0.0851,0.0159,0.1088
+Is this link safe? https://dev-resources.net/download-pack,moderate,58.0,0.0,0.0,1.0,1.0,0.0217,0.0,0.1887
+"hey, are you coming to the lab today?",normal,37.0,0.0,0.0,0.0,1.0,0.0,0.0,0.1012
+Let's verify the requirements traceability matrix.,normal,50.0,1.0,0.1429,0.0,0.0,0.0233,0.0,0.3128
+Is this link safe? https://dev-resources.net/download-pack,moderate,58.0,0.0,0.0,1.0,1.0,0.0217,0.0,0.1791
+did you push your commits to the repository?,normal,44.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0901
+Let's test the socket connection over the LAN switch. See you at 6 PM.,normal,70.0,0.0,0.0,0.0,0.0,0.1321,0.0143,0.1259
+Is this link safe? https://dev-resources.net/download-pack Ref #642.,moderate,68.0,0.0,0.0,1.0,1.0,0.0408,0.0441,0.1862
+"Thanks for the update, that looks great! See you at 7 PM.",normal,57.0,0.0,0.0,0.0,1.0,0.0952,0.0175,0.0999
+Quick reminder: please verify your attendance record on the portal today. Ref #677.,moderate,83.0,1.0,0.0769,0.0,0.0,0.0312,0.0361,0.2634
+could someone review my pull request? see you at 6 pm.,normal,54.0,0.0,0.0,0.0,1.0,0.0,0.0185,0.0868
+You won a free iPhone 16! Winner #49281. Claim your reward immediately: http://gift-winner-free.net/redeem!!,high_risk,108.0,6.0,0.3333,1.0,3.0,0.0526,0.0648,0.7729
+Did you push your commits to the repository?,normal,44.0,0.0,0.0,0.0,1.0,0.0278,0.0,0.0847
+Please send the PDF version of the report.,normal,42.0,0.0,0.0,0.0,0.0,0.1176,0.0,0.067
+Please send the PDF version of the report.,normal,42.0,0.0,0.0,0.0,0.0,0.1176,0.0,0.0676
+Please submit your project credentials form to the coordinator. Ref #199.,moderate,73.0,0.0,0.0,0.0,0.0,0.0351,0.0411,0.072
+the mini project presentation is scheduled for next monday. see you at 2 pm.,normal,76.0,0.0,0.0,0.0,0.0,0.0,0.0132,0.0974
+let's verify the requirements traceability matrix.,normal,50.0,1.0,0.1429,0.0,0.0,0.0,0.0,0.2746
+You won a free iPhone 16! Winner #49281. Claim your reward immediately: http://gift-winner-free.net/redeem!!,high_risk,108.0,6.0,0.3333,1.0,3.0,0.0526,0.0648,0.7774
+Good morning everyone! Please check the shared document.,normal,56.0,0.0,0.0,0.0,1.0,0.0426,0.0,0.1131
+Please send the PDF version of the report.,normal,42.0,0.0,0.0,0.0,0.0,0.1176,0.0,0.0525
+Let's verify the requirements traceability matrix.,normal,50.0,1.0,0.1429,0.0,0.0,0.0233,0.0,0.2906
+Can you check if this API endpoint works? http://192.168.1.15:8080/status Ref #271.,moderate,83.0,0.0,0.0,1.0,1.0,0.1087,0.1928,0.2046
+Everything compiled cleanly on my machine.,normal,42.0,0.0,0.0,0.0,0.0,0.0278,0.0,0.0612
+ACTION REQUIRED: Wire transfer $1000 to avoid account deactivation immediately! Click http://quick-wire-pay.net,high_risk,111.0,6.0,0.375,1.0,2.0,0.1839,0.036,0.7637
+Let's test the socket connection over the LAN switch.,normal,53.0,0.0,0.0,0.0,0.0,0.093,0.0,0.0899
+Please fill out this survey form for our seminar: https://forms.college.edu/survey,moderate,82.0,0.0,0.0,1.0,0.0,0.0152,0.0,0.1736
+Security Alert: Unauthorized login attempt detected! Confirm your credentials and SSN now: http://bank-security-verify.org,high_risk,122.0,6.0,0.3529,1.0,1.0,0.0693,0.0,0.7388
+Found this useful reference for Linear Regression: https://scikit-learn.org,moderate,75.0,0.0,0.0,1.0,0.0,0.0484,0.0,0.1784
+Quick reminder: please verify your attendance record on the portal today.,moderate,73.0,1.0,0.0909,0.0,0.0,0.0164,0.0,0.2793
+Please fill out this survey form for our seminar: https://forms.college.edu/survey,moderate,82.0,0.0,0.0,1.0,0.0,0.0152,0.0,0.1741
+Quick reminder: please verify your attendance record on the portal today.,moderate,73.0,1.0,0.0909,0.0,0.0,0.0164,0.0,0.256
+Security Alert: Unauthorized login attempt detected! Confirm your credentials and SSN now: http://bank-security-verify.org,high_risk,122.0,6.0,0.3529,1.0,1.0,0.0693,0.0,0.7447
+Let's verify the requirements traceability matrix. See you at 5 PM.,normal,67.0,1.0,0.0833,0.0,0.0,0.0755,0.0149,0.2593
+Let's meet at 4 PM in the library to discuss the project.,normal,57.0,0.0,0.0,0.0,0.0,0.0698,0.0175,0.0834
+Security Alert: Unauthorized login attempt detected! Confirm your credentials and SSN now: http://bank-security-verify.org,high_risk,122.0,6.0,0.3529,1.0,1.0,0.0693,0.0,0.7611
+Can you check if this API endpoint works? http://192.168.1.15:8080/status,moderate,73.0,0.0,0.0,1.0,1.0,0.093,0.1781,0.218
+Let's meet at 4 PM in the library to discuss the project. See you at 11 PM.,normal,75.0,0.0,0.0,0.0,0.0,0.1132,0.04,0.0897
+We need to add unit tests before submitting. See you at 2 PM.,normal,61.0,0.0,0.0,0.0,0.0,0.087,0.0164,0.0806
+Are we meeting in room 302 or 304? See you at 7 PM.,normal,51.0,0.0,0.0,0.0,1.0,0.1333,0.1373,0.1279
+Can you share the notes from the morning lecture? See you at 11 PM.,normal,67.0,0.0,0.0,0.0,1.0,0.08,0.0299,0.1108
+I am working on the database module right now. See you at 3 PM.,normal,63.0,0.0,0.0,0.0,0.0,0.0851,0.0159,0.0936
+Have you had lunch yet? Let's grab something from the canteen.,normal,62.0,0.0,0.0,0.0,1.0,0.0408,0.0,0.0759
+Security Alert: Unauthorized login attempt detected! Confirm your credentials and SSN now: http://bank-security-verify.org Code: 15992! HURRY!,high_risk,142.0,6.0,0.3,1.0,3.0,0.1182,0.0352,0.8109
+The assignment submission deadline is tomorrow at 5 PM.,normal,55.0,0.0,0.0,0.0,0.0,0.0667,0.0182,0.0916
+let's test the socket connection over the lan switch. see you at 2 pm.,normal,70.0,0.0,0.0,0.0,0.0,0.0,0.0143,0.0976
+The mini project presentation is scheduled for next Monday.,normal,59.0,0.0,0.0,0.0,0.0,0.04,0.0,0.0764
+The mini project presentation is scheduled for next Monday.,normal,59.0,0.0,0.0,0.0,0.0,0.04,0.0,0.0881
+Found this useful reference for Linear Regression: https://scikit-learn.org,moderate,75.0,0.0,0.0,1.0,0.0,0.0484,0.0,0.152
+Bank Alert: Your wire transfer was put on hold. Verify bank credentials immediately at http://secure-bank-login.xyz,high_risk,115.0,8.0,0.4211,1.0,0.0,0.043,0.0,0.7132
+URGENT: Your account has been suspended! Verify your password immediately at http://login-secure-portal.com/auth,high_risk,112.0,7.0,0.4118,1.0,1.0,0.087,0.0,0.7495
+could someone review my pull request?,normal,37.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0572
+Can you share the notes from the morning lecture?,normal,49.0,0.0,0.0,0.0,1.0,0.025,0.0,0.0902
+Are we meeting in room 302 or 304?,normal,34.0,0.0,0.0,0.0,1.0,0.05,0.1765,0.1092
+Let's meet at 4 PM in the library to discuss the project.,normal,57.0,0.0,0.0,0.0,0.0,0.0698,0.0175,0.0928
+Everything compiled cleanly on my machine.,normal,42.0,0.0,0.0,0.0,0.0,0.0278,0.0,0.0828
+Immediate action required! Your mailbox is full! Verify password at http://mail-upgrade-server.net to avoid deletion!,high_risk,117.0,3.0,0.1667,1.0,3.0,0.0316,0.0,0.7056
+where did you save the uml diagrams?,normal,36.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0855
+Please send the PDF version of the report. See you at 12 PM.,normal,60.0,0.0,0.0,0.0,0.0,0.1591,0.0333,0.0713
+let's verify the requirements traceability matrix.,normal,50.0,1.0,0.1429,0.0,0.0,0.0,0.0,0.3324
+Hey! Look at this new library release: http://github.com/tools/release-v2 Ref #706.,moderate,83.0,0.0,0.0,1.0,1.0,0.0508,0.0482,0.2208
+URGENT: Your account has been suspended! Verify your password immediately at http://login-secure-portal.com/auth Code: 64046! HURRY!,high_risk,132.0,7.0,0.35,1.0,3.0,0.1386,0.0379,0.7913
+Bank Alert: Your wire transfer was put on hold. Verify bank credentials immediately at http://secure-bank-login.xyz Code: 15475! HURRY!,high_risk,135.0,8.0,0.3636,1.0,2.0,0.098,0.037,0.7911
+Bank Alert: Your wire transfer was put on hold. Verify bank credentials immediately at http://secure-bank-login.xyz Code: 98039! HURRY!,high_risk,135.0,8.0,0.3636,1.0,2.0,0.098,0.037,0.7758
+Hey! Look at this new library release: http://github.com/tools/release-v2,moderate,73.0,0.0,0.0,1.0,1.0,0.0357,0.0137,0.2181
+Did you push your commits to the repository? See you at 2 PM.,normal,61.0,0.0,0.0,0.0,1.0,0.087,0.0164,0.1284
+Are we meeting in room 302 or 304?,normal,34.0,0.0,0.0,0.0,1.0,0.05,0.1765,0.1112
+Review this document immediately if possible: https://docs.sharepoint.com/r/1284 Ref #299.,moderate,90.0,1.0,0.0714,1.0,0.0,0.0308,0.0778,0.3262
+Found this useful reference for Linear Regression: https://scikit-learn.org,moderate,75.0,0.0,0.0,1.0,0.0,0.0484,0.0,0.1668
+You won a free iPhone 16! Winner #49281. Claim your reward immediately: http://gift-winner-free.net/redeem!! Code: 94182! HURRY!,high_risk,128.0,6.0,0.2857,1.0,5.0,0.1176,0.0938,0.8083
+"Thanks for the update, that looks great!",normal,40.0,0.0,0.0,0.0,1.0,0.0312,0.0,0.0978
+everything compiled cleanly on my machine.,normal,42.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0562
+URGENT: Your account has been suspended! Verify your password immediately at http://login-secure-portal.com/auth Code: 42943! HURRY!,high_risk,132.0,7.0,0.35,1.0,3.0,0.1386,0.0379,0.7733
+Could someone review my pull request? See you at 2 PM.,normal,54.0,0.0,0.0,0.0,1.0,0.0976,0.0185,0.1255
+We need to add unit tests before submitting.,normal,44.0,0.0,0.0,0.0,0.0,0.0278,0.0,0.0437
+Good morning everyone! Please check the shared document.,normal,56.0,0.0,0.0,0.0,1.0,0.0426,0.0,0.1132
+Are we meeting in room 302 or 304?,normal,34.0,0.0,0.0,0.0,1.0,0.05,0.1765,0.0675
+Where did you save the UML diagrams?,normal,36.0,0.0,0.0,0.0,1.0,0.1379,0.0,0.0805
+Is PostgreSQL running on your laptop?,normal,37.0,0.0,0.0,0.0,1.0,0.1613,0.0,0.0837
+URGENT: Your account has been suspended! Verify your password immediately at http://login-secure-portal.com/auth,high_risk,112.0,7.0,0.4118,1.0,1.0,0.087,0.0,0.7389
+Please fill out this survey form for our seminar: https://forms.college.edu/survey,moderate,82.0,0.0,0.0,1.0,0.0,0.0152,0.0,0.1595
+the mini project presentation is scheduled for next monday.,normal,59.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0803
+Immediate action required! Your mailbox is full! Verify password at http://mail-upgrade-server.net to avoid deletion! Code: 98857! HURRY!,high_risk,137.0,3.0,0.1429,1.0,5.0,0.0865,0.0365,0.7163
+We need to add unit tests before submitting. See you at 3 PM.,normal,61.0,0.0,0.0,0.0,0.0,0.087,0.0164,0.0701
+I am working on the database module right now.,normal,46.0,0.0,0.0,0.0,0.0,0.027,0.0,0.1074
+The assignment submission deadline is tomorrow at 5 PM.,normal,55.0,0.0,0.0,0.0,0.0,0.0667,0.0182,0.0686
+Hey! Look at this new library release: http://github.com/tools/release-v2 Ref #826.,moderate,83.0,0.0,0.0,1.0,1.0,0.0508,0.0482,0.2183
+The mini project presentation is scheduled for next Monday. See you at 10 PM.,normal,77.0,0.0,0.0,0.0,0.0,0.0833,0.026,0.101
+Check out this interesting article at https://techblog.org/networking-guide,moderate,75.0,0.0,0.0,1.0,0.0,0.0159,0.0,0.17
+Let's test the socket connection over the LAN switch. See you at 5 PM.,normal,70.0,0.0,0.0,0.0,0.0,0.1321,0.0143,0.1021
+Could someone review my pull request?,normal,37.0,0.0,0.0,0.0,1.0,0.0323,0.0,0.0627
+could someone review my pull request? see you at 3 pm.,normal,54.0,0.0,0.0,0.0,1.0,0.0,0.0185,0.0824
+Immediate action required! Your mailbox is full! Verify password at http://mail-upgrade-server.net to avoid deletion! Code: 46458! HURRY!,high_risk,137.0,3.0,0.1429,1.0,5.0,0.0865,0.0365,0.7192
+Can you check if this API endpoint works? http://192.168.1.15:8080/status,moderate,73.0,0.0,0.0,1.0,1.0,0.093,0.1781,0.1896
+Can you share the notes from the morning lecture?,normal,49.0,0.0,0.0,0.0,1.0,0.025,0.0,0.0693
+URGENT NOTICE: IRS tax refund of $2450 pending. Click http://refund-irs-claim.gov.fake.org to claim before midnight! Code: 83183! HURRY!,high_risk,136.0,5.0,0.2174,1.0,4.0,0.2292,0.0662,0.7664
+Everything compiled cleanly on my machine.,normal,42.0,0.0,0.0,0.0,0.0,0.0278,0.0,0.0587
+Could someone review my pull request?,normal,37.0,0.0,0.0,0.0,1.0,0.0323,0.0,0.0589
+Please send the PDF version of the report.,normal,42.0,0.0,0.0,0.0,0.0,0.1176,0.0,0.0435
+Is PostgreSQL running on your laptop?,normal,37.0,0.0,0.0,0.0,1.0,0.1613,0.0,0.0864
+Are we meeting in room 302 or 304? See you at 9 PM.,normal,51.0,0.0,0.0,0.0,1.0,0.1333,0.1373,0.1091
+Everything compiled cleanly on my machine. See you at 6 PM.,normal,59.0,0.0,0.0,0.0,0.0,0.087,0.0169,0.0765
+ACTION REQUIRED: Wire transfer $1000 to avoid account deactivation immediately! Click http://quick-wire-pay.net,high_risk,111.0,6.0,0.375,1.0,2.0,0.1839,0.036,0.767
+We need to add unit tests before submitting.,normal,44.0,0.0,0.0,0.0,0.0,0.0278,0.0,0.0596
+I will be 10 minutes late to the group meeting.,normal,47.0,0.0,0.0,0.0,0.0,0.0286,0.0426,0.0756
+Quick reminder: please verify your attendance record on the portal today.,moderate,73.0,1.0,0.0909,0.0,0.0,0.0164,0.0,0.2407
+Please submit your project credentials form to the coordinator.,moderate,63.0,0.0,0.0,0.0,0.0,0.0185,0.0,0.0885
+URGENT NOTICE: IRS tax refund of $2450 pending. Click http://refund-irs-claim.gov.fake.org to claim before midnight!,high_risk,116.0,5.0,0.25,1.0,2.0,0.1839,0.0345,0.7463
+The mini project presentation is scheduled for next Monday.,normal,59.0,0.0,0.0,0.0,0.0,0.04,0.0,0.0703
+Quick reminder: please verify your attendance record on the portal today.,moderate,73.0,1.0,0.0909,0.0,0.0,0.0164,0.0,0.2493
+Did you push your commits to the repository?,normal,44.0,0.0,0.0,0.0,1.0,0.0278,0.0,0.0835
+The assignment submission deadline is tomorrow at 5 PM. See you at 8 PM.,normal,72.0,0.0,0.0,0.0,0.0,0.1091,0.0278,0.0928
+PASSWORD EXPIRED!! Click http://sysadmin-reset-now.top to update your network password now or lose access!! Code: 91968! HURRY!,high_risk,127.0,2.0,0.1,1.0,6.0,0.234,0.0394,0.5873
+Review this document immediately if possible: https://docs.sharepoint.com/r/1284 Ref #679.,moderate,90.0,1.0,0.0714,1.0,0.0,0.0308,0.0778,0.3254
+"Hey, are you coming to the lab today?",normal,37.0,0.0,0.0,0.0,1.0,0.0357,0.0,0.0829
+Can you check if this API endpoint works? http://192.168.1.15:8080/status Ref #382.,moderate,83.0,0.0,0.0,1.0,1.0,0.1087,0.1928,0.1852
+Please submit your project credentials form to the coordinator. Ref #921.,moderate,73.0,0.0,0.0,0.0,0.0,0.0351,0.0411,0.0982
+Is PostgreSQL running on your laptop?,normal,37.0,0.0,0.0,0.0,1.0,0.1613,0.0,0.0946
+Don't forget to update your profile info before 6 PM today. Ref #452.,moderate,69.0,0.0,0.0,0.0,0.0,0.0816,0.058,0.0639
+Please send the PDF version of the report.,normal,42.0,0.0,0.0,0.0,0.0,0.1176,0.0,0.0423
+let's verify the requirements traceability matrix.,normal,50.0,1.0,0.1429,0.0,0.0,0.0,0.0,0.2471
+ACTION REQUIRED: Wire transfer $1000 to avoid account deactivation immediately! Click http://quick-wire-pay.net,high_risk,111.0,6.0,0.375,1.0,2.0,0.1839,0.036,0.7451
+we need to add unit tests before submitting.,normal,44.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0819
+Are we meeting in room 302 or 304?,normal,34.0,0.0,0.0,0.0,1.0,0.05,0.1765,0.0849
+CONGRATULATIONS!! You have won the $5000 lottery prize!! Claim your gift card here: http://win-prize-now.biz/claim,high_risk,114.0,7.0,0.3684,1.0,5.0,0.2024,0.0351,0.7899
+Quick reminder: please verify your attendance record on the portal today.,moderate,73.0,1.0,0.0909,0.0,0.0,0.0164,0.0,0.2637
+Please fill out this survey form for our seminar: https://forms.college.edu/survey Ref #589.,moderate,92.0,0.0,0.0,1.0,0.0,0.029,0.0326,0.1835
+Is PostgreSQL running on your laptop? See you at 10 PM.,normal,55.0,0.0,0.0,0.0,1.0,0.1951,0.0364,0.1169
+Check out this interesting article at https://techblog.org/networking-guide,moderate,75.0,0.0,0.0,1.0,0.0,0.0159,0.0,0.1996
+Let's meet at 4 PM in the library to discuss the project.,normal,57.0,0.0,0.0,0.0,0.0,0.0698,0.0175,0.0741
+I am working on the database module right now.,normal,46.0,0.0,0.0,0.0,0.0,0.027,0.0,0.0603
+Security Alert: Unauthorized login attempt detected! Confirm your credentials and SSN now: http://bank-security-verify.org,high_risk,122.0,6.0,0.3529,1.0,1.0,0.0693,0.0,0.7448
+could someone review my pull request?,normal,37.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0959
+Found this useful reference for Linear Regression: https://scikit-learn.org Ref #723.,moderate,85.0,0.0,0.0,1.0,0.0,0.0615,0.0353,0.1658
+Security Alert: Unauthorized login attempt detected! Confirm your credentials and SSN now: http://bank-security-verify.org,high_risk,122.0,6.0,0.3529,1.0,1.0,0.0693,0.0,0.7154
+Quick reminder: please verify your attendance record on the portal today.,moderate,73.0,1.0,0.0909,0.0,0.0,0.0164,0.0,0.2804
+let's test the socket connection over the lan switch.,normal,53.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0572
+Good morning everyone! Please check the shared document.,normal,56.0,0.0,0.0,0.0,1.0,0.0426,0.0,0.0907
+Immediate action required! Your mailbox is full! Verify password at http://mail-upgrade-server.net to avoid deletion!,high_risk,117.0,3.0,0.1667,1.0,3.0,0.0316,0.0,0.7167
+Have you had lunch yet? Let's grab something from the canteen.,normal,62.0,0.0,0.0,0.0,1.0,0.0408,0.0,0.0973
+Are we meeting in room 302 or 304?,normal,34.0,0.0,0.0,0.0,1.0,0.05,0.1765,0.0765
+I am working on the database module right now.,normal,46.0,0.0,0.0,0.0,0.0,0.027,0.0,0.0682
+Let's meet at 4 PM in the library to discuss the project.,normal,57.0,0.0,0.0,0.0,0.0,0.0698,0.0175,0.067
+You won a free iPhone 16! Winner #49281. Claim your reward immediately: http://gift-winner-free.net/redeem!!,high_risk,108.0,6.0,0.3333,1.0,3.0,0.0526,0.0648,0.7561
+Please send the PDF version of the report.,normal,42.0,0.0,0.0,0.0,0.0,0.1176,0.0,0.0857
+Good morning everyone! Please check the shared document.,normal,56.0,0.0,0.0,0.0,1.0,0.0426,0.0,0.1174
+Good morning everyone! Please check the shared document.,normal,56.0,0.0,0.0,0.0,1.0,0.0426,0.0,0.1038
+Are we meeting in room 302 or 304? See you at 6 PM.,normal,51.0,0.0,0.0,0.0,1.0,0.1333,0.1373,0.0995
+Everything compiled cleanly on my machine.,normal,42.0,0.0,0.0,0.0,0.0,0.0278,0.0,0.0684
+Review this document immediately if possible: https://docs.sharepoint.com/r/1284,moderate,80.0,1.0,0.0833,1.0,0.0,0.0161,0.05,0.335
+can you share the notes from the morning lecture? see you at 10 pm.,normal,67.0,0.0,0.0,0.0,1.0,0.0,0.0299,0.0924
+Have you had lunch yet? Let's grab something from the canteen.,normal,62.0,0.0,0.0,0.0,1.0,0.0408,0.0,0.1315
+everything compiled cleanly on my machine.,normal,42.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0629
+Immediate action required! Your mailbox is full! Verify password at http://mail-upgrade-server.net to avoid deletion!,high_risk,117.0,3.0,0.1667,1.0,3.0,0.0316,0.0,0.7031
+Please send the PDF version of the report. See you at 4 PM.,normal,59.0,0.0,0.0,0.0,0.0,0.1591,0.0169,0.0698
+Everything compiled cleanly on my machine. See you at 7 PM.,normal,59.0,0.0,0.0,0.0,0.0,0.087,0.0169,0.0828
+"Hey, are you coming to the lab today?",normal,37.0,0.0,0.0,0.0,1.0,0.0357,0.0,0.0801
+Can you check if this API endpoint works? http://192.168.1.15:8080/status,moderate,73.0,0.0,0.0,1.0,1.0,0.093,0.1781,0.1654
+The assignment submission deadline is tomorrow at 5 PM.,normal,55.0,0.0,0.0,0.0,0.0,0.0667,0.0182,0.0709
+Review this document immediately if possible: https://docs.sharepoint.com/r/1284,moderate,80.0,1.0,0.0833,1.0,0.0,0.0161,0.05,0.3581
+everything compiled cleanly on my machine.,normal,42.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0545
+Let's meet at 4 PM in the library to discuss the project.,normal,57.0,0.0,0.0,0.0,0.0,0.0698,0.0175,0.0704
+Please send the PDF version of the report.,normal,42.0,0.0,0.0,0.0,0.0,0.1176,0.0,0.0844
+CONGRATULATIONS!! You have won the $5000 lottery prize!! Claim your gift card here: http://win-prize-now.biz/claim,high_risk,114.0,7.0,0.3684,1.0,5.0,0.2024,0.0351,0.8107
+let's test the socket connection over the lan switch.,normal,53.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0843
+let's test the socket connection over the lan switch. see you at 2 pm.,normal,70.0,0.0,0.0,0.0,0.0,0.0,0.0143,0.0832
+Let's test the socket connection over the LAN switch.,normal,53.0,0.0,0.0,0.0,0.0,0.093,0.0,0.0678
+Could someone review my pull request? See you at 7 PM.,normal,54.0,0.0,0.0,0.0,1.0,0.0976,0.0185,0.0767
+Security Alert: Unauthorized login attempt detected! Confirm your credentials and SSN now: http://bank-security-verify.org,high_risk,122.0,6.0,0.3529,1.0,1.0,0.0693,0.0,0.7596
+You won a free iPhone 16! Winner #49281. Claim your reward immediately: http://gift-winner-free.net/redeem!!,high_risk,108.0,6.0,0.3333,1.0,3.0,0.0526,0.0648,0.7721
+URGENT: Your account has been suspended! Verify your password immediately at http://login-secure-portal.com/auth Code: 21665! HURRY!,high_risk,132.0,7.0,0.35,1.0,3.0,0.1386,0.0379,0.7639
+Please send the PDF version of the report. See you at 3 PM.,normal,59.0,0.0,0.0,0.0,0.0,0.1591,0.0169,0.0864
+ACTION REQUIRED: Wire transfer $1000 to avoid account deactivation immediately! Click http://quick-wire-pay.net Code: 48086! HURRY!,high_risk,131.0,6.0,0.3158,1.0,4.0,0.2292,0.0687,0.8187
+ACTION REQUIRED: Wire transfer $1000 to avoid account deactivation immediately! Click http://quick-wire-pay.net,high_risk,111.0,6.0,0.375,1.0,2.0,0.1839,0.036,0.7573
+Where did you save the UML diagrams?,normal,36.0,0.0,0.0,0.0,1.0,0.1379,0.0,0.1028
+Please send the PDF version of the report.,normal,42.0,0.0,0.0,0.0,0.0,0.1176,0.0,0.0802
+I am working on the database module right now.,normal,46.0,0.0,0.0,0.0,0.0,0.027,0.0,0.0812
+URGENT NOTICE: IRS tax refund of $2450 pending. Click http://refund-irs-claim.gov.fake.org to claim before midnight!,high_risk,116.0,5.0,0.25,1.0,2.0,0.1839,0.0345,0.7709
+Could someone review my pull request?,normal,37.0,0.0,0.0,0.0,1.0,0.0323,0.0,0.0739
+ACTION REQUIRED: Wire transfer $1000 to avoid account deactivation immediately! Click http://quick-wire-pay.net,high_risk,111.0,6.0,0.375,1.0,2.0,0.1839,0.036,0.7502
+We need to add unit tests before submitting. See you at 3 PM.,normal,61.0,0.0,0.0,0.0,0.0,0.087,0.0164,0.0689
+ACTION REQUIRED: Wire transfer $1000 to avoid account deactivation immediately! Click http://quick-wire-pay.net,high_risk,111.0,6.0,0.375,1.0,2.0,0.1839,0.036,0.7504
+Please fill out this survey form for our seminar: https://forms.college.edu/survey,moderate,82.0,0.0,0.0,1.0,0.0,0.0152,0.0,0.1685
+Review this document immediately if possible: https://docs.sharepoint.com/r/1284 Ref #208.,moderate,90.0,1.0,0.0714,1.0,0.0,0.0308,0.0778,0.3322
+Let's test the socket connection over the LAN switch.,normal,53.0,0.0,0.0,0.0,0.0,0.093,0.0,0.0718
+please send the pdf version of the report.,normal,42.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0521
+URGENT: Your account has been suspended! Verify your password immediately at http://login-secure-portal.com/auth,high_risk,112.0,7.0,0.4118,1.0,1.0,0.087,0.0,0.7317
+Can you check if this API endpoint works? http://192.168.1.15:8080/status,moderate,73.0,0.0,0.0,1.0,1.0,0.093,0.1781,0.1739
+Could someone review my pull request?,normal,37.0,0.0,0.0,0.0,1.0,0.0323,0.0,0.0933
+Please submit your project credentials form to the coordinator.,moderate,63.0,0.0,0.0,0.0,0.0,0.0185,0.0,0.0583
+We need to add unit tests before submitting. See you at 3 PM.,normal,61.0,0.0,0.0,0.0,0.0,0.087,0.0164,0.0779
+Bank Alert: Your wire transfer was put on hold. Verify bank credentials immediately at http://secure-bank-login.xyz,high_risk,115.0,8.0,0.4211,1.0,0.0,0.043,0.0,0.7032
+Don't forget to update your profile info before 6 PM today.,moderate,59.0,0.0,0.0,0.0,0.0,0.0652,0.0169,0.0357
+URGENT: Your account has been suspended! Verify your password immediately at http://login-secure-portal.com/auth,high_risk,112.0,7.0,0.4118,1.0,1.0,0.087,0.0,0.7397
+Don't forget to update your profile info before 6 PM today.,moderate,59.0,0.0,0.0,0.0,0.0,0.0652,0.0169,0.0851
+everything compiled cleanly on my machine.,normal,42.0,0.0,0.0,0.0,0.0,0.0,0.0,0.078
+We need to add unit tests before submitting.,normal,44.0,0.0,0.0,0.0,0.0,0.0278,0.0,0.0727
+we need to add unit tests before submitting. see you at 3 pm.,normal,61.0,0.0,0.0,0.0,0.0,0.0,0.0164,0.0901
+Security Alert: Unauthorized login attempt detected! Confirm your credentials and SSN now: http://bank-security-verify.org,high_risk,122.0,6.0,0.3529,1.0,1.0,0.0693,0.0,0.7562
+Let's test the socket connection over the LAN switch.,normal,53.0,0.0,0.0,0.0,0.0,0.093,0.0,0.0843
+Is this link safe? https://dev-resources.net/download-pack,moderate,58.0,0.0,0.0,1.0,1.0,0.0217,0.0,0.1733
+Free bitcoin giveaway! Double your crypto in 24 hours! Login now: http://crypto-free-coins.cc/claim?id=99,high_risk,105.0,7.0,0.3684,1.0,3.0,0.0385,0.0381,0.7615
+Is this link safe? https://dev-resources.net/download-pack Ref #809.,moderate,68.0,0.0,0.0,1.0,1.0,0.0408,0.0441,0.1658
+We need to add unit tests before submitting. See you at 11 PM.,normal,62.0,0.0,0.0,0.0,0.0,0.087,0.0323,0.071
+You won a free iPhone 16! Winner #49281. Claim your reward immediately: http://gift-winner-free.net/redeem!!,high_risk,108.0,6.0,0.3333,1.0,3.0,0.0526,0.0648,0.753
+is postgresql running on your laptop? see you at 11 pm.,normal,55.0,0.0,0.0,0.0,1.0,0.0,0.0364,0.0843
+I will be 10 minutes late to the group meeting.,normal,47.0,0.0,0.0,0.0,0.0,0.0286,0.0426,0.079
+Hey! Look at this new library release: http://github.com/tools/release-v2,moderate,73.0,0.0,0.0,1.0,1.0,0.0357,0.0137,0.1845
+The mini project presentation is scheduled for next Monday. See you at 5 PM.,normal,76.0,0.0,0.0,0.0,0.0,0.0833,0.0132,0.0823
+Found this useful reference for Linear Regression: https://scikit-learn.org Ref #681.,moderate,85.0,0.0,0.0,1.0,0.0,0.0615,0.0353,0.2034
+CONGRATULATIONS!! You have won the $5000 lottery prize!! Claim your gift card here: http://win-prize-now.biz/claim,high_risk,114.0,7.0,0.3684,1.0,5.0,0.2024,0.0351,0.7784
+The assignment submission deadline is tomorrow at 5 PM.,normal,55.0,0.0,0.0,0.0,0.0,0.0667,0.0182,0.0801
+Can you share the notes from the morning lecture? See you at 3 PM.,normal,66.0,0.0,0.0,0.0,1.0,0.08,0.0152,0.0735
+"Thanks for the update, that looks great!",normal,40.0,0.0,0.0,0.0,1.0,0.0312,0.0,0.0841
+Could someone review my pull request? See you at 2 PM.,normal,54.0,0.0,0.0,0.0,1.0,0.0976,0.0185,0.0897
+Bank Alert: Your wire transfer was put on hold. Verify bank credentials immediately at http://secure-bank-login.xyz Code: 39837! HURRY!,high_risk,135.0,8.0,0.3636,1.0,2.0,0.098,0.037,0.7899
+CONGRATULATIONS!! You have won the $5000 lottery prize!! Claim your gift card here: http://win-prize-now.biz/claim Code: 35679! HURRY!,high_risk,134.0,7.0,0.3182,1.0,7.0,0.2473,0.0672,0.7988
+Have you had lunch yet? Let's grab something from the canteen.,normal,62.0,0.0,0.0,0.0,1.0,0.0408,0.0,0.1087
+Please submit your project credentials form to the coordinator.,moderate,63.0,0.0,0.0,0.0,0.0,0.0185,0.0,0.0615
+Everything compiled cleanly on my machine.,normal,42.0,0.0,0.0,0.0,0.0,0.0278,0.0,0.0632
+CONGRATULATIONS!! You have won the $5000 lottery prize!! Claim your gift card here: http://win-prize-now.biz/claim,high_risk,114.0,7.0,0.3684,1.0,5.0,0.2024,0.0351,0.7782
+Where did you save the UML diagrams?,normal,36.0,0.0,0.0,0.0,1.0,0.1379,0.0,0.1163
+Don't forget to update your profile info before 6 PM today. Ref #685.,moderate,69.0,0.0,0.0,0.0,0.0,0.0816,0.058,0.0988
+Are we meeting in room 302 or 304?,normal,34.0,0.0,0.0,0.0,1.0,0.05,0.1765,0.0989
+URGENT: Your account has been suspended! Verify your password immediately at http://login-secure-portal.com/auth Code: 45851! HURRY!,high_risk,132.0,7.0,0.35,1.0,3.0,0.1386,0.0379,0.7891
+URGENT: Your account has been suspended! Verify your password immediately at http://login-secure-portal.com/auth,high_risk,112.0,7.0,0.4118,1.0,1.0,0.087,0.0,0.7278
+Let's verify the requirements traceability matrix.,normal,50.0,1.0,0.1429,0.0,0.0,0.0233,0.0,0.2835
+"Thanks for the update, that looks great!",normal,40.0,0.0,0.0,0.0,1.0,0.0312,0.0,0.0967
+Did you push your commits to the repository?,normal,44.0,0.0,0.0,0.0,1.0,0.0278,0.0,0.089
+The assignment submission deadline is tomorrow at 5 PM. See you at 9 PM.,normal,72.0,0.0,0.0,0.0,0.0,0.1091,0.0278,0.0834
+did you push your commits to the repository?,normal,44.0,0.0,0.0,0.0,1.0,0.0,0.0,0.1082
+PASSWORD EXPIRED!! Click http://sysadmin-reset-now.top to update your network password now or lose access!! Code: 14804! HURRY!,high_risk,127.0,2.0,0.1,1.0,6.0,0.234,0.0394,0.5773
+Did you push your commits to the repository? See you at 5 PM.,normal,61.0,0.0,0.0,0.0,1.0,0.087,0.0164,0.1089
+Are we meeting in room 302 or 304? See you at 6 PM.,normal,51.0,0.0,0.0,0.0,1.0,0.1333,0.1373,0.1146
+The assignment submission deadline is tomorrow at 5 PM.,normal,55.0,0.0,0.0,0.0,0.0,0.0667,0.0182,0.0807
+is postgresql running on your laptop? see you at 6 pm.,normal,54.0,0.0,0.0,0.0,1.0,0.0,0.0185,0.1164
+Let's verify the requirements traceability matrix.,normal,50.0,1.0,0.1429,0.0,0.0,0.0233,0.0,0.2758
+Immediate action required! Your mailbox is full! Verify password at http://mail-upgrade-server.net to avoid deletion!,high_risk,117.0,3.0,0.1667,1.0,3.0,0.0316,0.0,0.7054
+Let's verify the requirements traceability matrix.,normal,50.0,1.0,0.1429,0.0,0.0,0.0233,0.0,0.3216
+Quick reminder: please verify your attendance record on the portal today. Ref #294.,moderate,83.0,1.0,0.0769,0.0,0.0,0.0312,0.0361,0.2597
+Please fill out this survey form for our seminar: https://forms.college.edu/survey Ref #175.,moderate,92.0,0.0,0.0,1.0,0.0,0.029,0.0326,0.1909
+Immediate action required! Your mailbox is full! Verify password at http://mail-upgrade-server.net to avoid deletion!,high_risk,117.0,3.0,0.1667,1.0,3.0,0.0316,0.0,0.7027
+"thanks for the update, that looks great!",normal,40.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0894
+where did you save the uml diagrams? see you at 7 pm.,normal,53.0,0.0,0.0,0.0,1.0,0.0,0.0189,0.0906
+Let's verify the requirements traceability matrix.,normal,50.0,1.0,0.1429,0.0,0.0,0.0233,0.0,0.3006
+Please submit your project credentials form to the coordinator.,moderate,63.0,0.0,0.0,0.0,0.0,0.0185,0.0,0.036
+I will be 10 minutes late to the group meeting.,normal,47.0,0.0,0.0,0.0,0.0,0.0286,0.0426,0.0901
+Can you share the notes from the morning lecture? See you at 1 PM.,normal,66.0,0.0,0.0,0.0,1.0,0.08,0.0152,0.1007
+The assignment submission deadline is tomorrow at 5 PM. See you at 1 PM.,normal,72.0,0.0,0.0,0.0,0.0,0.1091,0.0278,0.0772
+Please submit your project credentials form to the coordinator.,moderate,63.0,0.0,0.0,0.0,0.0,0.0185,0.0,0.1099
+Is PostgreSQL running on your laptop?,normal,37.0,0.0,0.0,0.0,1.0,0.1613,0.0,0.0951
+Are we meeting in room 302 or 304?,normal,34.0,0.0,0.0,0.0,1.0,0.05,0.1765,0.0707
+URGENT: Your account has been suspended! Verify your password immediately at http://login-secure-portal.com/auth Code: 27197! HURRY!,high_risk,132.0,7.0,0.35,1.0,3.0,0.1386,0.0379,0.7935
+Please send the PDF version of the report.,normal,42.0,0.0,0.0,0.0,0.0,0.1176,0.0,0.0642
+Can you check if this API endpoint works? http://192.168.1.15:8080/status,moderate,73.0,0.0,0.0,1.0,1.0,0.093,0.1781,0.2112
+CONGRATULATIONS!! You have won the $5000 lottery prize!! Claim your gift card here: http://win-prize-now.biz/claim,high_risk,114.0,7.0,0.3684,1.0,5.0,0.2024,0.0351,0.7952
+URGENT: Your account has been suspended! Verify your password immediately at http://login-secure-portal.com/auth,high_risk,112.0,7.0,0.4118,1.0,1.0,0.087,0.0,0.7215
+Let's verify the requirements traceability matrix. See you at 3 PM.,normal,67.0,1.0,0.0833,0.0,0.0,0.0755,0.0149,0.2646
+Could someone review my pull request?,normal,37.0,0.0,0.0,0.0,1.0,0.0323,0.0,0.0793
+You won a free iPhone 16! Winner #49281. Claim your reward immediately: http://gift-winner-free.net/redeem!!,high_risk,108.0,6.0,0.3333,1.0,3.0,0.0526,0.0648,0.7578
+Have you had lunch yet? Let's grab something from the canteen.,normal,62.0,0.0,0.0,0.0,1.0,0.0408,0.0,0.0869
+"Thanks for the update, that looks great!",normal,40.0,0.0,0.0,0.0,1.0,0.0312,0.0,0.0961
+Did you push your commits to the repository?,normal,44.0,0.0,0.0,0.0,1.0,0.0278,0.0,0.0798
+Can you share the notes from the morning lecture?,normal,49.0,0.0,0.0,0.0,1.0,0.025,0.0,0.1057
+We need to add unit tests before submitting.,normal,44.0,0.0,0.0,0.0,0.0,0.0278,0.0,0.0688
+"thanks for the update, that looks great!",normal,40.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0934
+let's test the socket connection over the lan switch.,normal,53.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0794
+PASSWORD EXPIRED!! Click http://sysadmin-reset-now.top to update your network password now or lose access!! Code: 16286! HURRY!,high_risk,127.0,2.0,0.1,1.0,6.0,0.234,0.0394,0.6102
+PASSWORD EXPIRED!! Click http://sysadmin-reset-now.top to update your network password now or lose access!! Code: 19514! HURRY!,high_risk,127.0,2.0,0.1,1.0,6.0,0.234,0.0394,0.5476
+"thanks for the update, that looks great!",normal,40.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0886
+Are we meeting in room 302 or 304? See you at 7 PM.,normal,51.0,0.0,0.0,0.0,1.0,0.1333,0.1373,0.1085
+Please send the PDF version of the report.,normal,42.0,0.0,0.0,0.0,0.0,0.1176,0.0,0.0641
+Are we meeting in room 302 or 304?,normal,34.0,0.0,0.0,0.0,1.0,0.05,0.1765,0.0876
+CONGRATULATIONS!! You have won the $5000 lottery prize!! Claim your gift card here: http://win-prize-now.biz/claim Code: 35875! HURRY!,high_risk,134.0,7.0,0.3182,1.0,7.0,0.2473,0.0672,0.8334
+good morning everyone! please check the shared document.,normal,56.0,0.0,0.0,0.0,1.0,0.0,0.0,0.1219
+URGENT: Your account has been suspended! Verify your password immediately at http://login-secure-portal.com/auth,high_risk,112.0,7.0,0.4118,1.0,1.0,0.087,0.0,0.7378
+Check out this interesting article at https://techblog.org/networking-guide Ref #996.,moderate,85.0,0.0,0.0,1.0,0.0,0.0303,0.0353,0.1623
+"Thanks for the update, that looks great!",normal,40.0,0.0,0.0,0.0,1.0,0.0312,0.0,0.0948
+i will be 10 minutes late to the group meeting.,normal,47.0,0.0,0.0,0.0,0.0,0.0,0.0426,0.0617
+Found this useful reference for Linear Regression: https://scikit-learn.org,moderate,75.0,0.0,0.0,1.0,0.0,0.0484,0.0,0.1605
+the mini project presentation is scheduled for next monday.,normal,59.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0746
+The mini project presentation is scheduled for next Monday. See you at 2 PM.,normal,76.0,0.0,0.0,0.0,0.0,0.0833,0.0132,0.0761
+Did you push your commits to the repository?,normal,44.0,0.0,0.0,0.0,1.0,0.0278,0.0,0.0743
+Review this document immediately if possible: https://docs.sharepoint.com/r/1284,moderate,80.0,1.0,0.0833,1.0,0.0,0.0161,0.05,0.3422
+ACTION REQUIRED: Wire transfer $1000 to avoid account deactivation immediately! Click http://quick-wire-pay.net,high_risk,111.0,6.0,0.375,1.0,2.0,0.1839,0.036,0.7455
+We need to add unit tests before submitting.,normal,44.0,0.0,0.0,0.0,0.0,0.0278,0.0,0.0808
+Let's meet at 4 PM in the library to discuss the project. See you at 11 PM.,normal,75.0,0.0,0.0,0.0,0.0,0.1132,0.04,0.1157
+Did you push your commits to the repository? See you at 9 PM.,normal,61.0,0.0,0.0,0.0,1.0,0.087,0.0164,0.0792
+"Hey, are you coming to the lab today? See you at 9 PM.",normal,54.0,0.0,0.0,0.0,1.0,0.1053,0.0185,0.1073
+PASSWORD EXPIRED!! Click http://sysadmin-reset-now.top to update your network password now or lose access!!,high_risk,107.0,2.0,0.1176,1.0,4.0,0.1882,0.0,0.5566
+The assignment submission deadline is tomorrow at 5 PM.,normal,55.0,0.0,0.0,0.0,0.0,0.0667,0.0182,0.0777
+PASSWORD EXPIRED!! Click http://sysadmin-reset-now.top to update your network password now or lose access!!,high_risk,107.0,2.0,0.1176,1.0,4.0,0.1882,0.0,0.5739
+Review this document immediately if possible: https://docs.sharepoint.com/r/1284,moderate,80.0,1.0,0.0833,1.0,0.0,0.0161,0.05,0.3467
+Can you check if this API endpoint works? http://192.168.1.15:8080/status,moderate,73.0,0.0,0.0,1.0,1.0,0.093,0.1781,0.2116
+Please submit your project credentials form to the coordinator. Ref #899.,moderate,73.0,0.0,0.0,0.0,0.0,0.0351,0.0411,0.087
+ACTION REQUIRED: Wire transfer $1000 to avoid account deactivation immediately! Click http://quick-wire-pay.net Code: 33255! HURRY!,high_risk,131.0,6.0,0.3158,1.0,4.0,0.2292,0.0687,0.7879
+Is PostgreSQL running on your laptop?,normal,37.0,0.0,0.0,0.0,1.0,0.1613,0.0,0.0936
+Is this link safe? https://dev-resources.net/download-pack Ref #583.,moderate,68.0,0.0,0.0,1.0,1.0,0.0408,0.0441,0.1808
+Review this document immediately if possible: https://docs.sharepoint.com/r/1284,moderate,80.0,1.0,0.0833,1.0,0.0,0.0161,0.05,0.3642
+Quick reminder: please verify your attendance record on the portal today.,moderate,73.0,1.0,0.0909,0.0,0.0,0.0164,0.0,0.2694
+The assignment submission deadline is tomorrow at 5 PM.,normal,55.0,0.0,0.0,0.0,0.0,0.0667,0.0182,0.0812
+Please send the PDF version of the report.,normal,42.0,0.0,0.0,0.0,0.0,0.1176,0.0,0.0728
+The mini project presentation is scheduled for next Monday. See you at 8 PM.,normal,76.0,0.0,0.0,0.0,0.0,0.0833,0.0132,0.0931
+Are we meeting in room 302 or 304?,normal,34.0,0.0,0.0,0.0,1.0,0.05,0.1765,0.1062
+Free bitcoin giveaway! Double your crypto in 24 hours! Login now: http://crypto-free-coins.cc/claim?id=99,high_risk,105.0,7.0,0.3684,1.0,3.0,0.0385,0.0381,0.7717
+Where did you save the UML diagrams? See you at 2 PM.,normal,53.0,0.0,0.0,0.0,1.0,0.1795,0.0189,0.0922
+Found this useful reference for Linear Regression: https://scikit-learn.org,moderate,75.0,0.0,0.0,1.0,0.0,0.0484,0.0,0.1571
+The mini project presentation is scheduled for next Monday.,normal,59.0,0.0,0.0,0.0,0.0,0.04,0.0,0.0824
+Review this document immediately if possible: https://docs.sharepoint.com/r/1284,moderate,80.0,1.0,0.0833,1.0,0.0,0.0161,0.05,0.3136
+Everything compiled cleanly on my machine. See you at 11 PM.,normal,60.0,0.0,0.0,0.0,0.0,0.087,0.0333,0.0821
+Did you push your commits to the repository?,normal,44.0,0.0,0.0,0.0,1.0,0.0278,0.0,0.0991
+Can you check if this API endpoint works? http://192.168.1.15:8080/status,moderate,73.0,0.0,0.0,1.0,1.0,0.093,0.1781,0.1972
+URGENT NOTICE: IRS tax refund of $2450 pending. Click http://refund-irs-claim.gov.fake.org to claim before midnight!,high_risk,116.0,5.0,0.25,1.0,2.0,0.1839,0.0345,0.7621
+"Hey, are you coming to the lab today?",normal,37.0,0.0,0.0,0.0,1.0,0.0357,0.0,0.0633
+Is PostgreSQL running on your laptop? See you at 6 PM.,normal,54.0,0.0,0.0,0.0,1.0,0.1951,0.0185,0.1129
+let's meet at 4 pm in the library to discuss the project.,normal,57.0,0.0,0.0,0.0,0.0,0.0,0.0175,0.0674
+PASSWORD EXPIRED!! Click http://sysadmin-reset-now.top to update your network password now or lose access!!,high_risk,107.0,2.0,0.1176,1.0,4.0,0.1882,0.0,0.5751
+everything compiled cleanly on my machine. see you at 12 pm.,normal,60.0,0.0,0.0,0.0,0.0,0.0,0.0333,0.062
+The mini project presentation is scheduled for next Monday.,normal,59.0,0.0,0.0,0.0,0.0,0.04,0.0,0.0369
+The assignment submission deadline is tomorrow at 5 PM.,normal,55.0,0.0,0.0,0.0,0.0,0.0667,0.0182,0.1078
+Immediate action required! Your mailbox is full! Verify password at http://mail-upgrade-server.net to avoid deletion!,high_risk,117.0,3.0,0.1667,1.0,3.0,0.0316,0.0,0.7009
+Let's verify the requirements traceability matrix.,normal,50.0,1.0,0.1429,0.0,0.0,0.0233,0.0,0.2875
+URGENT NOTICE: IRS tax refund of $2450 pending. Click http://refund-irs-claim.gov.fake.org to claim before midnight!,high_risk,116.0,5.0,0.25,1.0,2.0,0.1839,0.0345,0.7565
+Review this document immediately if possible: https://docs.sharepoint.com/r/1284,moderate,80.0,1.0,0.0833,1.0,0.0,0.0161,0.05,0.3382
+Good morning everyone! Please check the shared document.,normal,56.0,0.0,0.0,0.0,1.0,0.0426,0.0,0.094
+Immediate action required! Your mailbox is full! Verify password at http://mail-upgrade-server.net to avoid deletion!,high_risk,117.0,3.0,0.1667,1.0,3.0,0.0316,0.0,0.7165
+Please fill out this survey form for our seminar: https://forms.college.edu/survey,moderate,82.0,0.0,0.0,1.0,0.0,0.0152,0.0,0.1464
+Could someone review my pull request?,normal,37.0,0.0,0.0,0.0,1.0,0.0323,0.0,0.0579
+"Thanks for the update, that looks great! See you at 5 PM.",normal,57.0,0.0,0.0,0.0,1.0,0.0952,0.0175,0.0925
+let's verify the requirements traceability matrix. see you at 7 pm.,normal,67.0,1.0,0.0833,0.0,0.0,0.0,0.0149,0.2821
+The assignment submission deadline is tomorrow at 5 PM.,normal,55.0,0.0,0.0,0.0,0.0,0.0667,0.0182,0.0776
+I will be 10 minutes late to the group meeting.,normal,47.0,0.0,0.0,0.0,0.0,0.0286,0.0426,0.0942
+Is this link safe? https://dev-resources.net/download-pack,moderate,58.0,0.0,0.0,1.0,1.0,0.0217,0.0,0.1833
+PASSWORD EXPIRED!! Click http://sysadmin-reset-now.top to update your network password now or lose access!!,high_risk,107.0,2.0,0.1176,1.0,4.0,0.1882,0.0,0.5752
+You won a free iPhone 16! Winner #49281. Claim your reward immediately: http://gift-winner-free.net/redeem!!,high_risk,108.0,6.0,0.3333,1.0,3.0,0.0526,0.0648,0.774
+Let's meet at 4 PM in the library to discuss the project.,normal,57.0,0.0,0.0,0.0,0.0,0.0698,0.0175,0.066
+We need to add unit tests before submitting. See you at 7 PM.,normal,61.0,0.0,0.0,0.0,0.0,0.087,0.0164,0.0901
+Don't forget to update your profile info before 6 PM today.,moderate,59.0,0.0,0.0,0.0,0.0,0.0652,0.0169,0.0428
+Is PostgreSQL running on your laptop?,normal,37.0,0.0,0.0,0.0,1.0,0.1613,0.0,0.0984
+Let's verify the requirements traceability matrix.,normal,50.0,1.0,0.1429,0.0,0.0,0.0233,0.0,0.2822
+we need to add unit tests before submitting.,normal,44.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0544
+we need to add unit tests before submitting.,normal,44.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0718
+Can you check if this API endpoint works? http://192.168.1.15:8080/status Ref #364.,moderate,83.0,0.0,0.0,1.0,1.0,0.1087,0.1928,0.1845
+You won a free iPhone 16! Winner #49281. Claim your reward immediately: http://gift-winner-free.net/redeem!!,high_risk,108.0,6.0,0.3333,1.0,3.0,0.0526,0.0648,0.7588
+Did you push your commits to the repository?,normal,44.0,0.0,0.0,0.0,1.0,0.0278,0.0,0.09
+let's meet at 4 pm in the library to discuss the project. see you at 12 pm.,normal,75.0,0.0,0.0,0.0,0.0,0.0,0.04,0.0889
+PASSWORD EXPIRED!! Click http://sysadmin-reset-now.top to update your network password now or lose access!!,high_risk,107.0,2.0,0.1176,1.0,4.0,0.1882,0.0,0.568
+Let's meet at 4 PM in the library to discuss the project. See you at 8 PM.,normal,74.0,0.0,0.0,0.0,0.0,0.1132,0.027,0.0822
+"Thanks for the update, that looks great!",normal,40.0,0.0,0.0,0.0,1.0,0.0312,0.0,0.0853
+Please submit your project credentials form to the coordinator.,moderate,63.0,0.0,0.0,0.0,0.0,0.0185,0.0,0.0852
+CONGRATULATIONS!! You have won the $5000 lottery prize!! Claim your gift card here: http://win-prize-now.biz/claim,high_risk,114.0,7.0,0.3684,1.0,5.0,0.2024,0.0351,0.8032
+Are we meeting in room 302 or 304?,normal,34.0,0.0,0.0,0.0,1.0,0.05,0.1765,0.0753
+The assignment submission deadline is tomorrow at 5 PM.,normal,55.0,0.0,0.0,0.0,0.0,0.0667,0.0182,0.0541
+Can you check if this API endpoint works? http://192.168.1.15:8080/status,moderate,73.0,0.0,0.0,1.0,1.0,0.093,0.1781,0.199
+Are we meeting in room 302 or 304?,normal,34.0,0.0,0.0,0.0,1.0,0.05,0.1765,0.1039
+Security Alert: Unauthorized login attempt detected! Confirm your credentials and SSN now: http://bank-security-verify.org,high_risk,122.0,6.0,0.3529,1.0,1.0,0.0693,0.0,0.7457
+is postgresql running on your laptop? see you at 7 pm.,normal,54.0,0.0,0.0,0.0,1.0,0.0,0.0185,0.1027
+Quick reminder: please verify your attendance record on the portal today.,moderate,73.0,1.0,0.0909,0.0,0.0,0.0164,0.0,0.2812
+ACTION REQUIRED: Wire transfer $1000 to avoid account deactivation immediately! Click http://quick-wire-pay.net,high_risk,111.0,6.0,0.375,1.0,2.0,0.1839,0.036,0.7815
+We need to add unit tests before submitting.,normal,44.0,0.0,0.0,0.0,0.0,0.0278,0.0,0.0923
+Security Alert: Unauthorized login attempt detected! Confirm your credentials and SSN now: http://bank-security-verify.org Code: 53478! HURRY!,high_risk,142.0,6.0,0.3,1.0,3.0,0.1182,0.0352,0.8061
+URGENT: Your account has been suspended! Verify your password immediately at http://login-secure-portal.com/auth Code: 73916! HURRY!,high_risk,132.0,7.0,0.35,1.0,3.0,0.1386,0.0379,0.7644
+Is PostgreSQL running on your laptop?,normal,37.0,0.0,0.0,0.0,1.0,0.1613,0.0,0.0836
+Let's test the socket connection over the LAN switch.,normal,53.0,0.0,0.0,0.0,0.0,0.093,0.0,0.0646
+Don't forget to update your profile info before 6 PM today.,moderate,59.0,0.0,0.0,0.0,0.0,0.0652,0.0169,0.0753
+Please fill out this survey form for our seminar: https://forms.college.edu/survey,moderate,82.0,0.0,0.0,1.0,0.0,0.0152,0.0,0.1661
+Let's meet at 4 PM in the library to discuss the project.,normal,57.0,0.0,0.0,0.0,0.0,0.0698,0.0175,0.0484
+Free bitcoin giveaway! Double your crypto in 24 hours! Login now: http://crypto-free-coins.cc/claim?id=99,high_risk,105.0,7.0,0.3684,1.0,3.0,0.0385,0.0381,0.7805
+Immediate action required! Your mailbox is full! Verify password at http://mail-upgrade-server.net to avoid deletion!,high_risk,117.0,3.0,0.1667,1.0,3.0,0.0316,0.0,0.6976
+Review this document immediately if possible: https://docs.sharepoint.com/r/1284 Ref #402.,moderate,90.0,1.0,0.0714,1.0,0.0,0.0308,0.0778,0.334
+we need to add unit tests before submitting. see you at 2 pm.,normal,61.0,0.0,0.0,0.0,0.0,0.0,0.0164,0.0831
+Let's test the socket connection over the LAN switch.,normal,53.0,0.0,0.0,0.0,0.0,0.093,0.0,0.0788
+CONGRATULATIONS!! You have won the $5000 lottery prize!! Claim your gift card here: http://win-prize-now.biz/claim,high_risk,114.0,7.0,0.3684,1.0,5.0,0.2024,0.0351,0.7939
+everything compiled cleanly on my machine.,normal,42.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0844
+let's meet at 4 pm in the library to discuss the project.,normal,57.0,0.0,0.0,0.0,0.0,0.0,0.0175,0.0842
+Don't forget to update your profile info before 6 PM today. Ref #427.,moderate,69.0,0.0,0.0,0.0,0.0,0.0816,0.058,0.0932
+Is this link safe? https://dev-resources.net/download-pack Ref #657.,moderate,68.0,0.0,0.0,1.0,1.0,0.0408,0.0441,0.1835
+Please send the PDF version of the report. See you at 6 PM.,normal,59.0,0.0,0.0,0.0,0.0,0.1591,0.0169,0.0888
+is postgresql running on your laptop?,normal,37.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0663
+the mini project presentation is scheduled for next monday.,normal,59.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0857
+"thanks for the update, that looks great! see you at 7 pm.",normal,57.0,0.0,0.0,0.0,1.0,0.0,0.0175,0.1163
+"thanks for the update, that looks great!",normal,40.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0591
+"Thanks for the update, that looks great!",normal,40.0,0.0,0.0,0.0,1.0,0.0312,0.0,0.0949
+"Hey, are you coming to the lab today?",normal,37.0,0.0,0.0,0.0,1.0,0.0357,0.0,0.0799
+Did you push your commits to the repository?,normal,44.0,0.0,0.0,0.0,1.0,0.0278,0.0,0.0912
+URGENT NOTICE: IRS tax refund of $2450 pending. Click http://refund-irs-claim.gov.fake.org to claim before midnight! Code: 51053! HURRY!,high_risk,136.0,5.0,0.2174,1.0,4.0,0.2292,0.0662,0.8057
+You won a free iPhone 16! Winner #49281. Claim your reward immediately: http://gift-winner-free.net/redeem!!,high_risk,108.0,6.0,0.3333,1.0,3.0,0.0526,0.0648,0.774
+Quick reminder: please verify your attendance record on the portal today.,moderate,73.0,1.0,0.0909,0.0,0.0,0.0164,0.0,0.2881
+"Hey, are you coming to the lab today?",normal,37.0,0.0,0.0,0.0,1.0,0.0357,0.0,0.0997
+URGENT: Your account has been suspended! Verify your password immediately at http://login-secure-portal.com/auth Code: 95397! HURRY!,high_risk,132.0,7.0,0.35,1.0,3.0,0.1386,0.0379,0.8022
+"Hey, are you coming to the lab today?",normal,37.0,0.0,0.0,0.0,1.0,0.0357,0.0,0.0764
+Is PostgreSQL running on your laptop? See you at 5 PM.,normal,54.0,0.0,0.0,0.0,1.0,0.1951,0.0185,0.0858
+Check out this interesting article at https://techblog.org/networking-guide,moderate,75.0,0.0,0.0,1.0,0.0,0.0159,0.0,0.1756
+Bank Alert: Your wire transfer was put on hold. Verify bank credentials immediately at http://secure-bank-login.xyz Code: 65363! HURRY!,high_risk,135.0,8.0,0.3636,1.0,2.0,0.098,0.037,0.7495
+You won a free iPhone 16! Winner #49281. Claim your reward immediately: http://gift-winner-free.net/redeem!! Code: 63907! HURRY!,high_risk,128.0,6.0,0.2857,1.0,5.0,0.1176,0.0938,0.8403
+Is PostgreSQL running on your laptop?,normal,37.0,0.0,0.0,0.0,1.0,0.1613,0.0,0.112
+Hey! Look at this new library release: http://github.com/tools/release-v2 Ref #305.,moderate,83.0,0.0,0.0,1.0,1.0,0.0508,0.0482,0.1986
+Please send the PDF version of the report. See you at 1 PM.,normal,59.0,0.0,0.0,0.0,0.0,0.1591,0.0169,0.075
+CONGRATULATIONS!! You have won the $5000 lottery prize!! Claim your gift card here: http://win-prize-now.biz/claim,high_risk,114.0,7.0,0.3684,1.0,5.0,0.2024,0.0351,0.7912
+Free bitcoin giveaway! Double your crypto in 24 hours! Login now: http://crypto-free-coins.cc/claim?id=99,high_risk,105.0,7.0,0.3684,1.0,3.0,0.0385,0.0381,0.7397
+Everything compiled cleanly on my machine.,normal,42.0,0.0,0.0,0.0,0.0,0.0278,0.0,0.0507
+Let's verify the requirements traceability matrix.,normal,50.0,1.0,0.1429,0.0,0.0,0.0233,0.0,0.2937
+You won a free iPhone 16! Winner #49281. Claim your reward immediately: http://gift-winner-free.net/redeem!!,high_risk,108.0,6.0,0.3333,1.0,3.0,0.0526,0.0648,0.7566
+Quick reminder: please verify your attendance record on the portal today. Ref #572.,moderate,83.0,1.0,0.0769,0.0,0.0,0.0312,0.0361,0.2817
+CONGRATULATIONS!! You have won the $5000 lottery prize!! Claim your gift card here: http://win-prize-now.biz/claim,high_risk,114.0,7.0,0.3684,1.0,5.0,0.2024,0.0351,0.7908
+Check out this interesting article at https://techblog.org/networking-guide,moderate,75.0,0.0,0.0,1.0,0.0,0.0159,0.0,0.1687
+Good morning everyone! Please check the shared document.,normal,56.0,0.0,0.0,0.0,1.0,0.0426,0.0,0.0944
+I am working on the database module right now.,normal,46.0,0.0,0.0,0.0,0.0,0.027,0.0,0.0814
+"Hey, are you coming to the lab today?",normal,37.0,0.0,0.0,0.0,1.0,0.0357,0.0,0.0891
+Free bitcoin giveaway! Double your crypto in 24 hours! Login now: http://crypto-free-coins.cc/claim?id=99,high_risk,105.0,7.0,0.3684,1.0,3.0,0.0385,0.0381,0.7272
+Let's verify the requirements traceability matrix.,normal,50.0,1.0,0.1429,0.0,0.0,0.0233,0.0,0.277
+Immediate action required! Your mailbox is full! Verify password at http://mail-upgrade-server.net to avoid deletion!,high_risk,117.0,3.0,0.1667,1.0,3.0,0.0316,0.0,0.685
+Can you check if this API endpoint works? http://192.168.1.15:8080/status,moderate,73.0,0.0,0.0,1.0,1.0,0.093,0.1781,0.2184
+URGENT: Your account has been suspended! Verify your password immediately at http://login-secure-portal.com/auth,high_risk,112.0,7.0,0.4118,1.0,1.0,0.087,0.0,0.7293
+let's test the socket connection over the lan switch.,normal,53.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0516
+Free bitcoin giveaway! Double your crypto in 24 hours! Login now: http://crypto-free-coins.cc/claim?id=99,high_risk,105.0,7.0,0.3684,1.0,3.0,0.0385,0.0381,0.7842
+Where did you save the UML diagrams?,normal,36.0,0.0,0.0,0.0,1.0,0.1379,0.0,0.09
+Everything compiled cleanly on my machine. See you at 3 PM.,normal,59.0,0.0,0.0,0.0,0.0,0.087,0.0169,0.0842
+let's test the socket connection over the lan switch.,normal,53.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0595
+is postgresql running on your laptop?,normal,37.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0793
+"Hey, are you coming to the lab today?",normal,37.0,0.0,0.0,0.0,1.0,0.0357,0.0,0.0716
+Review this document immediately if possible: https://docs.sharepoint.com/r/1284,moderate,80.0,1.0,0.0833,1.0,0.0,0.0161,0.05,0.3452
+Let's verify the requirements traceability matrix.,normal,50.0,1.0,0.1429,0.0,0.0,0.0233,0.0,0.2936
+Found this useful reference for Linear Regression: https://scikit-learn.org Ref #176.,moderate,85.0,0.0,0.0,1.0,0.0,0.0615,0.0353,0.1958
+Security Alert: Unauthorized login attempt detected! Confirm your credentials and SSN now: http://bank-security-verify.org Code: 74441! HURRY!,high_risk,142.0,6.0,0.3,1.0,3.0,0.1182,0.0352,0.7599
+Did you push your commits to the repository?,normal,44.0,0.0,0.0,0.0,1.0,0.0278,0.0,0.0947
+Let's test the socket connection over the LAN switch. See you at 6 PM.,normal,70.0,0.0,0.0,0.0,0.0,0.1321,0.0143,0.0985
+Free bitcoin giveaway! Double your crypto in 24 hours! Login now: http://crypto-free-coins.cc/claim?id=99 Code: 60272! HURRY!,high_risk,125.0,7.0,0.3182,1.0,5.0,0.1034,0.072,0.8158
+Please fill out this survey form for our seminar: https://forms.college.edu/survey,moderate,82.0,0.0,0.0,1.0,0.0,0.0152,0.0,0.1587
+Is PostgreSQL running on your laptop? See you at 4 PM.,normal,54.0,0.0,0.0,0.0,1.0,0.1951,0.0185,0.1018
+Let's verify the requirements traceability matrix. See you at 9 PM.,normal,67.0,1.0,0.0833,0.0,0.0,0.0755,0.0149,0.2498
+I will be 10 minutes late to the group meeting.,normal,47.0,0.0,0.0,0.0,0.0,0.0286,0.0426,0.0502
+is postgresql running on your laptop?,normal,37.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0714
+Are we meeting in room 302 or 304?,normal,34.0,0.0,0.0,0.0,1.0,0.05,0.1765,0.0983
+URGENT: Your account has been suspended! Verify your password immediately at http://login-secure-portal.com/auth,high_risk,112.0,7.0,0.4118,1.0,1.0,0.087,0.0,0.7019
+Please send the PDF version of the report.,normal,42.0,0.0,0.0,0.0,0.0,0.1176,0.0,0.0709
+Immediate action required! Your mailbox is full! Verify password at http://mail-upgrade-server.net to avoid deletion!,high_risk,117.0,3.0,0.1667,1.0,3.0,0.0316,0.0,0.7247
+The mini project presentation is scheduled for next Monday.,normal,59.0,0.0,0.0,0.0,0.0,0.04,0.0,0.0468
+Found this useful reference for Linear Regression: https://scikit-learn.org,moderate,75.0,0.0,0.0,1.0,0.0,0.0484,0.0,0.1738
+Please submit your project credentials form to the coordinator.,moderate,63.0,0.0,0.0,0.0,0.0,0.0185,0.0,0.0905
+Free bitcoin giveaway! Double your crypto in 24 hours! Login now: http://crypto-free-coins.cc/claim?id=99,high_risk,105.0,7.0,0.3684,1.0,3.0,0.0385,0.0381,0.7984
+Check out this interesting article at https://techblog.org/networking-guide,moderate,75.0,0.0,0.0,1.0,0.0,0.0159,0.0,0.1883
+Good morning everyone! Please check the shared document.,normal,56.0,0.0,0.0,0.0,1.0,0.0426,0.0,0.0964
+please send the pdf version of the report.,normal,42.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0485
+Can you share the notes from the morning lecture?,normal,49.0,0.0,0.0,0.0,1.0,0.025,0.0,0.0827
+Bank Alert: Your wire transfer was put on hold. Verify bank credentials immediately at http://secure-bank-login.xyz Code: 41310! HURRY!,high_risk,135.0,8.0,0.3636,1.0,2.0,0.098,0.037,0.7614
+URGENT: Your account has been suspended! Verify your password immediately at http://login-secure-portal.com/auth,high_risk,112.0,7.0,0.4118,1.0,1.0,0.087,0.0,0.7429
+Let's test the socket connection over the LAN switch. See you at 10 PM.,normal,71.0,0.0,0.0,0.0,0.0,0.1321,0.0282,0.0976
+CONGRATULATIONS!! You have won the $5000 lottery prize!! Claim your gift card here: http://win-prize-now.biz/claim,high_risk,114.0,7.0,0.3684,1.0,5.0,0.2024,0.0351,0.8062
+URGENT NOTICE: IRS tax refund of $2450 pending. Click http://refund-irs-claim.gov.fake.org to claim before midnight!,high_risk,116.0,5.0,0.25,1.0,2.0,0.1839,0.0345,0.7585
+Did you push your commits to the repository? See you at 6 PM.,normal,61.0,0.0,0.0,0.0,1.0,0.087,0.0164,0.0822
+Where did you save the UML diagrams? See you at 1 PM.,normal,53.0,0.0,0.0,0.0,1.0,0.1795,0.0189,0.0891
+The mini project presentation is scheduled for next Monday.,normal,59.0,0.0,0.0,0.0,0.0,0.04,0.0,0.0455
+The mini project presentation is scheduled for next Monday.,normal,59.0,0.0,0.0,0.0,0.0,0.04,0.0,0.0685
+The mini project presentation is scheduled for next Monday.,normal,59.0,0.0,0.0,0.0,0.0,0.04,0.0,0.0882
+"Hey, are you coming to the lab today?",normal,37.0,0.0,0.0,0.0,1.0,0.0357,0.0,0.0508
+ACTION REQUIRED: Wire transfer $1000 to avoid account deactivation immediately! Click http://quick-wire-pay.net Code: 61497! HURRY!,high_risk,131.0,6.0,0.3158,1.0,4.0,0.2292,0.0687,0.8075
+Check out this interesting article at https://techblog.org/networking-guide,moderate,75.0,0.0,0.0,1.0,0.0,0.0159,0.0,0.1697
+I will be 10 minutes late to the group meeting. See you at 7 PM.,normal,64.0,0.0,0.0,0.0,0.0,0.0889,0.0469,0.0914
+The assignment submission deadline is tomorrow at 5 PM. See you at 1 PM.,normal,72.0,0.0,0.0,0.0,0.0,0.1091,0.0278,0.055
+The assignment submission deadline is tomorrow at 5 PM.,normal,55.0,0.0,0.0,0.0,0.0,0.0667,0.0182,0.0684
+Found this useful reference for Linear Regression: https://scikit-learn.org Ref #354.,moderate,85.0,0.0,0.0,1.0,0.0,0.0615,0.0353,0.1807
+Did you push your commits to the repository?,normal,44.0,0.0,0.0,0.0,1.0,0.0278,0.0,0.1198
+Review this document immediately if possible: https://docs.sharepoint.com/r/1284 Ref #716.,moderate,90.0,1.0,0.0714,1.0,0.0,0.0308,0.0778,0.3425
+i am working on the database module right now.,normal,46.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0389
+CONGRATULATIONS!! You have won the $5000 lottery prize!! Claim your gift card here: http://win-prize-now.biz/claim,high_risk,114.0,7.0,0.3684,1.0,5.0,0.2024,0.0351,0.7913
+Please fill out this survey form for our seminar: https://forms.college.edu/survey Ref #930.,moderate,92.0,0.0,0.0,1.0,0.0,0.029,0.0326,0.1908
+Quick reminder: please verify your attendance record on the portal today.,moderate,73.0,1.0,0.0909,0.0,0.0,0.0164,0.0,0.2742
+"Hey, are you coming to the lab today?",normal,37.0,0.0,0.0,0.0,1.0,0.0357,0.0,0.0648
+I am working on the database module right now.,normal,46.0,0.0,0.0,0.0,0.0,0.027,0.0,0.0487
+The assignment submission deadline is tomorrow at 5 PM. See you at 12 PM.,normal,73.0,0.0,0.0,0.0,0.0,0.1091,0.0411,0.0767
+Found this useful reference for Linear Regression: https://scikit-learn.org,moderate,75.0,0.0,0.0,1.0,0.0,0.0484,0.0,0.185
+let's verify the requirements traceability matrix. see you at 7 pm.,normal,67.0,1.0,0.0833,0.0,0.0,0.0,0.0149,0.2523
+I will be 10 minutes late to the group meeting.,normal,47.0,0.0,0.0,0.0,0.0,0.0286,0.0426,0.0815
+Are we meeting in room 302 or 304?,normal,34.0,0.0,0.0,0.0,1.0,0.05,0.1765,0.0995
+Please submit your project credentials form to the coordinator.,moderate,63.0,0.0,0.0,0.0,0.0,0.0185,0.0,0.0869
+Have you had lunch yet? Let's grab something from the canteen.,normal,62.0,0.0,0.0,0.0,1.0,0.0408,0.0,0.1091
+Security Alert: Unauthorized login attempt detected! Confirm your credentials and SSN now: http://bank-security-verify.org Code: 88974! HURRY!,high_risk,142.0,6.0,0.3,1.0,3.0,0.1182,0.0352,0.7863

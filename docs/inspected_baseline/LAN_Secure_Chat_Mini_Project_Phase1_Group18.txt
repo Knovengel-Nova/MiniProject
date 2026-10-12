@@ -1,0 +1,220 @@
+FILE: Phase 1\LAN_Secure_Chat_Mini_Project_Phase1_Group18.pdf
+TOTAL PAGES: 12
+
+=== PAGE 1 ===
+SARDAR PATEL INSTITUTE OF TECHNOLOGY
+DEPARTMENT OF COMPUTER ENGINEERING
+TE SEM V  ·  MINI PROJECT I  ·  2026–27 ODD SEM
+LAN-BASED
+SECURE CHATTING
+APPLICATION
+A self-hosted local communication platform with secure messaging, 
+PostgreSQL persistence, and lightweight data-science modules.
+Aryan Patil
+2024300169
+Malhar Nimbalkar
+2024300150
+Amogh Sirsikar
+2024300245 GROUP 18
+PHASE 1
+GROUP 18  ·  MINI PROJECT I  ·  2026–27 ODD SEM 01
+
+=== PAGE 2 ===
+SARDAR PATEL INSTITUTE OF TECHNOLOGY  ·  DEPARTMENT OF COMPUTER ENGINEERING P1 · PROBLEM STATEMENT
+Problem Statement
+GROUP 18  ·  MINI PROJECT I  ·  2026–27 ODD SEM 02
+LOCAL
+Communication boundary
+PRIVATE
+Data ownership
+SECURE
+Transport + storage
+SMART
+PDS-assisted chat
+THE PROBLEM
+Typical messaging platforms depend on external infrastructure and are 
+designed for Internet-scale communication. For a classroom, office LAN or 
+isolated lab, that can add unnecessary dependency and reduce local 
+control over data.
+WHY IT MATTERS
+Users need fast local messaging, file exchange and searchable history 
+while keeping communication inside the trusted network boundary. 
+Security research also shows that secure messaging must balance 
+confidentiality with usability.
+
+=== PAGE 3 ===
+SARDAR PATEL INSTITUTE OF TECHNOLOGY  ·  DEPARTMENT OF COMPUTER ENGINEERING P1 · OBJECTIVES & SCOPE
+Project Objectives and Scope
+GROUP 18  ·  MINI PROJECT I  ·  2026–27 ODD SEM 03
+OBJECTIVES
+01 USER & AUTH
+Registration/login, user identity, online status 
+and basic access control.
+02 REAL-TIME CHAT
+One-to-one and group messaging over the local 
+network.
+03 PERSISTENCE
+PostgreSQL stores users, conversations, 
+messages, timestamps and file metadata.
+04 SECURITY
+Authenticated connections, protected credentials 
+and encrypted message transport.
+05 SPAM / MISINFO
+Python Logistic Regression classifies messages 
+as likely spam / potentially misleading.
+SCOPE / BOUNDARY
+CORE DELIVERABLE
+Secure LAN communication with Java clients/server, 
+PostgreSQL persistence, authentication and encrypted 
+transport.
+SUPPORTING PDS
+Logistic Regression for spam / potentially misleading-
+message screening and Linear Regression for a 
+measurable system metric.
+EXPLICIT LIMIT
+Only Logistic Regression are proposed in the PDS 
+module.
+
+=== PAGE 4 ===
+SARDAR PATEL INSTITUTE OF TECHNOLOGY  ·  DEPARTMENT OF COMPUTER ENGINEERING P2 · LITERATURE SURVEY
+Literature Survey
+GROUP 18  ·  MINI PROJECT I  ·  2026–27 ODD SEM 04
+Author / Year Area Key finding / relevance
+Johansen et al., 2021 Secure messaging survey Compared Signal, WhatsApp, Wire, Viber, Riot and Telegram across 21 security/usability properties; none was perfect. [1]
+Dedeturk & Akay, 2020 Spam + Logistic Regression Showed Logistic Regression can be an efficient real-time classifier for spam; used text features and public datasets. [2]
+RELATED LAN SYSTEMS • BeeBEEP: serverless LAN messenger with encrypted P2P chat, file transfer and message history.• IP Messenger: lightweight serverless LAN messenger using TCP/UDP with RSA-2048 + AES-256 + SHA-256.
+Author / Year Paper / venue Relevance to the project
+Paterson, Scarlata & Truong, 
+2023
+Three Lessons From Threema: Analysis of a Secure Messenger - 
+USENIX Security 23
+Cryptographic analysis found protocol attacks and highlighted the need for 
+careful threat modelling and remediation. [6]
+Kuros, J. F. and Ross, K. W. Computer Networking : A Top Down Approach 8th Ed Pearson 2021 Provides Communication Foundation for Reliable Data Exchange using TCP/IP and Socket Programming. [5]
+
+=== PAGE 5 ===
+SARDAR PATEL INSTITUTE OF TECHNOLOGY  ·  DEPARTMENT OF COMPUTER ENGINEERING P2 · GAP ANALYSIS
+Gap Analysis
+The project is not intended to replace Signal; it combines LAN-first architecture, relational persistence and lightweight PDS.
+GROUP 18  ·  MINI PROJECT I  ·  2026–27 ODD SEM 06
+System Network model Security Persistence Limitation / gap
+Signal / WhatsApp Internet + servers Strong E2E Server / cloud Not LAN-first; large-scale infrastructure.
+Telegram Internet + servers E2E only in Secret Chat Server-based Security model differs by chat mode.
+BeeBEEP LAN / P2P AES-based Local history No integrated PDS layer; different architecture.
+IP Messenger LAN / serverless RSA + AES + SHA Local logs Lightweight utility; limited analytics/DB integration.
+Our proposal LAN + Java server TLS + protected storage PostgreSQL Adds interpretable PDS modules + unified DB design.
+IDENTIFIED GAP A small, explainable, LAN-only academic system that integrates secure communication + PostgreSQL + PDS techniques in one demonstrable pipeline.
+
+=== PAGE 6 ===
+SARDAR PATEL INSTITUTE OF TECHNOLOGY  ·  DEPARTMENT OF COMPUTER ENGINEERING P1 · SUBJECT MAPPING
+Mapping of Project with Subject Concepts
+Each major module demonstrates a concept from the corresponding subject.
+GROUP 18  ·  MINI PROJECT I  ·  2026–27 ODD SEM 07
+Subject Concept applied Where it appears in the project Demonstrable outcome
+Computer Networks LAN communication; TCP sockets; client-server model; authenticated connections; transport security Java clients communicate with the Java application server over the local network. Message delivery, concurrent clients, LAN boundary and secure transport.
+DBMS Relational schema; CRUD; persistence; indexing; transactions / controlled DB access PostgreSQL stores users, conversations, messages, timestamps and file metadata. Persistent chat history, searchable data and measurable DB response time.
+Software Engineering Requirements; scope; architecture; planning; risk analysis; testing; validation Project planning, modular workflow, acceptance criteria and risk/validation slide. Traceable requirements, defined scope and testable success metrics.
+PDS Logistic Regression; Linear Regression; feature selection; classification/regression evaluation Python module screens messages and estimates a measurable system metric. Probability/label output plus MAE/RMSE evaluation on collected LAN observations.
+PSOOP Classes and objects; encapsulation; inheritance / polymorphism; modular OOP design Java client, server and supporting classes organize chat, authentication and data-handling modules. Reusable classes, modular components and object-oriented message / connection handling.
+DSGT Graphs; vertices and edges; paths; connectivity; relations The LAN can be represented as a graph of clients and the server, with communication links as edges. Network topology, connectivity and possible communication paths can be modelled and analysed.
+
+=== PAGE 7 ===
+SARDAR PATEL INSTITUTE OF TECHNOLOGY  ·  DEPARTMENT OF COMPUTER ENGINEERING P3 · PROPOSED APPROACH
+Proposed Architecture
+One LAN, one backend, four cooperating layers.
+GROUP 18  ·  MINI PROJECT I  ·  2026–27 ODD SEM 08
+
+
+=== PAGE 8 ===
+SARDAR PATEL INSTITUTE OF TECHNOLOGY  ·  DEPARTMENT OF COMPUTER ENGINEERING P3 · PDS INTEGRATION
+PDS Integration
+We will be using Logistic Regression for spam detection or fake news detection
+GROUP 18  ·  MINI PROJECT I  ·  2026–27 ODD SEM 09
+LOGISTIC REGRESSION
+Message → probability → label
+Use case: Spam / potentially misleading message screening
+Output: P(spam) or P(misleading) + thresholded label
+Important limitation: It flags patterns; it does NOT fact-check truth against the 
+web.
+Model:  p(y=1|x) = 1 / (1 + e ᶻ)⁻
+
+=== PAGE 9 ===
+SARDAR PATEL INSTITUTE OF TECHNOLOGY  ·  DEPARTMENT OF COMPUTER ENGINEERING P3 · END-TO-END WORKFLOW
+End-to-End Workflow
+GROUP 18  ·  MINI PROJECT I  ·  2026–27 ODD SEM 10
+1 DISCOVER
+Client identifies the LAN server.
+2 AUTH
+Credentials verified; session established.
+3 SEND
+Message sent through authenticated Java 
+connection.
+4 PERSIST
+Server writes message + metadata to 
+PostgreSQL.
+5 PDS
+Python module scores spam/misinfo or 
+predicts a system metric.
+DELIVER
+Server routes message to recipient(s) and 
+returns status.
+5
+ 6
+
+=== PAGE 10 ===
+SARDAR PATEL INSTITUTE OF TECHNOLOGY  ·  DEPARTMENT OF COMPUTER ENGINEERING P4 · PROJECT PLANNING
+Project Planning
+A 14-week plan from requirements to demo.
+GROUP 18  ·  MINI PROJECT I  ·  2026–27 ODD SEM 11
+Activity Weeks
+Requirements + literature 1–4
+UI + LAN socket prototype 4–7
+PostgreSQL schema + CRUD 5–8
+Authentication + security 8–11
+Chat + group messaging 9–12
+Python Logistic Regression 11–13
+Python Linear Regression 12–14
+Integration + testing 13–14
+Performance + security testing 14
+Report + PPT + demo 14
+TEAM RESPONSIBILITIES
+ARYAN PATIL
+Networking + Java server/client
+MALHAR NIMBALKAR
+DBMS + backend
+AMOGH SIRSIRKAR
+PDS + UI
+
+=== PAGE 11 ===
+SARDAR PATEL INSTITUTE OF TECHNOLOGY  ·  DEPARTMENT OF COMPUTER ENGINEERING P4 · RISKS & VALIDATION
+Risks and Validation
+Phase 1 defines measurable acceptance criteria before implementation begins.
+GROUP 18  ·  MINI PROJECT I  ·  2026–27 ODD SEM 12
+Risk Mitigation / validation
+LAN discovery fails Use fixed server IP / configurable discovery as fallback; test across multiple hosts.
+Database bottleneck Use indexed message tables, prepared statements and pagination for history.
+Security claim is too broad Clearly separate transport security, credential security and message-storage security.
+Classifier false positives Report probability + threshold; allow user feedback and evaluate precision/recall.
+Linear model is weak Use it only for a measurable short-term metric and report MAE/RMSE honestly.
+Python–Java integration adds latency Run inference locally and exchange compact JSON requests/responses.
+
+=== PAGE 12 ===
+SARDAR PATEL INSTITUTE OF TECHNOLOGY  ·  DEPARTMENT OF COMPUTER ENGINEERING REFERENCES
+References
+Research papers, related systems and source material. Numbering used throughout the literature-survey slides.
+GROUP 18  ·  MINI PROJECT I  ·  2026–27 ODD SEM 13
+[1] C. Johansen, A. Mujaj, H. Arshad, J. Noll, “The Snowden Phone: A Comparative Survey of 
+Secure Instant Messaging Mobile Applications,” Security and Communication Networks, 2021. 
+DOI: 10.1155/2021/9965573.
+[2] B. K. Dedeturk, B. Akay, “Spam filtering using a logistic regression model trained by an artificial 
+bee colony algorithm,” Applied Soft Computing, 91, 106229, 2020. DOI: 
+10.1016/j.asoc.2020.106229.
+[3] BeeBEEP, “Free Office Messenger” - LAN/P2P messaging, AES-based encryption, file sharing 
+and message history. Official project documentation, accessed 2026.
+[4] IP Messenger, “LAN Message Communication Software” TCP/UDP, RSA-2048 + AES-256 + 
+SHA-256, file transfer. Official documentation, accessed 2026.
+[5] Kurose, J. F. and Ross, K. W. , Computer Networking : A Top Down Approach 8th Ed, Pearson 
+2021
+[6] K. G. Paterson, M. Scarlata, K. T. Truong, “Three Lessons From Threema: Analysis of a Secure 
+Messenger,” 32nd USENIX Security Symposium, 2023, pp. 1289–1306.
+

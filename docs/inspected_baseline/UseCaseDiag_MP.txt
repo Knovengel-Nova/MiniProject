@@ -1,0 +1,140 @@
+FILE: Phase 2\UseCaseDiag_MP.drawio
+
+<mxfile host="app.diagrams.net" agent="Claude">
+  <diagram name="Use Case Diagram - LAN Secure Chat" id="Use_Case_Diagram_-_LAN_Secure_Chat">
+    <mxGraphModel dx="1585" dy="2333" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1400" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title" parent="1" style="text;html=1;fontSize=18;fontStyle=1;align=left;" value="LAN-Based Secure Chatting Application – Use Case Diagram" vertex="1">
+          <mxGeometry height="30" width="535" x="330" y="-20" as="geometry" />
+        </mxCell>
+        <mxCell id="boundary" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fontSize=14;align=center;fillColor=none;strokeColor=#000000;" value="LAN Secure Chat System" vertex="1">
+          <mxGeometry height="900" width="760" x="220" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ucRegister" parent="boundary" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=12;" value="Register" vertex="1">
+          <mxGeometry height="60" width="160" x="300" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ucLogin" parent="boundary" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=12;" value="Login" vertex="1">
+          <mxGeometry height="60" width="160" x="300" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="ucConnect" parent="boundary" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=12;" value="Connect to LAN Server" vertex="1">
+          <mxGeometry height="60" width="160" x="300" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="ucViewOnline" parent="boundary" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=12;" value="View Online Users" vertex="1">
+          <mxGeometry height="60" width="160" x="300" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="ucSend" parent="boundary" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=12;" value="Send Private Message" vertex="1">
+          <mxGeometry height="60" width="160" x="300" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="ucReceive" parent="boundary" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=12;" value="Receive Private Message" vertex="1">
+          <mxGeometry height="60" width="160" x="300" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="ucHistory" parent="boundary" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=12;" value="View Chat History" vertex="1">
+          <mxGeometry height="60" width="160" x="300" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="ucLogout" parent="boundary" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=12;" value="Logout" vertex="1">
+          <mxGeometry height="60" width="160" x="300" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="ucCheckUnique" parent="boundary" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=12;" value="Check Username Uniqueness" vertex="1">
+          <mxGeometry height="60" width="170" x="560" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ucVerifyCred" parent="boundary" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=12;" value="Verify Credentials (Hash Check)" vertex="1">
+          <mxGeometry height="60" width="170" x="560" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="ucLoginError" parent="boundary" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=12;" value="Display Login Error" vertex="1">
+          <mxGeometry height="60" width="170" x="560" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="ucPersistMsg" parent="boundary" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=12;" value="Persist Message" vertex="1">
+          <mxGeometry height="60" width="170" x="560" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="ucClassifyMsg" parent="boundary" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=12;" value="Classify Message (Spam / Misleading)" vertex="1">
+          <mxGeometry height="60" width="170" x="560" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="ucQueryHistory" parent="boundary" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=12;" value="Query Message History" vertex="1">
+          <mxGeometry height="60" width="170" x="560" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="ucValidateInput" parent="boundary" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;fontSize=12;" value="Validate Message Input" vertex="1">
+          <mxGeometry height="60" width="170" x="560" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="e13" edge="1" parent="boundary" source="ucLoginError" style="endArrow=open;endFill=0;dashed=1;html=1;fontSize=10;fontStyle=2;entryX=0.729;entryY=0.926;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.077;exitY=0.28;exitDx=0;exitDy=0;exitPerimeter=0;" target="ucLogin" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" x="-0.0548" y="-3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="actorUser" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#ffffff;strokeColor=#000000;" value="Registered User" vertex="1">
+          <mxGeometry height="80" width="40" x="40" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="actorPDS" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#ffffff;strokeColor=#000000;" value="PDS Module (Python)" vertex="1">
+          <mxGeometry height="80" width="40" x="1150" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="actorDB" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#ffffff;strokeColor=#000000;" value="PostgreSQL Database" vertex="1">
+          <mxGeometry height="80" width="40" x="1150" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="e3" edge="1" parent="1" source="actorUser" style="endArrow=none;html=1;fontSize=11;" target="ucRegister">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e4" edge="1" parent="1" source="actorUser" style="endArrow=none;html=1;fontSize=11;" target="ucLogin">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e5" edge="1" parent="1" source="actorUser" style="endArrow=none;html=1;fontSize=11;" target="ucConnect">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e6" edge="1" parent="1" source="actorUser" style="endArrow=none;html=1;fontSize=11;" target="ucViewOnline">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e7" edge="1" parent="1" source="actorUser" style="endArrow=none;html=1;fontSize=11;" target="ucSend">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e8" edge="1" parent="1" source="actorUser" style="endArrow=none;html=1;fontSize=11;" target="ucReceive">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e9" edge="1" parent="1" source="actorUser" style="endArrow=none;html=1;fontSize=11;" target="ucHistory">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e10" edge="1" parent="1" source="actorUser" style="endArrow=none;html=1;fontSize=11;" target="ucLogout">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e11" edge="1" parent="1" source="ucRegister" style="endArrow=open;endFill=0;dashed=1;html=1;fontSize=10;fontStyle=2;" target="ucCheckUnique" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e12" edge="1" parent="1" source="ucLogin" style="endArrow=open;endFill=0;dashed=1;html=1;fontSize=10;fontStyle=2;" target="ucVerifyCred" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e14" edge="1" parent="1" source="ucSend" style="endArrow=open;endFill=0;dashed=1;html=1;fontSize=10;fontStyle=2;" target="ucValidateInput" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" x="0.0048" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e15" edge="1" parent="1" source="ucSend" style="endArrow=open;endFill=0;dashed=1;html=1;fontSize=10;fontStyle=2;" target="ucPersistMsg" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e16" edge="1" parent="1" source="ucSend" style="endArrow=open;endFill=0;dashed=1;html=1;fontSize=10;fontStyle=2;" target="ucClassifyMsg" value="&lt;&lt;include&gt;&gt;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pjxqLsgi9LQ1bMk2suhD-1" connectable="0" parent="e16" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.0943" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e17" edge="1" parent="1" source="ucHistory" style="endArrow=open;endFill=0;dashed=1;html=1;fontSize=10;fontStyle=2;" target="ucQueryHistory" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e18" edge="1" parent="1" source="ucClassifyMsg" style="endArrow=none;html=1;fontSize=11;" target="actorPDS">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e19" edge="1" parent="1" source="ucPersistMsg" style="endArrow=none;html=1;fontSize=11;" target="actorDB">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e20" edge="1" parent="1" source="ucQueryHistory" style="endArrow=none;html=1;fontSize=11;" target="actorDB">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e21" edge="1" parent="1" source="ucVerifyCred" style="endArrow=none;html=1;fontSize=11;" target="actorDB">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

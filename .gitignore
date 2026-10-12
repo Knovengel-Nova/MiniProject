@@ -1,0 +1,52 @@
+# ============================================================================
+# LAN Secure Chat - .gitignore
+# ============================================================================
+
+# Maven Build Artifacts
+target/
+**/target/
+*.class
+
+# Package Files
+*.war
+*.ear
+*.nar
+
+# Python Cache & Bytecode
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+
+# IDE & Editor Metadata
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+*.sublime-project
+*.sublime-workspace
+.project
+.classpath
+.settings/
+bin/
+
+# OS Temporary Files
+.DS_Store
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Runtime Logs
+*.log
+logs/
